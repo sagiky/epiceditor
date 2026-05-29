@@ -13,8 +13,8 @@ RUN mkdir -p defaults
 # 2. Download the files directly into the defaults folder.
 # CRITICAL: If your repo is private, GitHub links will cause an 'exit code: 8' crash. 
 # Use Dropbox links ending in ?dl=1 if your repo is private!
-RUN wget -q -O defaults/Epic.ipa "https://github.com/sagiky/ABEpicOnlineEditor/releases/download/almost-default/Epic.ipa"
-RUN wget -q -O defaults/Epic.apk "https://github.com/sagiky/ABEpicOnlineEditor/releases/download/default/Epic.apk"
+RUN wget -q -O defaults/Epic.ipa "https://github.com/sagiky/epiceditor/releases/download/almost-default/Epic.ipa"
+RUN wget -q -O defaults/Epic.apk "https://github.com/sagiky/epiceditor/releases/download/default/Epic.apk"
 
 # Install Python deps
 COPY requirements.txt .
