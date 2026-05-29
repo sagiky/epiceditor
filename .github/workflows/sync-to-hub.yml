@@ -10,25 +10,33 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          lfs: true
 
       - name: Push to Hugging Face Spaces
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          # 1. Standart Git kimliklerini tanımlayın
+          # 1. Büyük dosyayı ve istemediğimiz araçları çalışma dizininden kesin olarak silin
+          rm -f apktool.jar
+          rm -rf abe_multitool
+          rm -f uber-apk-signer*.jar
+          
+          # 2. Mevcut .git geçmişini tamamen silip temiz bir Git alanı başlatın (CRITICAL)
+          # Bu sayede geçmişteki hiçbir büyük dosya Hugging Face'e taşınmaz
+          rm -rf .git
+          git init -b main
+          
+          # 3. Git kimliklerini tanımlayın
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           
-          # 2. Şifresiz güvenli kimlik doğrulama ayarı (CRITICAL)
-          # Hugging Face'in artık zorunlu kıldığı güvenli token metodunu tanımlıyoruz
+          # 4. Kalan tüm temiz kod dosyalarını sahneye ekleyin ve ilk commit'i oluşturun
+          git add .
+          git commit -m "Deploy app from GitHub Actions"
+          
+          # 5. Güvenli kimlik doğrulama ayarını yapın
           git config --global credential.helper store
           echo "https://sagiky:$HF_TOKEN@huggingface.co" > ~/.git-credentials
           
-          # 3. Temiz ve şifresiz URL ile uzak depoyu ekleyin
+          # 6. Uzak depoyu ekleyip zorlayarak (force push) tertemiz yükleyin
           git remote add hf https://huggingface.co/spaces/sagiky/epiceditor
-          
-          # 4. Değişiklikleri zorlayarak (force) yükleyin
           git push --force hf main
