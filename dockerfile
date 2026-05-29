@@ -1,6 +1,6 @@
 FROM python:3.12-slim
 
-# Install Java (for apktool + uber-apk-signer)
+# Install Java (for apktool + uber-apk-signer).
 RUN apt-get update && \
     apt-get install -y default-jre-headless && \
     rm -rf /var/lib/apt/lists/*
