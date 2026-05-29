@@ -1,18 +1,22 @@
 FROM python:3.12-slim
 
-# Install Java, wget (to download your big files), and clean up
+# Install Java, wget, and clean up
 RUN apt-get update && \
     apt-get install -y default-jre-headless wget && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
-# Download BOTH massive files directly into the container.
-# IMPORTANT: Replace these URLs with your actual direct download links!
-RUN wget -q -O Epic.ipa "https://github.com/sagiky/ABEpicOnlineEditor/releases/download/almost-default/Epic.ipa"
-RUN wget -q -O Epic.apk "https://github.com/sagiky/ABEpicOnlineEditor/releases/download/default/Epic.apk"
+# 1. Create the defaults folder so the Python script can find the files
+RUN mkdir -p defaults
 
-# Install Python deps (Make sure 'gunicorn' is added to your requirements.txt!)
+# 2. Download the files directly into the defaults folder.
+# CRITICAL: If your repo is private, GitHub links will cause an 'exit code: 8' crash. 
+# Use Dropbox links ending in ?dl=1 if your repo is private!
+RUN wget -q -O defaults/Epic.ipa "https://github.com/sagiky/ABEpicOnlineEditor/releases/download/almost-default/Epic.ipa"
+RUN wget -q -O defaults/Epic.apk "https://github.com/sagiky/ABEpicOnlineEditor/releases/download/default/Epic.apk"
+
+# Install Python deps
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
