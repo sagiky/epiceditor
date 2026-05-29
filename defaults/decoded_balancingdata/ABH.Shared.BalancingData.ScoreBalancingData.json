@@ -1,0 +1,27 @@
+{
+  "scoreData": [
+    {
+      "nameId": "default_score",
+      "scorePerStarNeeded": 15000,
+      "scoreForAllFullBirds": 30000,
+      "scoreForAllFullPigs": 30000,
+      "pigScoreLossPerTurnInPercent": 5,
+      "minimumBirdScoreInPercent": 50,
+      "minimumPigScoreInPercent": 25,
+      "scorePerStrengthPoint32": 2000,
+      "scorePerBird": 10000,
+      "scoreForBannerDefeated": 15000,
+      "maxPvpBirdDefeatsCounted": 8,
+      "scoreForPvpBirdDefeated": 2000,
+      "scorePerStarNeededPvp": 15000,
+      "maxScoreForBannerSurvive": 30000,
+      "powerLevelFactorForDamage": 250,
+      "powerLevelFactorPerSetItemBird": 5,
+      "powerLevelFactorForCompleteSetBird": 15,
+      "powerLevelFactorPerSetItemBanner": 2,
+      "powerLevelFactorForCompleteSetBanner": 8,
+      "powerLevelDivideEndValue": 20,
+      "pigPowerLevelDivideValue": 20
+    }
+  ]
+}

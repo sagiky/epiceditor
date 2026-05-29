@@ -1,0 +1,2266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AB Epic Patcher</title>
+<script src="https://cdn.jsdelivr.net/npm/monaco-editor@0.45.0/min/vs/loader.min.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+    --bg-primary: #070709;
+    --bg-card: #131416;
+    --bg-input: #070709;
+    --bg-hover: #1f1f3a;
+    --border: ##242426;
+    --border-hover: #e94560;
+    --text-primary: #eee;
+    --text-secondary: #ccc;
+    --text-muted: #888;
+    --text-faint: #666;
+    --accent: #5561f0;
+    --accent-hover: #c73e54;
+    --btn-secondary: #0f3460;
+    --btn-secondary-hover: #1a4fa3;
+    --success-bg: #1b4332;
+    --success-text: #95d5b2;
+    --error-bg: #3d0000;
+    --error-text: #ff6b6b;
+    --warning-bg: #332700;
+    --warning-border: #665200;
+    --warning-text: #ffd166;
+    --blocked-bg: #1a0e0e;
+    --blocked-border: #6a2a2a;
+    --reset-bg: #4a1a1a;
+    --reset-bg-hover: #6a2a2a;
+    --reset-border: #6a2a2a;
+    --reset-text: #ff6b6b;
+    --shadow: rgba(0, 0, 0, 0.4);
+    --code-bg: #16213e;
+    --highlight-bg: linear-gradient(135deg, #070709, #1f1a14);
+    --highlight-border: #665200;
+}
+
+[data-theme="light"] {
+    --bg-primary: #f0f0f5;
+    --bg-card: #ffffff;
+    --bg-input: #f5f5fa;
+    --bg-hover: #e8e8f0;
+    --border: #d0d0dd;
+    --border-hover: #e94560;
+    --text-primary: #1a1a2e;
+    --text-secondary: #333;
+    --text-muted: #666;
+    --text-faint: #999;
+    --accent: #e94560;
+    --accent-hover: #c73e54;
+    --btn-secondary: #e0e0ea;
+    --btn-secondary-hover: #c8c8d8;
+    --success-bg: #e6f4ea;
+    --success-text: #1b7a3d;
+    --error-bg: #fde8e8;
+    --error-text: #c0392b;
+    --warning-bg: #fff8e6;
+    --warning-border: #e6c200;
+    --warning-text: #8a6d00;
+    --blocked-bg: #fde8e8;
+    --blocked-border: #e0a0a0;
+    --reset-bg: #fde8e8;
+    --reset-bg-hover: #f5c6c6;
+    --reset-border: #e0a0a0;
+    --reset-text: #c0392b;
+    --shadow: rgba(0, 0, 0, 0.1);
+    --code-bg: #f0f0f5;
+    --highlight-bg: linear-gradient(135deg, #fff8e6, #fffdf5);
+    --highlight-border: #e6c200;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    min-height: 100vh;
+    padding: 20px;
+    transition: background 0.3s, color 0.3s;
+}
+.container { max-width: 900px; margin: 0 auto; }
+h1 { text-align: center; color: var(--accent); margin: 20px 0; font-size: 1.8em; }
+.subtitle { text-align: center; color: var(--text-muted); margin-bottom: 20px; }
+
+.defaults-info {
+    background: var(--bg-card);
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    word-break: break-word;
+}
+.defaults-info b { color: var(--accent); display: block; margin-bottom: 6px; }
+
+.tabs { display: flex; gap: 5px; margin-bottom: 20px; flex-wrap: wrap; }
+.tab {
+    padding: 10px 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    cursor: pointer;
+    color: var(--text-muted);
+    flex: 1;
+    min-width: 100px;
+    text-align: center;
+    transition: all 0.2s;
+    font-size: 0.9em;
+}
+.tab:hover { color: var(--text-secondary); }
+.tab.active { background: var(--accent); color: white; border-color: var(--accent); }
+
+.card {
+    background: var(--bg-card);
+    border-radius: 12px;
+    padding: 25px;
+    border: 1px solid var(--border);
+    position: relative;
+}
+.card-desc { color: var(--text-muted); font-size: 0.9em; margin-bottom: 15px; }
+.card-desc code {
+    background: var(--bg-input);
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: var(--accent);
+    font-size: 0.85em;
+    word-break: break-all;
+}
+
+label { display: block; margin: 12px 0 6px; color: var(--text-secondary); }
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg-input);
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    min-height: 44px;
+}
+.checkbox-label:hover { border-color: var(--border-hover); }
+
+input[type="file"], select, input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-size: 1em;
+    min-height: 44px;
+}
+input[type="checkbox"] { width: 20px; height: 20px; margin: 0; }
+
+button {
+    width: 100%;
+    padding: 14px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.05em;
+    cursor: pointer;
+    margin-top: 20px;
+    font-weight: bold;
+    transition: background 0.2s;
+    min-height: 44px;
+}
+button:hover { background: var(--accent-hover); }
+.btn-secondary { background: var(--btn-secondary) !important; color: var(--text-primary) !important; }
+.btn-secondary:hover { background: var(--btn-secondary-hover) !important; }
+
+.status { margin-top: 15px; padding: 12px; border-radius: 8px; display: none; white-space: pre-wrap; word-break: break-word; }
+.status.success { display: block; background: var(--success-bg); color: var(--success-text); }
+.status.error { display: block; background: var(--error-bg); color: var(--error-text); }
+.status.loading { display: block; background: var(--bg-input); color: var(--warning-text); border: 1px solid var(--warning-text); }
+
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+.warning {
+    background: var(--warning-bg);
+    border: 1px solid var(--warning-border);
+    color: var(--warning-text);
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    font-size: 0.9em;
+}
+
+.info-box {
+    background: var(--bg-input);
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    margin-top: 12px;
+    color: var(--text-muted);
+    font-size: 0.9em;
+}
+.info-box b { color: var(--accent); }
+.info-box code {
+    background: var(--code-bg);
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: var(--accent);
+    font-size: 0.85em;
+    word-break: break-all;
+}
+
+.section-hidden { display: none; }
+.dl-section { margin-bottom: 20px; }
+.dl-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.dl-header h3 { color: var(--accent); font-size: 1em; }
+.dl-zip-btn {
+    padding: 8px 14px;
+    background: var(--btn-secondary);
+    color: var(--text-primary);
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.85em;
+    transition: background 0.2s;
+    min-height: 36px;
+    display: inline-flex;
+    align-items: center;
+}
+.dl-zip-btn:hover { background: var(--btn-secondary-hover); }
+.dl-list { display: grid; gap: 4px; }
+.dl-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.85em;
+    transition: all 0.2s;
+    gap: 10px;
+    word-break: break-all;
+}
+.dl-item:hover { border-color: var(--border-hover); color: var(--text-primary); }
+.dl-size { color: var(--text-muted); flex-shrink: 0; }
+
+.info-entry {
+    padding: 12px;
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+.info-entry:hover { border-color: var(--border-hover); }
+.info-name { color: var(--accent); font-weight: bold; margin-bottom: 4px; font-size: 0.95em; word-break: break-word; }
+.info-desc { color: var(--text-secondary); font-size: 0.85em; line-height: 1.5; }
+
+.inline-desc {
+    margin-top: 8px;
+    padding: 8px 12px;
+    background: var(--bg-input);
+    border-left: 3px solid var(--accent);
+    border-radius: 4px;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    font-style: italic;
+    display: none;
+}
+.inline-desc.visible { display: block; }
+
+.editor-toolbar { display: flex; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+.editor-toolbar button { margin-top: 0; padding: 12px; font-size: 0.9em; flex: 1; min-width: 110px; }
+
+#monaco-editor {
+    width: 100%;
+    height: 500px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.mode-toggle { display: flex; gap: 8px; margin: 12px 0 6px; }
+.mode-option {
+    flex: 1;
+    padding: 12px;
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    transition: all 0.2s;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mode-option.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+.autosave-indicator { font-size: 0.75em; color: var(--success-text); margin-top: 4px; text-align: right; height: 16px; }
+
+.build-output-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 12px 0; }
+.build-output {
+    padding: 14px;
+    background: var(--bg-input);
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    color: var(--text-muted);
+    transition: all 0.2s;
+    min-height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.build-output:hover { border-color: var(--border-hover); color: var(--text-secondary); }
+.build-output.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.build-output-icon {
+    font-size: 0.9em;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 4px;
+    font-family: 'Consolas', 'Monaco', monospace;
+}
+
+.file-preview {
+    margin: 12px 0;
+    max-height: 200px;
+    overflow-y: auto;
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 0.85em;
+    display: none;
+}
+.file-preview.visible { display: block; }
+.file-preview-item {
+    padding: 6px 8px;
+    color: var(--text-secondary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.file-preview-item > span:first-child { word-break: break-all; flex: 1; min-width: 0; }
+.file-preview-tag { font-size: 0.75em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.file-preview-tag.main { background: #1a4fa3; color: #fff; }
+.file-preview-tag.event { background: #665200; color: #ffd166; }
+.file-preview-tag.locale { background: #1b4332; color: #95d5b2; }
+.file-preview-tag.unknown { background: #3d0000; color: #ff6b6b; }
+.file-preview-tag.bytes { background: #4a4a4a; color: #eee; }
+
+.input-source-toggle { display: flex; gap: 8px; margin: 12px 0 6px; }
+.input-source-option {
+    flex: 1;
+    padding: 14px;
+    background: var(--bg-input);
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    color: var(--text-muted);
+    transition: all 0.2s;
+    min-height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.input-source-option:hover { border-color: var(--border-hover); color: var(--text-secondary); }
+.input-source-option.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.input-source-icon { font-size: 1.3em; display: block; margin-bottom: 4px; }
+
+.reset-btn {
+    background: var(--reset-bg) !important;
+    color: var(--reset-text) !important;
+    border: 1px solid var(--reset-border) !important;
+}
+.reset-btn:hover { background: var(--reset-bg-hover) !important; }
+
+/* drag and drop */
+.drop-zone {
+    position: relative;
+    border: 2px dashed var(--border);
+    border-radius: 8px;
+    padding: 30px 16px;
+    text-align: center;
+    background: var(--bg-input);
+    cursor: pointer;
+    transition: all 0.2s;
+    color: var(--text-muted);
+    min-height: 120px;
+}
+.drop-zone:hover { border-color: var(--border-hover); color: var(--text-secondary); background: var(--bg-hover); }
+.drop-zone.dragging { border-color: var(--accent); background: var(--bg-hover); color: var(--accent); transform: scale(1.01); }
+.drop-zone-text { font-size: 0.9em; margin-bottom: 4px; }
+.drop-zone-hint { font-size: 0.75em; color: var(--text-faint); }
+.drop-zone input[type="file"] { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+.drop-zone-filenames { margin-top: 10px; font-size: 0.8em; color: var(--success-text); word-break: break-all; }
+.drop-zone-small { padding: 16px 12px; min-height: 90px; }
+
+/* modal */
+.modal-backdrop {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.modal-backdrop.visible { display: flex; }
+.modal {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    width: 100%;
+    max-width: 1200px;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+    gap: 10px;
+}
+.modal-title { color: var(--accent); font-weight: bold; font-size: 1.1em; }
+.modal-close {
+    background: transparent !important;
+    color: var(--text-muted) !important;
+    width: auto !important;
+    padding: 4px 12px !important;
+    margin: 0 !important;
+    font-size: 1.4em !important;
+    border: none !important;
+    min-height: auto !important;
+}
+.modal-close:hover { color: var(--text-primary) !important; }
+.modal-body { flex: 1; padding: 16px; overflow: hidden; }
+#diff-editor { width: 100%; height: 100%; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.modal-footer {
+    padding: 12px 20px;
+    border-top: 1px solid var(--border);
+    font-size: 0.85em;
+    color: var(--text-muted);
+    text-align: center;
+}
+
+/* toasts */
+#toast-container {
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    z-index: 2000;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    pointer-events: none;
+    max-width: 400px;
+}
+.toast {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--text-muted);
+    border-radius: 8px;
+    padding: 14px 16px;
+    color: var(--text-primary);
+    font-size: 0.9em;
+    box-shadow: 0 4px 12px var(--shadow);
+    pointer-events: auto;
+    animation: toastSlideIn 0.3s ease-out;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    word-break: break-word;
+    cursor: pointer;
+    transition: transform 0.2s, opacity 0.2s;
+}
+.toast:hover { transform: translateX(-4px); }
+.toast.removing { animation: toastSlideOut 0.3s ease-in forwards; }
+.toast.success { border-left-color: var(--success-text); }
+.toast.error { border-left-color: var(--error-text); }
+.toast.info { border-left-color: var(--warning-text); }
+.toast-content { flex: 1; white-space: pre-wrap; }
+.toast-close { color: var(--text-faint); cursor: pointer; font-size: 1.1em; flex-shrink: 0; padding: 0 4px; }
+.toast-close:hover { color: var(--text-primary); }
+
+@keyframes toastSlideIn {
+    from { transform: translateX(110%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+@keyframes toastSlideOut {
+    from { transform: translateX(0); opacity: 1; }
+    to { transform: translateX(110%); opacity: 0; }
+}
+
+/* collapsible */
+.collapsible-section {
+    margin-top: 16px;
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+}
+.collapsible-section.highlight {
+    border-color: var(--highlight-border);
+    background: var(--highlight-bg);
+}
+.collapsible-header {
+    padding: 14px 16px;
+    cursor: pointer;
+    user-select: none;
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background 0.2s;
+    min-height: 48px;
+    font-weight: 500;
+}
+.collapsible-header:hover { background: var(--bg-hover); color: var(--text-primary); }
+.collapsible-arrow { display: inline-block; transition: transform 0.2s; color: var(--accent); }
+.collapsible-arrow.open { transform: rotate(90deg); }
+.collapsible-body { display: none; padding: 16px; border-top: 1px solid var(--border); }
+.collapsible-body.open { display: block; }
+
+.icon-preview {
+    margin-top: 10px;
+    display: none;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+}
+.icon-preview.visible { display: flex; }
+.icon-preview img { width: 64px; height: 64px; border-radius: 12px; object-fit: cover; border: 1px solid var(--border); }
+.icon-preview-text { flex: 1; color: var(--text-muted); font-size: 0.85em; }
+.icon-preview-text b { color: var(--success-text); }
+
+/* blocked field */
+.blocked-field {
+    background: var(--blocked-bg);
+    border: 1px dashed var(--blocked-border);
+    border-radius: 8px;
+    padding: 14px;
+    color: var(--text-muted);
+    font-size: 0.85em;
+    opacity: 0.85;
+    line-height: 1.4;
+}
+.blocked-field b { color: var(--error-text); }
+
+/* workflow guide */
+.workflow-guide {
+    background: var(--highlight-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px;
+    margin-bottom: 18px;
+    overflow: hidden;
+}
+.workflow-shortcut-btn {
+    width: 100%;
+    padding: 12px;
+    background: var(--btn-secondary) !important;
+    color: var(--text-primary) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: 600;
+    margin: 0;
+    min-height: 44px;
+    transition: all 0.2s;
+}
+.workflow-shortcut-btn:hover { background: var(--btn-secondary-hover) !important; transform: translateY(-1px); }
+
+/* help button */
+.help-btn {
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    width: 32px;
+    height: 32px;
+    min-height: 32px;
+    padding: 0;
+    margin: 0;
+    border-radius: 50%;
+    background: var(--btn-secondary);
+    color: var(--text-primary);
+    border: 1px solid var(--border);
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    z-index: 5;
+}
+.help-btn.visible { display: flex; }
+.help-btn:hover { background: var(--btn-secondary-hover); transform: scale(1.05); }
+
+/* theme toggle wrapper */
+.theme-toggle-wrapper {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 3000;
+    padding: 8px;
+    background: var(--bg-card);
+    border-radius: 50px;
+    border: 1px solid var(--border);
+    box-shadow: 0 2px 8px var(--shadow);
+}
+
+/* uiverse switch */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+.switch #theme-input { opacity: 0; width: 0; height: 0; }
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2196f3;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    z-index: 0;
+    overflow: hidden;
+}
+.sun-moon {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: yellow;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+#theme-input:checked + .slider { background-color: black; }
+#theme-input:focus + .slider { box-shadow: 0 0 1px #2196f3; }
+#theme-input:checked + .slider .sun-moon {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+    background-color: white;
+    -webkit-animation: rotate-center 0.6s ease-in-out both;
+    animation: rotate-center 0.6s ease-in-out both;
+}
+.moon-dot { opacity: 0; transition: 0.4s; fill: gray; }
+#theme-input:checked + .slider .sun-moon .moon-dot { opacity: 1; }
+.slider.round { border-radius: 34px; }
+.slider.round .sun-moon { border-radius: 50%; }
+
+#moon-dot-1 { left: 10px; top: 3px; position: absolute; width: 6px; height: 6px; z-index: 4; }
+#moon-dot-2 { left: 2px; top: 10px; position: absolute; width: 10px; height: 10px; z-index: 4; }
+#moon-dot-3 { left: 16px; top: 18px; position: absolute; width: 3px; height: 3px; z-index: 4; }
+
+#light-ray-1 { left: -8px; top: -8px; position: absolute; width: 43px; height: 43px; z-index: -1; fill: white; opacity: 10%; }
+#light-ray-2 { left: -50%; top: -50%; position: absolute; width: 55px; height: 55px; z-index: -1; fill: white; opacity: 10%; }
+#light-ray-3 { left: -18px; top: -18px; position: absolute; width: 60px; height: 60px; z-index: -1; fill: white; opacity: 10%; }
+
+.cloud-light {
+    position: absolute;
+    fill: #eee;
+    animation-name: cloud-move;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+.cloud-dark {
+    position: absolute;
+    fill: #ccc;
+    animation-name: cloud-move;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+}
+#cloud-1 { left: 30px; top: 15px; width: 40px; }
+#cloud-2 { left: 44px; top: 10px; width: 20px; }
+#cloud-3 { left: 18px; top: 24px; width: 30px; }
+#cloud-4 { left: 36px; top: 18px; width: 40px; }
+#cloud-5 { left: 48px; top: 14px; width: 20px; }
+#cloud-6 { left: 22px; top: 26px; width: 30px; }
+
+@keyframes cloud-move {
+    0% { transform: translateX(0px); }
+    40% { transform: translateX(4px); }
+    80% { transform: translateX(-4px); }
+    100% { transform: translateX(0px); }
+}
+
+.stars { transform: translateY(-32px); opacity: 0; transition: 0.4s; }
+.star {
+    fill: white;
+    position: absolute;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    animation-name: star-twinkle;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+#theme-input:checked + .slider .stars {
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+#star-1 { width: 20px; top: 2px; left: 3px; animation-delay: 0.3s; }
+#star-2 { width: 6px; top: 16px; left: 3px; }
+#star-3 { width: 12px; top: 20px; left: 10px; animation-delay: 0.6s; }
+#star-4 { width: 18px; top: 0px; left: 18px; animation-delay: 1.3s; }
+
+@keyframes star-twinkle {
+    0% { transform: scale(1); }
+    40% { transform: scale(1.2); }
+    80% { transform: scale(0.8); }
+    100% { transform: scale(1); }
+}
+
+@keyframes rotate-center {
+    0% { transform: translateX(26px) rotate(0deg); }
+    100% { transform: translateX(26px) rotate(360deg); }
+}
+
+/* mobile */
+@media (max-width: 768px) {
+    body { padding: 10px; }
+    h1 { font-size: 1.4em; margin: 10px 0; }
+    .subtitle { font-size: 0.85em; margin-bottom: 15px; }
+    .container { padding: 0; }
+    .tabs { gap: 4px; }
+    .tab { font-size: 0.8em; padding: 10px 8px; min-width: 80px; flex: 1 1 calc(50% - 4px); }
+    .card { padding: 16px; border-radius: 10px; }
+    .defaults-info { padding: 10px 12px; font-size: 0.8em; }
+    .build-output-grid { grid-template-columns: 1fr; gap: 6px; }
+    .build-output { min-height: 60px; flex-direction: row; gap: 12px; padding: 12px; }
+    .build-output-icon { margin-bottom: 0; }
+    .input-source-toggle { flex-direction: column; }
+    .input-source-option { min-height: 60px; flex-direction: row; gap: 12px; padding: 12px; }
+    .input-source-icon { margin-bottom: 0; }
+    .mode-toggle { flex-direction: column; }
+    .editor-toolbar { flex-direction: column; }
+    .editor-toolbar button { min-width: auto; }
+    #monaco-editor { height: 350px; }
+    .drop-zone { padding: 24px 12px; min-height: 110px; }
+    .dl-header { flex-direction: column; align-items: stretch; }
+    .dl-header h3 { font-size: 0.95em; }
+    .modal-backdrop { padding: 0; }
+    .modal { border-radius: 0; height: 100vh; max-height: 100vh; }
+    .modal-header { padding: 12px 16px; }
+    .modal-title { font-size: 1em; }
+    .modal-body { padding: 8px; }
+    .modal-footer { font-size: 0.75em; padding: 10px 12px; }
+    #toast-container { top: 70px; right: 10px; left: 10px; max-width: none; }
+    .toast { font-size: 0.85em; padding: 12px 14px; }
+    .workflow-guide { padding: 14px; }
+    .help-btn { top: 12px; right: 12px; width: 28px; height: 28px; min-height: 28px; }
+
+    /* shrink theme toggle on mobile */
+    .theme-toggle-wrapper { top: 10px; right: 10px; padding: 6px; }
+    .theme-toggle-wrapper .switch { width: 52px; height: 30px; }
+    .theme-toggle-wrapper .sun-moon { height: 22px; width: 22px; }
+    .theme-toggle-wrapper #theme-input:checked + .slider .sun-moon { transform: translateX(22px); }
+    @keyframes rotate-center {
+        0% { transform: translateX(22px) rotate(0deg); }
+        100% { transform: translateX(22px) rotate(360deg); }
+    }
+}
+
+@media (max-width: 480px) {
+    .tab { flex: 1 1 100%; }
+    button { padding: 14px 12px; }
+    label { font-size: 0.9em; }
+    .info-box { font-size: 0.8em; padding: 10px; }
+    #monaco-editor { height: 300px; }
+}
+
+.mobile-editor-notice {
+    display: none;
+    background: var(--warning-bg);
+    border: 1px solid var(--warning-border);
+    color: var(--warning-text);
+    padding: 10px 12px;
+    border-radius: 8px;
+    font-size: 0.8em;
+    margin-bottom: 10px;
+}
+@media (max-width: 768px) {
+    .mobile-editor-notice { display: block; }
+}
+</style>
+<script>
+// apply saved theme before paint to prevent flash
+(function() {
+    const saved = localStorage.getItem("abe_patcher_theme") || "dark";
+    if (saved === "light") {
+        document.documentElement.setAttribute("data-theme", "light");
+    }
+})();
+</script>
+</head>
+<body>
+
+<div class="theme-toggle-wrapper">
+    <label class="switch">
+        <input id="theme-input" type="checkbox" onchange="toggleTheme()" />
+        <div class="slider round">
+            <div class="sun-moon">
+                <svg id="moon-dot-1" class="moon-dot" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="moon-dot-2" class="moon-dot" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="moon-dot-3" class="moon-dot" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="light-ray-1" class="light-ray" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="light-ray-2" class="light-ray" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="light-ray-3" class="light-ray" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="cloud-1" class="cloud-dark" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="cloud-2" class="cloud-dark" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="cloud-3" class="cloud-dark" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="cloud-4" class="cloud-light" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="cloud-5" class="cloud-light" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+                <svg id="cloud-6" class="cloud-light" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50"></circle></svg>
+            </div>
+            <div class="stars">
+                <svg id="star-1" class="star" viewBox="0 0 20 20"><path d="M 0 10 C 10 10,10 10 ,0 10 C 10 10 , 10 10 , 10 20 C 10 10 , 10 10 , 20 10 C 10 10 , 10 10 , 10 0 C 10 10,10 10 ,0 10 Z"></path></svg>
+                <svg id="star-2" class="star" viewBox="0 0 20 20"><path d="M 0 10 C 10 10,10 10 ,0 10 C 10 10 , 10 10 , 10 20 C 10 10 , 10 10 , 20 10 C 10 10 , 10 10 , 10 0 C 10 10,10 10 ,0 10 Z"></path></svg>
+                <svg id="star-3" class="star" viewBox="0 0 20 20"><path d="M 0 10 C 10 10,10 10 ,0 10 C 10 10 , 10 10 , 10 20 C 10 10 , 10 10 , 20 10 C 10 10 , 10 10 , 10 0 C 10 10,10 10 ,0 10 Z"></path></svg>
+                <svg id="star-4" class="star" viewBox="0 0 20 20"><path d="M 0 10 C 10 10,10 10 ,0 10 C 10 10 , 10 10 , 10 20 C 10 10 , 10 10 , 20 10 C 10 10 , 10 10 , 10 0 C 10 10,10 10 ,0 10 Z"></path></svg>
+            </div>
+        </div>
+    </label>
+</div>
+
+<div class="container">
+    <h1>AB Epic Patcher</h1>
+    <p class="subtitle">localhost</p>
+
+    <div id="defaults-info" class="defaults-info">Loading server defaults...</div>
+
+    <div class="tabs">
+        <div class="tab active" onclick="switchTab(event, 'build')">Build</div>
+        <div class="tab" onclick="switchTab(event, 'editor')">Editor</div>
+        <div class="tab" onclick="switchTab(event, 'downloads')">Downloads</div>
+        <div class="tab" onclick="switchTab(event, 'info')">Info</div>
+    </div>
+
+    <!-- build -->
+    <div id="tab-build" class="tab-content active">
+        <div class="card">
+            <button class="help-btn" id="help-btn" onclick="showWorkflowGuide()" title="Show guide">?</button>
+
+            <div class="workflow-guide" id="workflow-guide">
+                <p class="card-desc" style="margin-bottom:12px;">Edit files in the <b>Editor</b> tab, save as JSON, then drop them here to build.</p>
+                <button class="workflow-shortcut-btn" onclick="goToEditor()">Open Editor</button>
+            </div>
+
+            <label>Input Type</label>
+            <div class="input-source-toggle">
+                <div class="input-source-option active" data-src="json" onclick="setBuildSource('json')">
+                    <span class="input-source-icon"></span>
+                    Mod JSON files
+                </div>
+                <div class="input-source-option" data-src="bytes" onclick="setBuildSource('bytes')">
+                    <span class="input-source-icon"></span>
+                    Patched .bytes files
+                </div>
+            </div>
+
+            <div id="build-json-section">
+                <label>Your edited JSON files (main / event / locale)</label>
+                <div class="drop-zone" id="build-json-dropzone">
+                    <div class="drop-zone-text">Drop JSON files here or click to browse</div>
+                    <div class="drop-zone-filenames" id="build-json-filenames"></div>
+                    <input type="file" id="build-mods-json" accept=".json" multiple>
+                </div>
+
+                <label>Combine mode</label>
+                <div class="mode-toggle">
+                    <div class="mode-option active" data-mode="merge" onclick="setBuildMode('merge')">Merge</div>
+                    <div class="mode-option" data-mode="replace" onclick="setBuildMode('replace')">Replace</div>
+                </div>
+                <div class="info-box" style="font-size:0.8em;">
+                    <b>Merge:</b> Your entries override or add to the originals. (Recommended).<br>
+                    <b>Replace:</b> Your JSON becomes the entire file. (Not recommended unless you have the whole file.)
+                </div>
+            </div>
+
+            <div id="build-bytes-section" class="section-hidden">
+                <label>Patched .bytes files</label>
+                <div class="drop-zone" id="build-bytes-dropzone">
+                    <div class="drop-zone-text">Drop .bytes files here or click to browse</div>
+                    <div class="drop-zone-filenames" id="build-bytes-filenames"></div>
+                    <input type="file" id="build-mods-bytes" accept=".bytes" multiple>
+                </div>
+
+                <div class="info-box" style="font-size:0.85em;">
+                    For pre-patched <code>.bytes</code> files. Skips the JSON step and injects directly.
+                </div>
+            </div>
+
+            <div id="build-preview" class="file-preview"></div>
+
+            <!-- customize -->
+            <div id="customize-wrapper">
+                <div class="collapsible-section highlight" id="customize-section">
+                    <div class="collapsible-header" onclick="toggleCustomize()">
+                        <span class="collapsible-arrow" id="customize-arrow">▶</span>
+                        <span id="customize-title">Customize APK</span>
+                    </div>
+                    <div class="collapsible-body" id="customize-body">
+                        <div class="warning" id="customize-warning" style="margin-bottom:12px;">
+                            Adds roughly 2 minutes to the build.
+                        </div>
+
+                        <label>App Display Name</label>
+                        <input type="text" id="custom-app-name" placeholder="e.g. Epic Reborn" maxlength="80" autocomplete="off">
+                        <div class="info-box" style="font-size:0.8em;">
+                            Name shown under the icon. Leave blank to keep the original.
+                        </div>
+
+                        <label style="margin-top:16px;">Package Name <span id="package-ipa-badge" style="display:none;font-size:0.75em;color:var(--error-text);font-weight:normal;">(APK only)</span></label>
+                        <div id="package-ipa-blocked" class="blocked-field" style="display:none;">
+                            <b>Not available for IPA.</b> Sideloaders override the Bundle ID during signing.
+                        </div>
+                        <div id="package-field-wrapper">
+                            <input type="text" id="custom-package-name" placeholder="e.g. com.yourname.epicmod" autocomplete="off">
+                            <div class="info-box" style="font-size:0.8em;">
+                                Original: <code id="original-pkg-display">com.rovio.gold</code><br>
+                                Allows side-by-side install. Lowercase, dot-separated only.
+                            </div>
+                        </div>
+
+                        <label style="margin-top:16px;">App Icon</label>
+                        <div class="drop-zone drop-zone-small" id="custom-icon-dropzone">
+                            <div class="drop-zone-text">Drop an icon image here or click to browse</div>
+                            <div class="drop-zone-hint">PNG, JPG, or WEBP</div>
+                            <div class="drop-zone-filenames" id="custom-icon-filename"></div>
+                            <input type="file" id="custom-icon-file" accept="image/png,image/jpeg,image/webp">
+                        </div>
+                        <div class="icon-preview" id="icon-preview">
+                            <img id="icon-preview-img" src="" alt="Icon preview">
+                            <div class="icon-preview-text">
+                                <b>Ready</b><br>
+                                <span id="icon-resize-note">Will be resized to all required icon sizes.</span>
+                            </div>
+                        </div>
+                        <div class="info-box" style="font-size:0.8em;">
+                            Image will be center-cropped to square and resized automatically.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <label>Output Format</label>
+            <div class="build-output-grid">
+                <div class="build-output active" data-out="apk" onclick="setBuildOutput('apk')">
+                    <span class="build-output-icon">.apk</span>
+                    Android
+                </div>
+                <div class="build-output" data-out="ipa" onclick="setBuildOutput('ipa')">
+                    <span class="build-output-icon">.ipa</span>
+                    iOS
+                </div>
+                <div class="build-output" data-out="bytes" onclick="setBuildOutput('bytes')">
+                    <span class="build-output-icon">.zip</span>
+                    Raw bytes
+                </div>
+            </div>
+
+            <div id="build-sign-section">
+                <label class="checkbox-label">
+                    <input type="checkbox" id="build-sign" checked>
+                    Auto-sign APK (Android only)
+                </label>
+            </div>
+
+            <button onclick="buildMod()">Build</button>
+            <button class="reset-btn" onclick="resetBuild()" style="margin-top:8px;">Reset</button>
+            <div id="build-status" class="status"></div>
+        </div>
+    </div>
+
+    <!-- editor -->
+    <div id="tab-editor" class="tab-content">
+        <div class="card">
+            <div class="mobile-editor-notice">
+                The editor works better on desktop. On mobile, use the <b>Build</b> tab with pre-made mod files.
+            </div>
+
+            <div class="card-desc">
+                Choose a source, make your edits, then patch. Ctrl+S to patch, autosaves as you type.
+            </div>
+
+            <label>Source</label>
+            <select id="editor-source" onchange="onEditorSourceChange()">
+                <option value="server">Load from server</option>
+                <option value="upload">Upload your own JSON</option>
+                <option value="blank">Start blank</option>
+            </select>
+
+            <div id="editor-server-section">
+                <label>Category</label>
+                <select id="editor-category" onchange="onEditorCategoryChange()">
+                    <option value="balancing">Main Balancing</option>
+                    <option value="event">Event Balancing</option>
+                    <option value="locale">Locale</option>
+                </select>
+
+                <label>File</label>
+                <select id="editor-file" onchange="loadEditorFile()">
+                    <option value="">-- Select a file --</option>
+                </select>
+            </div>
+
+            <div id="editor-upload-section" class="section-hidden">
+                <label>Upload JSON File</label>
+                <div class="drop-zone" id="editor-upload-dropzone">
+                    <div class="drop-zone-text">Drop a JSON file here or click to browse</div>
+                    <div class="drop-zone-filenames" id="editor-upload-filename"></div>
+                    <input type="file" id="editor-upload" accept=".json">
+                </div>
+
+                <label>Target (for patching)</label>
+                <select id="editor-upload-target">
+                    <option value="balancing">Main Balancing</option>
+                    <option value="event">Event Balancing</option>
+                    <option value="locale">Locale</option>
+                </select>
+
+                <div class="info-box">
+                    Class name is auto-detected from filenames like
+                    <code>ABH.Shared.BalancingData.&lt;ClassName&gt;.json</code>.
+                </div>
+
+                <label>Class Name</label>
+                <select id="editor-upload-class">
+                    <option value="">-- Auto-detect from filename --</option>
+                </select>
+            </div>
+
+            <div id="editor-blank-section" class="section-hidden">
+                <label>Target (for patching)</label>
+                <select id="editor-blank-target">
+                    <option value="balancing">Main Balancing</option>
+                    <option value="event">Event Balancing</option>
+                    <option value="locale">Locale</option>
+                </select>
+
+                <label>Class Name</label>
+                <select id="editor-blank-class">
+                    <option value="">-- Select a class --</option>
+                </select>
+            </div>
+
+            <label>Patch Mode</label>
+            <div class="mode-toggle">
+                <div class="mode-option active" data-mode="merge" onclick="setPatchMode('merge')">Merge</div>
+                <div class="mode-option" data-mode="replace" onclick="setPatchMode('replace')">Replace</div>
+            </div>
+            <div class="info-box" style="font-size:0.8em;">
+                <b>Merge:</b> Your entries override or add to the originals. (Recommended).<br>
+                <b>Replace:</b> Your JSON becomes the entire file. (Not recommended unless you have the whole file.)
+            </div>
+
+            <div id="editor-class-desc" class="inline-desc"></div>
+
+            <label style="margin-top:15px;">Editor</label>
+            <div id="monaco-editor"></div>
+            <div id="autosave-indicator" class="autosave-indicator"></div>
+
+            <div class="editor-toolbar">
+                <button class="btn-secondary" onclick="formatEditor()">Format</button>
+                <button class="btn-secondary" onclick="resetEditor()">Reset</button>
+                <button class="btn-secondary" onclick="showDiffView()">Diff</button>
+                <button class="btn-secondary" onclick="downloadEditorJson()">Download JSON</button>
+                <button class="btn-secondary" onclick="clearAutosave()">Clear Autosave</button>
+            </div>
+
+            <button onclick="patchFromEditor()">Patch</button>
+            <div id="editor-status" class="status"></div>
+        </div>
+    </div>
+
+    <!-- downloads -->
+    <div id="tab-downloads" class="tab-content">
+        <div class="card">
+            <div class="card-desc">Pre-decoded JSON files, ready to download and edit.</div>
+            <input type="text" id="downloads-search" placeholder="Search files..." oninput="filterDownloads()" style="margin-bottom:15px;">
+            <div id="downloads-list">Loading...</div>
+        </div>
+    </div>
+
+    <!-- info -->
+    <div id="tab-info" class="tab-content">
+        <div class="card">
+            <div class="card-desc">Reference for all balancing classes.</div>
+            <input type="text" id="info-search" placeholder="Search classes..." oninput="filterInfo()" style="margin-bottom:15px;">
+            <div id="info-list">Loading...</div>
+        </div>
+    </div>
+</div>
+
+<div id="toast-container"></div>
+
+<div class="modal-backdrop" id="diff-modal" onclick="closeDiffOnBackdrop(event)">
+    <div class="modal">
+        <div class="modal-header">
+            <div class="modal-title">Original vs Your Edits</div>
+            <button class="modal-close" onclick="closeDiffView()">✕</button>
+        </div>
+        <div class="modal-body">
+            <div id="diff-editor"></div>
+        </div>
+        <div class="modal-footer">
+            <span style="color:#a0bf8b;">Green</span> = added ·
+            <span style="color:#bf8b8b;">Red</span> = removed ·
+            Esc to close
+        </div>
+    </div>
+</div>
+
+<script>
+const API = "/api";
+const AUTOSAVE_KEY = "abe_patcher_editor_autosave";
+const AUTOSAVE_META_KEY = "abe_patcher_editor_meta";
+const GUIDE_DISMISSED_KEY = "abe_patcher_guide_dismissed";
+const AUTOSAVE_DEBOUNCE_MS = 1000;
+
+const KNOWN_BYTES_NAMES = {
+    "live_SerializedBalancingDataContainer_3.0.1.bytes": "main",
+    "live_SerializedEventBalancingDataContainer.bytes": "event",
+    "live_English.bytes": "locale",
+};
+
+let CLASS_DESCRIPTIONS = {};
+let MAIN_CLASS_SET = new Set();
+let EVENT_CLASS_SET = new Set();
+let CAPABILITIES = {};
+let monacoEditor = null;
+let diffEditor = null;
+let originalEditorContent = "";
+let currentEditorMeta = { source: null, category: null, filename: null, className: null };
+let currentPatchMode = "merge";
+let autosaveTimer = null;
+
+let currentBuildSource = "json";
+let currentBuildMode = "merge";
+let currentBuildOutput = "apk";
+
+// theme
+function toggleTheme() {
+    const checkbox = document.getElementById("theme-input");
+    const next = checkbox.checked ? "dark" : "light";
+    document.documentElement.setAttribute("data-theme", next);
+    localStorage.setItem("abe_patcher_theme", next);
+    updateMonacoTheme();
+}
+
+function updateMonacoTheme() {
+    if (typeof monaco === "undefined" || !monacoEditor) return;
+    const isLight = document.documentElement.getAttribute("data-theme") === "light";
+    monaco.editor.setTheme(isLight ? "vs" : "vs-dark");
+}
+
+function extractClassName(filename) {
+    if (!filename || !filename.endsWith(".json")) return null;
+    if (filename.startsWith("ABH.Shared.BalancingData.")) {
+        return filename.replace("ABH.Shared.BalancingData.", "").replace(".json", "");
+    }
+    if (filename.startsWith("ABH.Shared.Events.BalancingData.")) {
+        return filename.replace("ABH.Shared.Events.BalancingData.", "").replace(".json", "");
+    }
+    return null;
+}
+
+function switchTab(e, name) {
+    document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+    document.querySelectorAll(".tab-content").forEach(t => t.classList.remove("active"));
+    e.target.classList.add("active");
+    document.getElementById(`tab-${name}`).classList.add("active");
+
+    if (name === "editor" && monacoEditor) {
+        setTimeout(() => monacoEditor.layout(), 100);
+    }
+
+    if (name !== "build") {
+        const guide = document.getElementById("workflow-guide");
+        if (guide && guide.style.display !== "none" && localStorage.getItem(GUIDE_DISMISSED_KEY) !== "1") {
+            hideWorkflowGuide();
+        }
+    }
+}
+
+function goToEditor() {
+    const editorTab = Array.from(document.querySelectorAll(".tab")).find(t => t.textContent.includes("Editor"));
+    if (editorTab) {
+        editorTab.click();
+        setTimeout(() => {
+            document.getElementById("tab-editor").scrollIntoView({ behavior: "smooth", block: "start" });
+        }, 150);
+    }
+    hideWorkflowGuide();
+}
+
+// workflow guide
+function hideWorkflowGuide() {
+    const guide = document.getElementById("workflow-guide");
+    if (!guide) return;
+
+    guide.style.transition = "opacity 0.3s, max-height 0.3s, padding 0.3s, margin 0.3s";
+    guide.style.maxHeight = guide.offsetHeight + "px";
+
+    requestAnimationFrame(() => {
+        guide.style.opacity = "0";
+        guide.style.maxHeight = "0";
+        guide.style.padding = "0";
+        guide.style.margin = "0";
+        guide.style.border = "none";
+    });
+
+    setTimeout(() => {
+        guide.style.display = "none";
+        document.getElementById("help-btn").classList.add("visible");
+    }, 350);
+
+    localStorage.setItem(GUIDE_DISMISSED_KEY, "1");
+}
+
+function showWorkflowGuide() {
+    const guide = document.getElementById("workflow-guide");
+    if (!guide) return;
+
+    guide.style.display = "";
+    guide.style.maxHeight = "";
+    guide.style.opacity = "";
+    guide.style.padding = "";
+    guide.style.margin = "";
+    guide.style.border = "";
+    guide.style.transition = "";
+
+    document.getElementById("help-btn").classList.remove("visible");
+    localStorage.removeItem(GUIDE_DISMISSED_KEY);
+}
+
+function setStatus(id, type, msg) {
+    const el = document.getElementById(id);
+    el.className = `status ${type}`;
+    el.textContent = msg;
+}
+
+function clearStatus(id) {
+    const el = document.getElementById(id);
+    el.className = "status";
+    el.textContent = "";
+}
+
+// toasts
+let toastId = 0;
+function showToast(type, message, duration = 4500) {
+    const container = document.getElementById("toast-container");
+    const id = `toast-${++toastId}`;
+
+    const toast = document.createElement("div");
+    toast.id = id;
+    toast.className = `toast ${type}`;
+    toast.innerHTML = `
+        <div class="toast-content"></div>
+        <span class="toast-close">✕</span>
+    `;
+    toast.querySelector(".toast-content").textContent = message;
+    toast.addEventListener("click", () => removeToast(id));
+
+    container.appendChild(toast);
+
+    if (duration > 0) {
+        setTimeout(() => removeToast(id), duration);
+    }
+
+    return id;
+}
+
+function removeToast(id) {
+    const toast = document.getElementById(id);
+    if (!toast) return;
+    toast.classList.add("removing");
+    setTimeout(() => toast.remove(), 300);
+}
+
+function download(blob, filename) {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = filename;
+    a.click();
+    URL.revokeObjectURL(url);
+}
+
+function getFilenameFromResponse(res, fallback) {
+    const cd = res.headers.get("content-disposition");
+    const match = cd?.match(/filename="?([^"]+)"?/);
+    return match ? match[1] : fallback;
+}
+
+// collapsible
+function toggleCustomize() {
+    const arrow = document.getElementById("customize-arrow");
+    const body = document.getElementById("customize-body");
+    arrow.classList.toggle("open");
+    body.classList.toggle("open");
+}
+
+// drag and drop
+function setupDropZone(dropZoneId, fileInputId, filenamesDisplayId, onChangeCallback) {
+    const dropZone = document.getElementById(dropZoneId);
+    const fileInput = document.getElementById(fileInputId);
+    const filenamesEl = document.getElementById(filenamesDisplayId);
+
+    const updateFilenames = (files) => {
+        if (!files || files.length === 0) {
+            filenamesEl.textContent = "";
+            return;
+        }
+        filenamesEl.textContent = files.length === 1
+            ? files[0].name
+            : `${files.length} files selected`;
+    };
+
+    fileInput.addEventListener("change", () => {
+        updateFilenames(fileInput.files);
+        if (onChangeCallback) onChangeCallback();
+    });
+
+    dropZone.addEventListener("dragover", (e) => {
+        e.preventDefault();
+        dropZone.classList.add("dragging");
+    });
+
+    dropZone.addEventListener("dragleave", (e) => {
+        if (!dropZone.contains(e.relatedTarget)) {
+            dropZone.classList.remove("dragging");
+        }
+    });
+
+    dropZone.addEventListener("drop", (e) => {
+        e.preventDefault();
+        dropZone.classList.remove("dragging");
+
+        const files = e.dataTransfer.files;
+        if (files.length === 0) return;
+
+        const dataTransfer = new DataTransfer();
+        for (const file of files) {
+            dataTransfer.items.add(file);
+        }
+        fileInput.files = dataTransfer.files;
+
+        updateFilenames(fileInput.files);
+        if (onChangeCallback) onChangeCallback();
+    });
+}
+
+async function loadClassesAndDescriptions() {
+    try {
+        const r1 = await fetch(`${API}/classes`);
+        const classData = await r1.json();
+        MAIN_CLASS_SET = new Set(classData.balancing);
+        EVENT_CLASS_SET = new Set(classData.event);
+
+        const r2 = await fetch(`${API}/descriptions`);
+        CLASS_DESCRIPTIONS = await r2.json();
+
+        renderInfoList();
+    } catch (e) {
+        console.error("Failed to load classes/descriptions:", e);
+    }
+}
+
+function renderInfoList() {
+    const container = document.getElementById("info-list");
+    container.innerHTML = "";
+
+    const sorted = Object.entries(CLASS_DESCRIPTIONS).sort((a, b) => a[0].localeCompare(b[0]));
+
+    for (const [name, desc] of sorted) {
+        const entry = document.createElement("div");
+        entry.className = "info-entry";
+        entry.innerHTML = `
+            <div class="info-name">${name}</div>
+            <div class="info-desc">${desc}</div>
+        `;
+        container.appendChild(entry);
+    }
+}
+
+function filterInfo() {
+    const term = document.getElementById("info-search").value.toLowerCase();
+    document.querySelectorAll(".info-entry").forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(term) ? "block" : "none";
+    });
+}
+
+async function loadDefaults() {
+    try {
+        const r = await fetch(`${API}/defaults`);
+        const data = await r.json();
+        const info = Object.entries(data)
+            .map(([k, v]) => `${v.available ? 'OK' : 'X'} ${v.filename} ${v.available ? `(${v.size_mb} MB)` : '<i>not available</i>'}`)
+            .join('<br>');
+        document.getElementById("defaults-info").innerHTML = `<b>Server defaults:</b>${info}`;
+    } catch (e) {
+        document.getElementById("defaults-info").textContent = "Could not load defaults.";
+    }
+}
+
+async function loadCapabilities() {
+    try {
+        const r = await fetch(`${API}/capabilities`);
+        CAPABILITIES = await r.json();
+        document.getElementById("original-pkg-display").textContent = CAPABILITIES.original_package || "com.rovio.gold";
+
+        const customizeBody = document.getElementById("customize-body");
+
+        if (!CAPABILITIES.custom_apk) {
+            customizeBody.innerHTML = '<div class="warning">Custom APK builds unavailable: server is missing <code>apktool.jar</code> or Java.</div>';
+        } else if (!CAPABILITIES.custom_icon) {
+            const iconDz = document.getElementById("custom-icon-dropzone");
+            iconDz.style.opacity = "0.5";
+            iconDz.style.pointerEvents = "none";
+            const iconLabel = iconDz.previousElementSibling;
+            if (iconLabel && iconLabel.tagName === "LABEL") {
+                iconLabel.innerHTML = "App Icon <span style='color:var(--error-text);font-size:0.8em;'>(unavailable — Pillow not installed)</span>";
+            }
+        }
+    } catch (e) {
+        console.warn("Could not load capabilities:", e);
+    }
+}
+
+async function loadDownloads() {
+    try {
+        const r = await fetch(`${API}/decoded/list`);
+        const data = await r.json();
+        const container = document.getElementById("downloads-list");
+        container.innerHTML = "";
+
+        const labels = {
+            balancing: "Main Balancing",
+            event: "Event Balancing",
+            locale: "Locale",
+        };
+
+        for (const [category, files] of Object.entries(data)) {
+            if (files.length === 0) continue;
+
+            const section = document.createElement("div");
+            section.className = "dl-section";
+
+            const header = document.createElement("div");
+            header.className = "dl-header";
+            header.innerHTML = `
+                <h3>${labels[category]} (${files.length})</h3>
+                <a href="${API}/decoded/${category}/all" class="dl-zip-btn">Download All (.zip)</a>
+            `;
+            section.appendChild(header);
+
+            const list = document.createElement("div");
+            list.className = "dl-list";
+
+            files.forEach(file => {
+                const item = document.createElement("a");
+                item.href = `${API}/decoded/${category}/${file.filename}`;
+                item.className = "dl-item";
+                item.innerHTML = `
+                    <span>${file.filename}</span>
+                    <span class="dl-size">${file.size_kb} KB</span>
+                `;
+                list.appendChild(item);
+            });
+
+            section.appendChild(list);
+            container.appendChild(section);
+        }
+
+        if (container.innerHTML === "") {
+            container.innerHTML = "<p style='color:var(--text-muted);'>No files available.</p>";
+        }
+    } catch (e) {
+        document.getElementById("downloads-list").textContent = "Failed to load downloads.";
+    }
+}
+
+function filterDownloads() {
+    const term = document.getElementById("downloads-search").value.toLowerCase();
+    document.querySelectorAll(".dl-item").forEach(item => {
+        const filename = item.textContent.toLowerCase();
+        item.style.display = filename.includes(term) ? "flex" : "none";
+    });
+}
+
+// build
+function classifyJsonFile(filename) {
+    const lower = filename.toLowerCase();
+
+    if (lower.includes("locale") || lower.startsWith("live_") || lower.includes("language") || lower.includes("loca")) {
+        return { category: "locale", className: null };
+    }
+
+    let className = extractClassName(filename);
+    if (!className) {
+        className = filename.replace(".json", "");
+    }
+
+    if (MAIN_CLASS_SET.has(className)) return { category: "main", className };
+    if (EVENT_CLASS_SET.has(className)) return { category: "event", className };
+    return { category: "unknown", className: null };
+}
+
+function classifyBytesFile(filename) {
+    if (KNOWN_BYTES_NAMES[filename]) {
+        return { category: KNOWN_BYTES_NAMES[filename], className: null };
+    }
+    return { category: "bytes", className: null };
+}
+
+function previewBuildFiles(source) {
+    const inputId = source === "json" ? "build-mods-json" : "build-mods-bytes";
+    const files = document.getElementById(inputId).files;
+    const preview = document.getElementById("build-preview");
+
+    if (files.length === 0) {
+        preview.classList.remove("visible");
+        preview.innerHTML = "";
+        return;
+    }
+
+    preview.innerHTML = "";
+    preview.classList.add("visible");
+
+    const labels = {
+        main: { text: "Main Balancing", cls: "main" },
+        event: { text: "Event Balancing", cls: "event" },
+        locale: { text: "Locale", cls: "locale" },
+        unknown: { text: "Unknown", cls: "unknown" },
+        bytes: { text: ".bytes (unknown)", cls: "bytes" },
+    };
+
+    Array.from(files).forEach(f => {
+        const info = source === "json" ? classifyJsonFile(f.name) : classifyBytesFile(f.name);
+        const label = labels[info.category];
+        const item = document.createElement("div");
+        item.className = "file-preview-item";
+        item.innerHTML = `
+            <span>${f.name}</span>
+            <span class="file-preview-tag ${label.cls}">${label.text}${info.className ? ' → ' + info.className : ''}</span>
+        `;
+        preview.appendChild(item);
+    });
+}
+
+function setBuildSource(source) {
+    currentBuildSource = source;
+    document.querySelectorAll(".input-source-option").forEach(el => {
+        el.classList.toggle("active", el.dataset.src === source);
+    });
+    document.getElementById("build-json-section").style.display = source === "json" ? "block" : "none";
+    document.getElementById("build-bytes-section").style.display = source === "bytes" ? "block" : "none";
+
+    document.getElementById("build-preview").classList.remove("visible");
+    document.getElementById("build-preview").innerHTML = "";
+}
+
+function setBuildMode(mode) {
+    currentBuildMode = mode;
+    document.querySelectorAll("#build-json-section .mode-option").forEach(el => {
+        el.classList.toggle("active", el.dataset.mode === mode);
+    });
+}
+
+function setBuildOutput(output) {
+    currentBuildOutput = output;
+    document.querySelectorAll(".build-output").forEach(el => {
+        el.classList.toggle("active", el.dataset.out === output);
+    });
+
+    document.getElementById("build-sign-section").style.display = output === "apk" ? "block" : "none";
+
+    const customizeWrapper = document.getElementById("customize-wrapper");
+    customizeWrapper.style.display = (output === "apk" || output === "ipa") ? "block" : "none";
+
+    const title = document.getElementById("customize-title");
+    const warning = document.getElementById("customize-warning");
+    const pkgBlocked = document.getElementById("package-ipa-blocked");
+    const pkgWrapper = document.getElementById("package-field-wrapper");
+    const pkgBadge = document.getElementById("package-ipa-badge");
+    const iconNote = document.getElementById("icon-resize-note");
+
+    if (output === "apk") {
+        title.textContent = "Customize APK";
+        warning.innerHTML = "Adds roughly 2 minutes to the build.";
+        pkgBlocked.style.display = "none";
+        pkgWrapper.style.display = "block";
+        pkgBadge.style.display = "none";
+        iconNote.textContent = "Will be resized to all required icon sizes.";
+    } else if (output === "ipa") {
+        title.textContent = "Customize IPA";
+        warning.innerHTML = "IPA customization takes a few seconds. Package name is not editable for IPA.";
+        pkgBlocked.style.display = "block";
+        pkgWrapper.style.display = "none";
+        pkgBadge.style.display = "inline";
+        iconNote.textContent = "Will be resized to all required icon sizes.";
+    }
+}
+
+function resetBuild() {
+    document.getElementById("build-mods-json").value = "";
+    document.getElementById("build-mods-bytes").value = "";
+    document.getElementById("build-json-filenames").textContent = "";
+    document.getElementById("build-bytes-filenames").textContent = "";
+    document.getElementById("build-preview").classList.remove("visible");
+    document.getElementById("build-preview").innerHTML = "";
+    document.getElementById("custom-package-name").value = "";
+    document.getElementById("custom-app-name").value = "";
+    document.getElementById("custom-icon-file").value = "";
+    document.getElementById("custom-icon-filename").textContent = "";
+    document.getElementById("icon-preview").classList.remove("visible");
+    document.getElementById("icon-preview-img").src = "";
+    document.getElementById("customize-arrow").classList.remove("open");
+    document.getElementById("customize-body").classList.remove("open");
+    clearStatus("build-status");
+    setBuildSource("json");
+    setBuildMode("merge");
+    setBuildOutput("apk");
+    document.getElementById("build-sign").checked = true;
+}
+
+function onCustomIconChange() {
+    const file = document.getElementById("custom-icon-file").files[0];
+    const preview = document.getElementById("icon-preview");
+    const previewImg = document.getElementById("icon-preview-img");
+
+    if (!file) {
+        preview.classList.remove("visible");
+        previewImg.src = "";
+        return;
+    }
+
+    if (!file.type.startsWith("image/")) {
+        showToast("error", "Not an image file.");
+        document.getElementById("custom-icon-file").value = "";
+        document.getElementById("custom-icon-filename").textContent = "";
+        return;
+    }
+
+    const reader = new FileReader();
+    reader.onload = (e) => {
+        previewImg.src = e.target.result;
+        preview.classList.add("visible");
+    };
+    reader.readAsDataURL(file);
+}
+
+async function buildMod() {
+    const inputId = currentBuildSource === "json" ? "build-mods-json" : "build-mods-bytes";
+    const files = document.getElementById(inputId).files;
+
+    if (files.length === 0) {
+        showToast("error",
+            currentBuildSource === "json" ? "No JSON files selected." : "No .bytes files selected.");
+        return;
+    }
+
+    const sign = document.getElementById("build-sign").checked;
+    const customPackage = (document.getElementById("custom-package-name").value || "").trim();
+    const customAppName = (document.getElementById("custom-app-name").value || "").trim();
+    const customIconFile = document.getElementById("custom-icon-file").files[0];
+
+    const hasCustomization = !!(customPackage || customAppName || customIconFile);
+
+    if (hasCustomization && currentBuildOutput !== "apk" && currentBuildOutput !== "ipa") {
+        showToast("error", "Customization only works with APK or IPA output.");
+        return;
+    }
+
+    if (customPackage && currentBuildOutput !== "apk") {
+        showToast("error", "Custom package name is APK-only.");
+        return;
+    }
+
+    if (customPackage) {
+        const pkgRegex = /^[a-z][a-z0-9_]*(\.[a-z][a-z0-9_]*)+$/;
+        if (!pkgRegex.test(customPackage)) {
+            showToast("error", "Invalid package name. Example: com.yourname.epicmod");
+            return;
+        }
+    }
+
+    if (customAppName && customAppName.length > 80) {
+        showToast("error", "App name too long (max 80).");
+        return;
+    }
+
+    if (currentBuildSource === "json" && currentBuildMode === "replace") {
+        const confirmed = confirm(
+            "Replace mode will delete any game entries not present in your uploaded files.\n\nContinue?"
+        );
+        if (!confirmed) return;
+    }
+
+    const fd = new FormData();
+    fd.append("output", currentBuildOutput);
+    fd.append("sign", sign.toString());
+    if (customPackage) fd.append("custom_package", customPackage);
+    if (customAppName) fd.append("custom_app_name", customAppName);
+    if (customIconFile) fd.append("custom_icon", customIconFile);
+
+    let endpoint;
+    if (currentBuildSource === "json") {
+        endpoint = `${API}/build/json`;
+        fd.append("mode", currentBuildMode);
+        for (const f of files) fd.append("mod_files", f);
+    } else {
+        endpoint = `${API}/build/bytes`;
+        for (const f of files) fd.append("bytes_files", f);
+    }
+
+    const outputLabels = { bytes: ".bytes ZIP", apk: "APK", ipa: "IPA" };
+    setStatus("build-status", "loading", `Building ${outputLabels[currentBuildOutput]} from ${files.length} file(s)...`);
+
+    try {
+        const r = await fetch(endpoint, { method: "POST", body: fd });
+        if (!r.ok) {
+            const err = await r.json();
+            let msg = err.error;
+            if (err.skipped) {
+                msg += "\n\nSkipped:\n" + err.skipped.map(s => `- ${s.file}: ${s.reason}`).join("\n");
+            }
+            throw new Error(msg);
+        }
+
+        const filename = getFilenameFromResponse(r, `modded.${currentBuildOutput}`);
+        download(await r.blob(), filename);
+
+        const appliedMain = r.headers.get("X-Applied-Main") || "";
+        const appliedEvent = r.headers.get("X-Applied-Event") || "";
+        const appliedLocale = parseInt(r.headers.get("X-Applied-Locale") || "0");
+        const appliedOther = r.headers.get("X-Applied-Other") || "";
+        const skippedCount = parseInt(r.headers.get("X-Skipped-Count") || "0");
+
+        const parts = [];
+        if (appliedMain) parts.push(`Main: ${appliedMain.split(",").length}`);
+        if (appliedEvent) parts.push(`Event: ${appliedEvent.split(",").length}`);
+        if (appliedLocale) parts.push(`Locale: ${appliedLocale}`);
+        if (appliedOther) parts.push(`Other: ${appliedOther.split(",").length}`);
+
+        let msg = `Done. Applied ${parts.join(", ") || "0"}.`;
+        if (skippedCount > 0) msg += ` ${skippedCount} skipped.`;
+        clearStatus("build-status");
+        showToast("success", msg, 7000);
+    } catch (e) {
+        clearStatus("build-status");
+        showToast("error", e.message, 8000);
+    }
+}
+
+// autosave
+function setAutosaveIndicator(text, color) {
+    const el = document.getElementById("autosave-indicator");
+    el.textContent = text;
+    el.style.color = color || "var(--success-text)";
+}
+
+function saveToLocal() {
+    if (!monacoEditor) return;
+    try {
+        const content = monacoEditor.getValue();
+        localStorage.setItem(AUTOSAVE_KEY, content);
+        localStorage.setItem(AUTOSAVE_META_KEY, JSON.stringify({
+            ...currentEditorMeta,
+            patchMode: currentPatchMode,
+            savedAt: Date.now(),
+        }));
+        const time = new Date().toLocaleTimeString();
+        setAutosaveIndicator(`Saved ${time}`);
+    } catch (e) {
+        setAutosaveIndicator(`Save failed: ${e.message}`, "var(--error-text)");
+    }
+}
+
+function scheduleAutosave() {
+    clearTimeout(autosaveTimer);
+    setAutosaveIndicator("...", "var(--text-muted)");
+    autosaveTimer = setTimeout(saveToLocal, AUTOSAVE_DEBOUNCE_MS);
+}
+
+function loadFromAutosave() {
+    try {
+        const content = localStorage.getItem(AUTOSAVE_KEY);
+        const metaStr = localStorage.getItem(AUTOSAVE_META_KEY);
+        if (!content || !metaStr) return false;
+
+        const meta = JSON.parse(metaStr);
+        const savedDate = new Date(meta.savedAt).toLocaleString();
+        const fileLabel = meta.filename || "(blank)";
+
+        monacoEditor.setValue(content);
+        originalEditorContent = content;
+        currentEditorMeta = {
+            source: meta.source,
+            category: meta.category,
+            filename: meta.filename,
+            className: meta.className,
+        };
+        currentPatchMode = meta.patchMode || "merge";
+        setPatchMode(currentPatchMode);
+
+        if (meta.source) {
+            document.getElementById("editor-source").value = meta.source;
+            onEditorSourceChange();
+        }
+
+        updateClassDescriptionDisplay(meta.className);
+        setAutosaveIndicator(`Restored from ${savedDate}`);
+
+        showToast("info", `Autosave restored: ${fileLabel}`, 4000);
+
+        return true;
+    } catch (e) {
+        console.error("Failed to load autosave:", e);
+        return false;
+    }
+}
+
+function clearAutosave() {
+    if (!confirm("Clear autosaved work?")) return;
+    localStorage.removeItem(AUTOSAVE_KEY);
+    localStorage.removeItem(AUTOSAVE_META_KEY);
+    setAutosaveIndicator("Cleared", "var(--text-muted)");
+    showToast("info", "Autosave cleared.");
+}
+
+// editor
+require.config({ paths: { vs: 'https://cdn.jsdelivr.net/npm/monaco-editor@0.45.0/min/vs' }});
+
+function initMonaco() {
+    return new Promise(resolve => {
+        require(['vs/editor/editor.main'], () => {
+            const isLight = document.documentElement.getAttribute("data-theme") === "light";
+
+            monacoEditor = monaco.editor.create(document.getElementById('monaco-editor'), {
+                value: "// Select a source above to start editing",
+                language: 'json',
+                theme: isLight ? 'vs' : 'vs-dark',
+                automaticLayout: true,
+                minimap: { enabled: window.innerWidth > 768 },
+                fontSize: 13,
+                tabSize: 2,
+                scrollBeyondLastLine: false,
+                wordWrap: 'on',
+            });
+
+            monacoEditor.addCommand(monaco.KeyMod.CtrlCmd | monaco.KeyCode.KeyS, () => {
+                patchFromEditor();
+            });
+
+            monacoEditor.onDidChangeModelContent(() => {
+                scheduleAutosave();
+            });
+
+            resolve();
+        });
+    });
+}
+
+// diff
+function showDiffView() {
+    if (!monacoEditor) return;
+
+    if (!originalEditorContent) {
+        showToast("error", "Load a file first.");
+        return;
+    }
+
+    const modal = document.getElementById("diff-modal");
+    modal.classList.add("visible");
+
+    const currentContent = monacoEditor.getValue();
+    const isLight = document.documentElement.getAttribute("data-theme") === "light";
+
+    if (!diffEditor) {
+        diffEditor = monaco.editor.createDiffEditor(document.getElementById("diff-editor"), {
+            theme: isLight ? "vs" : "vs-dark",
+            automaticLayout: true,
+            minimap: { enabled: false },
+            renderSideBySide: window.innerWidth > 768,
+            readOnly: true,
+            fontSize: 13,
+        });
+    } else {
+        diffEditor.updateOptions({ renderSideBySide: window.innerWidth > 768 });
+    }
+
+    const originalModel = monaco.editor.createModel(originalEditorContent, "json");
+    const modifiedModel = monaco.editor.createModel(currentContent, "json");
+    diffEditor.setModel({ original: originalModel, modified: modifiedModel });
+
+    setTimeout(() => diffEditor.layout(), 100);
+}
+
+function closeDiffView() {
+    document.getElementById("diff-modal").classList.remove("visible");
+}
+
+function closeDiffOnBackdrop(e) {
+    if (e.target.id === "diff-modal") {
+        closeDiffView();
+    }
+}
+
+document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && document.getElementById("diff-modal").classList.contains("visible")) {
+        closeDiffView();
+    }
+});
+
+function populateClassDropdowns() {
+    const uploadCls = document.getElementById("editor-upload-class");
+    const blankCls = document.getElementById("editor-blank-class");
+
+    uploadCls.innerHTML = '<option value="">-- Auto-detect from filename --</option>';
+    blankCls.innerHTML = '<option value="">-- Select a class --</option>';
+
+    const allClasses = Object.keys(CLASS_DESCRIPTIONS).sort();
+    allClasses.forEach(c => {
+        const o1 = document.createElement("option");
+        o1.value = c; o1.textContent = c;
+        o1.title = CLASS_DESCRIPTIONS[c] || "";
+        uploadCls.appendChild(o1);
+
+        const o2 = document.createElement("option");
+        o2.value = c; o2.textContent = c;
+        o2.title = CLASS_DESCRIPTIONS[c] || "";
+        blankCls.appendChild(o2);
+    });
+
+    blankCls.addEventListener("change", (e) => updateClassDescriptionDisplay(e.target.value));
+    uploadCls.addEventListener("change", (e) => updateClassDescriptionDisplay(e.target.value));
+}
+
+function setPatchMode(mode) {
+    currentPatchMode = mode;
+    document.querySelectorAll("#tab-editor .mode-option").forEach(el => {
+        el.classList.toggle("active", el.dataset.mode === mode);
+    });
+}
+
+function onEditorSourceChange() {
+    const source = document.getElementById("editor-source").value;
+    document.getElementById("editor-server-section").style.display = source === "server" ? "block" : "none";
+    document.getElementById("editor-upload-section").style.display = source === "upload" ? "block" : "none";
+    document.getElementById("editor-blank-section").style.display = source === "blank" ? "block" : "none";
+
+    document.getElementById("editor-class-desc").classList.remove("visible");
+
+    if (source === "blank" && monacoEditor && monacoEditor.getValue().startsWith("//")) {
+        monacoEditor.setValue("[\n  \n]");
+        originalEditorContent = "[\n  \n]";
+        currentEditorMeta = { source: "blank", category: "balancing", className: null };
+    }
+}
+
+async function loadEditorFiles(category) {
+    try {
+        const r = await fetch(`${API}/decoded/list`);
+        const data = await r.json();
+        const sel = document.getElementById("editor-file");
+        sel.innerHTML = '<option value="">-- Select a file --</option>';
+
+        const files = data[category] || [];
+        files.forEach(file => {
+            const o = document.createElement("option");
+            o.value = file.filename;
+            o.textContent = `${file.filename} (${file.size_kb} KB)`;
+            sel.appendChild(o);
+        });
+    } catch (e) {
+        console.error("Failed to load editor files:", e);
+    }
+}
+
+function onEditorCategoryChange() {
+    const category = document.getElementById("editor-category").value;
+    loadEditorFiles(category);
+    document.getElementById("editor-class-desc").classList.remove("visible");
+}
+
+async function loadEditorFile() {
+    const category = document.getElementById("editor-category").value;
+    const filename = document.getElementById("editor-file").value;
+    if (!filename) return;
+
+    setStatus("editor-status", "loading", "Loading...");
+
+    try {
+        const r = await fetch(`${API}/decoded/${category}/${filename}`);
+        if (!r.ok) throw new Error("Failed to fetch file");
+        const text = await r.text();
+
+        let formatted = text;
+        try {
+            formatted = JSON.stringify(JSON.parse(text), null, 2);
+        } catch (e) {}
+
+        monacoEditor.setValue(formatted);
+        originalEditorContent = formatted;
+
+        const className = extractClassName(filename);
+        currentEditorMeta = { source: "server", category, filename, className };
+        updateClassDescriptionDisplay(className);
+
+        clearStatus("editor-status");
+        showToast("success", `Loaded ${filename}`, 2500);
+    } catch (e) {
+        clearStatus("editor-status");
+        showToast("error", e.message);
+    }
+}
+
+async function loadUploadedFile() {
+    const file = document.getElementById("editor-upload").files[0];
+    if (!file) return;
+
+    if (!file.name.toLowerCase().endsWith(".json")) {
+        showToast("error", "Only .json files.");
+        return;
+    }
+
+    setStatus("editor-status", "loading", "Loading...");
+
+    try {
+        const text = await file.text();
+
+        let formatted = text;
+        try {
+            formatted = JSON.stringify(JSON.parse(text), null, 2);
+        } catch (e) {
+            clearStatus("editor-status");
+            showToast("error", `Invalid JSON: ${e.message}`);
+            return;
+        }
+
+        monacoEditor.setValue(formatted);
+        originalEditorContent = formatted;
+
+        const className = extractClassName(file.name);
+        if (className) {
+            document.getElementById("editor-upload-class").value = className;
+        }
+
+        const category = document.getElementById("editor-upload-target").value;
+        currentEditorMeta = { source: "upload", category, filename: file.name, className };
+        updateClassDescriptionDisplay(className);
+
+        clearStatus("editor-status");
+        showToast("success", `Loaded ${file.name}${className ? ` (${className})` : ''}`, 3000);
+    } catch (e) {
+        clearStatus("editor-status");
+        showToast("error", e.message);
+    }
+}
+
+function updateClassDescriptionDisplay(className) {
+    const descEl = document.getElementById("editor-class-desc");
+    if (className && CLASS_DESCRIPTIONS[className]) {
+        descEl.textContent = CLASS_DESCRIPTIONS[className];
+        descEl.classList.add("visible");
+    } else {
+        descEl.classList.remove("visible");
+    }
+}
+
+function formatEditor() {
+    if (!monacoEditor) return;
+    try {
+        const parsed = JSON.parse(monacoEditor.getValue());
+        monacoEditor.setValue(JSON.stringify(parsed, null, 2));
+        showToast("success", "Formatted.", 1500);
+    } catch (e) {
+        showToast("error", `Cannot format: ${e.message}`);
+    }
+}
+
+function resetEditor() {
+    if (!monacoEditor || !originalEditorContent) return;
+    if (confirm("Reset all changes?")) {
+        monacoEditor.setValue(originalEditorContent);
+        showToast("info", "Reset.", 1500);
+    }
+}
+
+function downloadEditorJson() {
+    if (!monacoEditor) return;
+    const content = monacoEditor.getValue();
+    const filename = currentEditorMeta.filename || "edited.json";
+    const blob = new Blob([content], { type: "application/json" });
+    download(blob, filename);
+    showToast("success", `Downloaded ${filename}`, 2000);
+}
+
+async function patchFromEditor() {
+    if (!monacoEditor) return;
+
+    const source = document.getElementById("editor-source").value;
+    const content = monacoEditor.getValue();
+
+    let parsed;
+    try {
+        parsed = JSON.parse(content);
+    } catch (e) {
+        showToast("error", `Invalid JSON: ${e.message}`);
+        return;
+    }
+
+    let category, className;
+
+    if (source === "server") {
+        category = currentEditorMeta.category;
+        className = currentEditorMeta.className;
+        if (!category) {
+            showToast("error", "Load a file first.");
+            return;
+        }
+    } else if (source === "upload") {
+        category = document.getElementById("editor-upload-target").value;
+        const dropdownClass = document.getElementById("editor-upload-class").value;
+        className = dropdownClass || currentEditorMeta.className;
+    } else if (source === "blank") {
+        category = document.getElementById("editor-blank-target").value;
+        className = document.getElementById("editor-blank-class").value;
+        if (!className && category !== "locale") {
+            showToast("error", "Select a class name.");
+            return;
+        }
+    }
+
+    if (category !== "locale" && !className) {
+        showToast("error", "Class name required.");
+        return;
+    }
+
+    if (currentPatchMode === "replace") {
+        const confirmed = confirm(
+            "Replace mode overwrites the entire file. Any entries missing from your JSON will be deleted.\n\nContinue?"
+        );
+        if (!confirmed) return;
+    }
+
+    setStatus("editor-status", "loading", `Patching (${currentPatchMode})...`);
+
+    let endpoint, body;
+    if (category === "locale") {
+        endpoint = `${API}/patch/locale/inline`;
+        body = { content: parsed, mode: currentPatchMode };
+    } else {
+        endpoint = `${API}/patch/balancing/inline`;
+        body = {
+            class_name: className,
+            target: category === "event" ? "event" : "main",
+            content: parsed,
+            mode: currentPatchMode,
+        };
+    }
+
+    try {
+        const r = await fetch(endpoint, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(body),
+        });
+
+        if (!r.ok) throw new Error((await r.json()).error);
+        const filename = getFilenameFromResponse(r, "patched.bytes");
+        download(await r.blob(), filename);
+        clearStatus("editor-status");
+        showToast("success", `Patched (${currentPatchMode}). Downloading.`);
+    } catch (e) {
+        clearStatus("editor-status");
+        showToast("error", e.message, 7000);
+    }
+}
+
+// init
+(async () => {
+    if (localStorage.getItem(GUIDE_DISMISSED_KEY) === "1") {
+        const guide = document.getElementById("workflow-guide");
+        if (guide) guide.style.display = "none";
+        document.getElementById("help-btn").classList.add("visible");
+    }
+
+    // sync theme toggle to saved state
+    const isDark = document.documentElement.getAttribute("data-theme") !== "light";
+    document.getElementById("theme-input").checked = isDark;
+
+    await loadClassesAndDescriptions();
+    loadDefaults();
+    loadCapabilities();
+    loadDownloads();
+    await initMonaco();
+    loadEditorFiles("balancing");
+    populateClassDropdowns();
+
+    setupDropZone("build-json-dropzone", "build-mods-json", "build-json-filenames",
+        () => previewBuildFiles("json"));
+    setupDropZone("build-bytes-dropzone", "build-mods-bytes", "build-bytes-filenames",
+        () => previewBuildFiles("bytes"));
+    setupDropZone("editor-upload-dropzone", "editor-upload", "editor-upload-filename",
+        () => loadUploadedFile());
+    setupDropZone("custom-icon-dropzone", "custom-icon-file", "custom-icon-filename",
+        () => onCustomIconChange());
+
+    setBuildOutput("apk");
+
+    if (localStorage.getItem(AUTOSAVE_KEY)) {
+        loadFromAutosave();
+    }
+})();
+</script>
+</body>
+</html>

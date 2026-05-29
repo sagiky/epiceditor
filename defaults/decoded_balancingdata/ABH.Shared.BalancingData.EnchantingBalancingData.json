@@ -1,0 +1,4503 @@
+{
+  "enchantingData": [
+    {
+      "nameId": "crafting_level_00_levelrange0",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 10.0
+        }
+      ],
+      "resourceCosts": 15.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 10.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange0",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange0",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 65.0
+        }
+      ],
+      "resourceCosts": 90.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 65.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange0",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 110.0
+        }
+      ],
+      "resourceCosts": 160.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 110.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange0",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 185.0
+        }
+      ],
+      "resourceCosts": 250.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 185.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange0",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 200.0
+        }
+      ],
+      "resourceCosts": 360.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 200.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange0",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 220.0
+        }
+      ],
+      "resourceCosts": 490.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 220.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange0",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 250.0
+        }
+      ],
+      "resourceCosts": 640.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 250.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange0",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 280.0
+        }
+      ],
+      "resourceCosts": 810.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 280.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange0",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 300.0
+        }
+      ],
+      "resourceCosts": 1000.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 300.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange0",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange1",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 10.0
+        }
+      ],
+      "resourceCosts": 15.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 10.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange1",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange1",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 65.0
+        }
+      ],
+      "resourceCosts": 90.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 65.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange1",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 150.0
+        }
+      ],
+      "resourceCosts": 160.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 150.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange1",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 250.0
+        }
+      ],
+      "resourceCosts": 250.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 250.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange1",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 275.0
+        }
+      ],
+      "resourceCosts": 360.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 275.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange1",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 300.0
+        }
+      ],
+      "resourceCosts": 490.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 300.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange1",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 345.0
+        }
+      ],
+      "resourceCosts": 640.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 345.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange1",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 385.0
+        }
+      ],
+      "resourceCosts": 810.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 385.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange1",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 410.0
+        }
+      ],
+      "resourceCosts": 1000.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 410.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange1",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 1,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange2",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 10.0
+        }
+      ],
+      "resourceCosts": 25.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 10.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange2",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        }
+      ],
+      "resourceCosts": 60.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange2",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 70.0
+        }
+      ],
+      "resourceCosts": 135.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 70.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange2",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 160.0
+        }
+      ],
+      "resourceCosts": 240.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 160.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange2",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 260.0
+        }
+      ],
+      "resourceCosts": 375.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 260.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange2",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 320.0
+        }
+      ],
+      "resourceCosts": 540.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 320.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange2",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 350.0
+        }
+      ],
+      "resourceCosts": 735.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 350.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange2",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 400.0
+        }
+      ],
+      "resourceCosts": 960.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 400.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange2",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 450.0
+        }
+      ],
+      "resourceCosts": 1215.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 450.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange2",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 480.0
+        }
+      ],
+      "resourceCosts": 1500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 480.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange2",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 2,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange3",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        }
+      ],
+      "resourceCosts": 30.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange3",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 40.0
+        }
+      ],
+      "resourceCosts": 80.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 40.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange3",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 135.0
+        }
+      ],
+      "resourceCosts": 180.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 135.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange3",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 310.0
+        }
+      ],
+      "resourceCosts": 320.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 310.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange3",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 415.0
+        }
+      ],
+      "resourceCosts": 500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 415.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange3",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 495.0
+        }
+      ],
+      "resourceCosts": 720.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 495.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange3",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 575.0
+        }
+      ],
+      "resourceCosts": 980.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 575.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange3",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 590.0
+        }
+      ],
+      "resourceCosts": 1280.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 590.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange3",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 620.0
+        }
+      ],
+      "resourceCosts": 1620.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 620.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange3",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 650.0
+        }
+      ],
+      "resourceCosts": 2000.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 650.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange3",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 3,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange4",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 20.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange4",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 45.0
+        }
+      ],
+      "resourceCosts": 100.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 45.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange4",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 140.0
+        }
+      ],
+      "resourceCosts": 225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 140.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange4",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 320.0
+        }
+      ],
+      "resourceCosts": 400.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 320.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange4",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 430.0
+        }
+      ],
+      "resourceCosts": 625.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 430.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange4",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 515.0
+        }
+      ],
+      "resourceCosts": 900.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 515.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange4",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 600.0
+        }
+      ],
+      "resourceCosts": 1225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 600.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange4",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 690.0
+        }
+      ],
+      "resourceCosts": 1600.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 690.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange4",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 775.0
+        }
+      ],
+      "resourceCosts": 2025.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 775.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange4",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 810.0
+        }
+      ],
+      "resourceCosts": 2500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 810.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange4",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 4,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange5",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 25.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 25.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange5",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 55.0
+        }
+      ],
+      "resourceCosts": 100.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 55.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange5",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 165.0
+        }
+      ],
+      "resourceCosts": 225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 165.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange5",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 330.0
+        }
+      ],
+      "resourceCosts": 400.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 330.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange5",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 520.0
+        }
+      ],
+      "resourceCosts": 625.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 520.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange5",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 620.0
+        }
+      ],
+      "resourceCosts": 900.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 620.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange5",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 725.0
+        }
+      ],
+      "resourceCosts": 1225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 725.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange5",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 830.0
+        }
+      ],
+      "resourceCosts": 1600.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 830.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange5",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 930.0
+        }
+      ],
+      "resourceCosts": 2025.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 930.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange5",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 975.0
+        }
+      ],
+      "resourceCosts": 2500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 975.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange5",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 5,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange6",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 25.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 25.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange6",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 60.0
+        }
+      ],
+      "resourceCosts": 100.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 60.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange6",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 170.0
+        }
+      ],
+      "resourceCosts": 225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 170.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange6",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 345.0
+        }
+      ],
+      "resourceCosts": 400.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 345.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange6",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 540.0
+        }
+      ],
+      "resourceCosts": 625.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 540.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange6",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 645.0
+        }
+      ],
+      "resourceCosts": 900.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 645.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange6",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 750.0
+        }
+      ],
+      "resourceCosts": 1225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 750.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange6",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 860.0
+        }
+      ],
+      "resourceCosts": 1600.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 860.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange6",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 970.0
+        }
+      ],
+      "resourceCosts": 2025.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 970.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange6",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1130.0
+        }
+      ],
+      "resourceCosts": 2500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1130.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange6",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 6,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange7",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 30.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 30.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange7",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 65.0
+        }
+      ],
+      "resourceCosts": 100.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 65.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange7",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 200.0
+        }
+      ],
+      "resourceCosts": 225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 200.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange7",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 480.0
+        }
+      ],
+      "resourceCosts": 400.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 480.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange7",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 645.0
+        }
+      ],
+      "resourceCosts": 625.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 645.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange7",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 775.0
+        }
+      ],
+      "resourceCosts": 900.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 775.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange7",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 900.0
+        }
+      ],
+      "resourceCosts": 1225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 900.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange7",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1030.0
+        }
+      ],
+      "resourceCosts": 1600.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1030.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange7",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1150.0
+        }
+      ],
+      "resourceCosts": 2025.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1150.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange7",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1300.0
+        }
+      ],
+      "resourceCosts": 2500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1300.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange7",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 7,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange8",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 35.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 35.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange8",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 75.0
+        }
+      ],
+      "resourceCosts": 100.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 75.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange8",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 225.0
+        }
+      ],
+      "resourceCosts": 225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 225.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange8",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 500.0
+        }
+      ],
+      "resourceCosts": 400.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 500.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange8",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 675.0
+        }
+      ],
+      "resourceCosts": 625.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 675.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange8",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 800.0
+        }
+      ],
+      "resourceCosts": 900.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 800.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange8",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1000.0
+        }
+      ],
+      "resourceCosts": 1225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1000.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange8",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1050.0
+        }
+      ],
+      "resourceCosts": 1600.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1050.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange8",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1175.0
+        }
+      ],
+      "resourceCosts": 2025.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1175.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange8",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1350.0
+        }
+      ],
+      "resourceCosts": 2500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1350.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange8",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 8,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange9",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 45.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 45.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange9",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 90.0
+        }
+      ],
+      "resourceCosts": 100.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 90.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange9",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 250.0
+        }
+      ],
+      "resourceCosts": 225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 250.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange9",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 550.0
+        }
+      ],
+      "resourceCosts": 400.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 550.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange9",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 750.0
+        }
+      ],
+      "resourceCosts": 625.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 750.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange9",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1000.0
+        }
+      ],
+      "resourceCosts": 900.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1000.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange9",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1200.0
+        }
+      ],
+      "resourceCosts": 1225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1200.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange9",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1250.0
+        }
+      ],
+      "resourceCosts": 1600.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1250.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange9",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1400.0
+        }
+      ],
+      "resourceCosts": 2025.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1400.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange9",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1750.0
+        }
+      ],
+      "resourceCosts": 2500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1750.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange9",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 9,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_00_levelrange10",
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 55.0
+        }
+      ],
+      "resourceCosts": 40.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 55.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 1.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 5.0
+        }
+      ],
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_01_levelrange10",
+      "statsBoost": 5.0,
+      "stars1Allowed": true,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 110.0
+        }
+      ],
+      "resourceCosts": 100.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 110.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 2.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 10.0
+        }
+      ],
+      "enchantmentLevel": 1,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_02_levelrange10",
+      "statsBoost": 10.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 290.0
+        }
+      ],
+      "resourceCosts": 225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 290.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 3.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 15.0
+        }
+      ],
+      "enchantmentLevel": 2,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_03_levelrange10",
+      "statsBoost": 15.0,
+      "stars2Allowed": true,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 640.0
+        }
+      ],
+      "resourceCosts": 400.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 640.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 4.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 20.0
+        }
+      ],
+      "enchantmentLevel": 3,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_04_levelrange10",
+      "statsBoost": 20.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 870.0
+        }
+      ],
+      "resourceCosts": 625.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 870.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 5.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 25.0
+        }
+      ],
+      "enchantmentLevel": 4,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_05_levelrange10",
+      "statsBoost": 25.0,
+      "stars3Allowed": true,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1180.0
+        }
+      ],
+      "resourceCosts": 900.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1180.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 6.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 30.0
+        }
+      ],
+      "enchantmentLevel": 5,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_06_levelrange10",
+      "statsBoost": 30.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1400.0
+        }
+      ],
+      "resourceCosts": 1225.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1400.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 7.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 40.0
+        }
+      ],
+      "enchantmentLevel": 6,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_07_levelrange10",
+      "statsBoost": 35.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1500.0
+        }
+      ],
+      "resourceCosts": 1600.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1500.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 8.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 50.0
+        }
+      ],
+      "enchantmentLevel": 7,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_08_levelrange10",
+      "statsBoost": 40.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1800.0
+        }
+      ],
+      "resourceCosts": 2025.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 1800.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 9.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 75.0
+        }
+      ],
+      "enchantmentLevel": 8,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_09_levelrange10",
+      "statsBoost": 45.0,
+      "setAllowed": true,
+      "buyRequirements": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 2200.0
+        }
+      ],
+      "resourceCosts": 2500.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "scrappingBonus": 30.0,
+      "buyRequirementsSet": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "gold",
+          "value": 2200.0
+        },
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "shard",
+          "value": 10.0
+        }
+      ],
+      "skipCostRequirement": [
+        {
+          "requirementType": "PAY_ITEM",
+          "nameId": "lucky_coin",
+          "value": 100.0
+        }
+      ],
+      "enchantmentLevel": 9,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    },
+    {
+      "nameId": "crafting_level_10_levelrange10",
+      "statsBoost": 50.0,
+      "lvl1ResPoints": 4.0,
+      "lvl2ResPoints": 10.0,
+      "lvl3ResPoints": 25.0,
+      "enchantmentLevel": 10,
+      "levelRange": 10,
+      "boosterResPoints": 250.0
+    }
+  ]
+}

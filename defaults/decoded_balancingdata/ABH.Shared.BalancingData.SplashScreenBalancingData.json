@@ -1,0 +1,94 @@
+{
+  "splashScreenData": [
+    {
+      "nameId": "KeyArtwork_Spring_2018_1",
+      "startTimestamp": 1519862400,
+      "endTimestamp": 1527811200
+    },
+    {
+      "nameId": "KeyArtwork_2018_1",
+      "startTimestamp": 1527811200,
+      "endTimestamp": 1535760000
+    },
+    {
+      "nameId": "KeyArtwork_Autumn_2018_1",
+      "startTimestamp": 1535760000,
+      "endTimestamp": 1539561600
+    },
+    {
+      "nameId": "KeyArtwork_Halloween_2018_1",
+      "startTimestamp": 1539561600,
+      "endTimestamp": 1541030400
+    },
+    {
+      "nameId": "KeyArtwork_Autumn_2018_2",
+      "startTimestamp": 1541030400,
+      "endTimestamp": 1543622400
+    },
+    {
+      "nameId": "KeyArtwork_Winter_2018_1",
+      "startTimestamp": 1543622400,
+      "endTimestamp": 1551398400
+    },
+    {
+      "nameId": "KeyArtwork_Spring_2019",
+      "startTimestamp": 1551398400,
+      "endTimestamp": 1559347200
+    },
+    {
+      "nameId": "KeyArtwork_2019",
+      "startTimestamp": 1559347200,
+      "endTimestamp": 1567296000
+    },
+    {
+      "nameId": "KeyArtwork_Autumn_2019_1",
+      "startTimestamp": 1567296000,
+      "endTimestamp": 1571097600
+    },
+    {
+      "nameId": "KeyArtwork_Halloween_2019",
+      "startTimestamp": 1571097600,
+      "endTimestamp": 1572566400
+    },
+    {
+      "nameId": "KeyArtwork_Autumn_2019_2",
+      "startTimestamp": 1572566400,
+      "endTimestamp": 1575158400
+    },
+    {
+      "nameId": "KeyArtwork_Winter_2019",
+      "startTimestamp": 1575158400,
+      "endTimestamp": 1551398400
+    },
+    {
+      "nameId": "KeyArtwork_Spring_2020",
+      "startTimestamp": 1583020800,
+      "endTimestamp": 1590969600
+    },
+    {
+      "nameId": "KeyArtwork_2020",
+      "startTimestamp": 1590969600,
+      "endTimestamp": 1598918400
+    },
+    {
+      "nameId": "KeyArtwork_Autumn_2020_1",
+      "startTimestamp": 1598918400,
+      "endTimestamp": 1602720000
+    },
+    {
+      "nameId": "KeyArtwork_Halloween_2020",
+      "startTimestamp": 1602720000,
+      "endTimestamp": 1604188800
+    },
+    {
+      "nameId": "KeyArtwork_Autumn_2020_2",
+      "startTimestamp": 1604188800,
+      "endTimestamp": 1606780800
+    },
+    {
+      "nameId": "KeyArtwork_Winter_2020",
+      "startTimestamp": 1606780800,
+      "endTimestamp": 1583020800
+    }
+  ]
+}

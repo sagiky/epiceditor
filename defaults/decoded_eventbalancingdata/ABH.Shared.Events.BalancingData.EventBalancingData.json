@@ -1,0 +1,2330 @@
+{
+  "eventData": [
+    {
+      "nameId": "event_invasion_zombies",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_zombies": 1
+      },
+      "assetBaseId": "Invasion_Zombies",
+      "locaBaseId": "event_invasion_zombies",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_zombies": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_zombies": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_zombies_5d",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_zombies": 1
+      },
+      "assetBaseId": "Invasion_Zombies",
+      "locaBaseId": "event_invasion_zombies",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_zombies_5d": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_zombies": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_pirates",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_pirates": 1
+      },
+      "assetBaseId": "Invasion_Pirates",
+      "locaBaseId": "event_invasion_pirates",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_pirates": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_pirates": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_pirates_5d",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_pirates": 1
+      },
+      "assetBaseId": "Invasion_Pirates",
+      "locaBaseId": "event_invasion_pirates",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_pirates_5d": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_pirates": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_ninjas",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_ninjas": 1
+      },
+      "assetBaseId": "Invasion_Ninjas",
+      "locaBaseId": "event_invasion_ninjas",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_ninjas": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_china": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_ninjas_5d",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_ninjas": 1
+      },
+      "assetBaseId": "Invasion_Ninjas",
+      "locaBaseId": "event_invasion_ninjas",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_ninjas_5d": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_china": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_villains",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_villains": 1
+      },
+      "assetBaseId": "Invasion_Villains",
+      "locaBaseId": "event_invasion_villains",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_ninjas": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_villains": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_villains_5d",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_villains": 1
+      },
+      "assetBaseId": "Invasion_Villains",
+      "locaBaseId": "event_invasion_villains",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_ninjas_5d": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_villains": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_wave_gungho",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_wave_gungho": 1
+      },
+      "assetBaseId": "Wave_GungHo",
+      "locaBaseId": "event_wave_gungho",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_wave_gungho": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_winter",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_christmas": 1
+      },
+      "assetBaseId": "Invasion_Christmas",
+      "locaBaseId": "event_invasion_winter",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_christmas": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_winter": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_tinker",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_tinker": 1
+      },
+      "assetBaseId": "Invasion_Tinker",
+      "locaBaseId": "event_invasion_tinker",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_tinker": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_tinker": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_invasion_china",
+      "maxAmountOfEventItems": 5,
+      "eventGeneratorItemLootTable": {
+        "loot_spawn_event_invasion_china": 1
+      },
+      "assetBaseId": "Invasion_China",
+      "locaBaseId": "event_invasion_china",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_china": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "timeForEncounterRespawnInSec": 1800.0,
+      "maxNumberOfCollectibles": 5,
+      "eventCollectibleGeneratorItemLootTable": {
+        "loot_spawn_event_collectible_china": 1
+      },
+      "timeForCollectibleRespawnInSec": 3600.0,
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_campaign_jungle",
+      "assetBaseId": "Campaign_Jungle",
+      "locaBaseId": "event_campaign_jungle_02",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_campaign_jungle": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_jungle": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_elitechest_skins"
+    },
+    {
+      "nameId": "event_campaign_testcampaign",
+      "assetBaseId": "Wave_GungHo",
+      "locaBaseId": "event_campaign_testcampaign",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_christmas": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_testcampaign": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_elitechest_skins"
+    },
+    {
+      "nameId": "event_campaign_sonic",
+      "assetBaseId": "Campaign_SonicDash",
+      "locaBaseId": "event_campaign_sonicdash",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_campaign_sonicdash": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_sonicdash": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_elitechest_skins"
+    },
+    {
+      "nameId": "event_campaign_movie",
+      "assetBaseId": "Campaign_Movie",
+      "locaBaseId": "event_campaign_movie",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_campaign_movie": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_movie": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_elitechest_skins"
+    },
+    {
+      "nameId": "event_campaign_anniversary",
+      "assetBaseId": "Campaign_Anniversary",
+      "locaBaseId": "event_campaign_anniversary",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_campaign_anniversary": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_anniversary": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_skinchest_anniversary"
+    },
+    {
+      "nameId": "event_campaign_sports",
+      "assetBaseId": "Campaign_Sports",
+      "locaBaseId": "event_campaign_sports",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_campaign_sports": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_sports": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_skinchest_mix"
+    },
+    {
+      "nameId": "event_campaign_oktoberfest",
+      "assetBaseId": "Campaign_Oktoberfest",
+      "locaBaseId": "event_campaign_oktoberfest",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_campaign_oktoberfest": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_oktoberfest": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_elitechest_skins"
+    },
+    {
+      "nameId": "event_campaign_halloween",
+      "assetBaseId": "Campaign_Halloween",
+      "locaBaseId": "event_campaign_halloween",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_christmas": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 1800.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_halloween": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_halloween",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_campaign_christmas",
+      "assetBaseId": "Campaign_Christmas",
+      "locaBaseId": "event_campaign_christmas",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_invasion_christmas": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_christmas": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_xmas",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_campaign_valentine",
+      "assetBaseId": "Campaign_Valentine",
+      "locaBaseId": "event_campaign_valentine",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_campaign_valentine": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_valentine": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_skinchest_valentine"
+    },
+    {
+      "nameId": "event_campaign_easter",
+      "assetBaseId": "Campaign_Easter",
+      "locaBaseId": "event_campaign_easter",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_campaign_easter": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "miniCampaignUnlockDelay": 3600.0,
+      "eventMiniCampaignItemLootTable": {
+        "loot_spawn_event_campaign_easter": 1
+      },
+      "bossId": "",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_class_chest",
+      "rewardChestIdFallback": "loot_skinchest_easter"
+    },
+    {
+      "nameId": "event_boss_tinker",
+      "assetBaseId": "Boss_TinkerBoss",
+      "locaBaseId": "event_boss_tinker",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_tinker": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_tinker": 1
+      },
+      "bossId": "boss_tinker",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_elitechest_skins",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_tinker_xmas",
+      "assetBaseId": "Boss_TinkerBoss",
+      "locaBaseId": "event_boss_tinker",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_tinker": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_tinker": 1
+      },
+      "bossId": "boss_tinker",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_xmas_elite",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_tinker_winter",
+      "assetBaseId": "Boss_TinkerBoss",
+      "locaBaseId": "event_boss_tinker",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_tinker": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_tinker": 1
+      },
+      "bossId": "boss_tinker",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_winter",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_tinker_cosmic",
+      "assetBaseId": "Boss_TinkerBoss",
+      "locaBaseId": "event_boss_tinker",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_tinker": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_tinker": 1
+      },
+      "bossId": "boss_tinker",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_cosmic_elite",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_tinker_hero",
+      "assetBaseId": "Boss_TinkerBoss",
+      "locaBaseId": "event_boss_tinker",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_tinker": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_tinker": 1
+      },
+      "bossId": "boss_tinker",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_hero_elite",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_tinker_mix",
+      "assetBaseId": "Boss_TinkerBoss",
+      "locaBaseId": "event_boss_tinker",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_tinker": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}",
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_tinker": 1
+      },
+      "bossId": "boss_tinker",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_mix",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_kraken",
+      "assetBaseId": "Boss_KrakenBoss",
+      "locaBaseId": "event_boss_kraken",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_kraken": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_kraken": 1
+      },
+      "bossId": "boss_kraken",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_elitechest_skins",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_kraken_winter",
+      "assetBaseId": "Boss_KrakenBoss",
+      "locaBaseId": "event_boss_kraken",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_kraken": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_kraken": 1
+      },
+      "bossId": "boss_kraken",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_winter",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_kraken_hero",
+      "assetBaseId": "Boss_KrakenBoss",
+      "locaBaseId": "event_boss_kraken",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_kraken": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_kraken": 1
+      },
+      "bossId": "boss_kraken",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_hero_elite",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_kraken_sport",
+      "assetBaseId": "Boss_KrakenBoss",
+      "locaBaseId": "event_boss_kraken",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_kraken": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_kraken": 1
+      },
+      "bossId": "boss_kraken",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_sport_elite",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_kraken_xmas",
+      "assetBaseId": "Boss_KrakenBoss",
+      "locaBaseId": "event_boss_kraken",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_kraken": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_kraken": 1
+      },
+      "bossId": "boss_kraken",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_xmas_elite",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_kraken_mix",
+      "assetBaseId": "Boss_KrakenBoss",
+      "locaBaseId": "event_boss_kraken",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_kraken": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_short_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_kraken": 1
+      },
+      "bossId": "boss_kraken",
+      "eventRewardFirstRank": "event_firstrankbonus_short_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_mix",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_hogrider",
+      "assetBaseId": "Boss_HogriderBoss",
+      "locaBaseId": "event_boss_hogrider",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_hogrider": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_hogrider": 1
+      },
+      "bossId": "boss_hogrider_hefty",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_elitechest_skins",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_hogrider_cosmic",
+      "assetBaseId": "Boss_HogriderBoss",
+      "locaBaseId": "event_boss_hogrider",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_hogrider": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_hogrider": 1
+      },
+      "bossId": "boss_hogrider_hefty",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_cosmic_elite",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_hogrider_winter",
+      "assetBaseId": "Boss_HogriderBoss",
+      "locaBaseId": "event_boss_hogrider",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_hogrider": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_hogrider": 1
+      },
+      "bossId": "boss_hogrider_hefty",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_winter",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_hogrider_halloween",
+      "assetBaseId": "Boss_HogriderBoss",
+      "locaBaseId": "event_boss_hogrider",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_hogrider": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_hogrider": 1
+      },
+      "bossId": "boss_hogrider_hefty",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_halloween",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_hogrider_july",
+      "assetBaseId": "Boss_HogriderBoss",
+      "locaBaseId": "event_boss_hogrider",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_hogrider": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_hogrider": 1
+      },
+      "bossId": "boss_hogrider_hefty",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_4thjuly",
+      "rewardChestIdFallback": ""
+    },
+    {
+      "nameId": "event_boss_hogrider_mix",
+      "assetBaseId": "Boss_HogriderBoss",
+      "locaBaseId": "event_boss_hogrider",
+      "eventRewardLootTableWheel": {
+        "loot_event_reward_boss_hogrider": 1
+      },
+      "eventBonusLootTablesPerRank": [
+        "event_long_bonus_{rank}_levels_{levelrange}"
+      ],
+      "starRatingForRanking": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0,
+        "24": 0,
+        "25": 0
+      },
+      "rerollResultRequirement": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      },
+      "eventBossItemLootTable": {
+        "loot_spawn_event_boss_hogrider": 1
+      },
+      "bossId": "boss_hogrider_hefty",
+      "eventRewardFirstRank": "event_firstrankbonus_long_{levelrange}",
+      "rerollResultCostMax": 10.0,
+      "rewardChestIdMain": "loot_skinchest_mix",
+      "rewardChestIdFallback": ""
+    }
+  ]
+}

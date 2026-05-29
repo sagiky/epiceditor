@@ -1,0 +1,602 @@
+{
+  "powerLevelData": [
+    {
+      "nameId": "PlayerLevel_01",
+      "expectedPlayerPowerlevel": 13
+    },
+    {
+      "nameId": "PlayerLevel_02",
+      "attackModifier": 20.0,
+      "healthModifier": 20.0,
+      "expectedPlayerPowerlevel": 15
+    },
+    {
+      "nameId": "PlayerLevel_03",
+      "attackModifier": 30.0,
+      "healthModifier": 30.0,
+      "expectedPlayerPowerlevel": 18
+    },
+    {
+      "nameId": "PlayerLevel_04",
+      "attackModifier": 40.0,
+      "healthModifier": 40.0,
+      "expectedPlayerPowerlevel": 22
+    },
+    {
+      "nameId": "PlayerLevel_05",
+      "attackModifier": 66.0,
+      "healthModifier": 60.0,
+      "expectedPlayerPowerlevel": 26
+    },
+    {
+      "nameId": "PlayerLevel_06",
+      "attackModifier": 77.0,
+      "healthModifier": 70.0,
+      "expectedPlayerPowerlevel": 31
+    },
+    {
+      "nameId": "PlayerLevel_07",
+      "attackModifier": 99.0,
+      "healthModifier": 90.0,
+      "expectedPlayerPowerlevel": 37
+    },
+    {
+      "nameId": "PlayerLevel_08",
+      "attackModifier": 143.0,
+      "healthModifier": 130.0,
+      "expectedPlayerPowerlevel": 43
+    },
+    {
+      "nameId": "PlayerLevel_09",
+      "attackModifier": 176.0,
+      "healthModifier": 160.0,
+      "expectedPlayerPowerlevel": 50
+    },
+    {
+      "nameId": "PlayerLevel_10",
+      "attackModifier": 187.0,
+      "healthModifier": 170.0,
+      "expectedPlayerPowerlevel": 58
+    },
+    {
+      "nameId": "PlayerLevel_11",
+      "attackModifier": 209.0,
+      "healthModifier": 190.0,
+      "expectedPlayerPowerlevel": 66
+    },
+    {
+      "nameId": "PlayerLevel_12",
+      "attackModifier": 231.0,
+      "healthModifier": 210.0,
+      "expectedPlayerPowerlevel": 75
+    },
+    {
+      "nameId": "PlayerLevel_13",
+      "attackModifier": 253.0,
+      "healthModifier": 230.0,
+      "expectedPlayerPowerlevel": 84
+    },
+    {
+      "nameId": "PlayerLevel_14",
+      "attackModifier": 275.0,
+      "healthModifier": 250.0,
+      "expectedPlayerPowerlevel": 94
+    },
+    {
+      "nameId": "PlayerLevel_15",
+      "attackModifier": 308.0,
+      "healthModifier": 280.0,
+      "expectedPlayerPowerlevel": 105
+    },
+    {
+      "nameId": "PlayerLevel_16",
+      "attackModifier": 330.0,
+      "healthModifier": 300.0,
+      "expectedPlayerPowerlevel": 117
+    },
+    {
+      "nameId": "PlayerLevel_17",
+      "attackModifier": 352.0,
+      "healthModifier": 320.0,
+      "expectedPlayerPowerlevel": 129
+    },
+    {
+      "nameId": "PlayerLevel_18",
+      "attackModifier": 374.0,
+      "healthModifier": 340.0,
+      "expectedPlayerPowerlevel": 141
+    },
+    {
+      "nameId": "PlayerLevel_19",
+      "attackModifier": 396.0,
+      "healthModifier": 360.0,
+      "expectedPlayerPowerlevel": 155
+    },
+    {
+      "nameId": "PlayerLevel_20",
+      "attackModifier": 418.0,
+      "healthModifier": 380.0,
+      "expectedPlayerPowerlevel": 169
+    },
+    {
+      "nameId": "PlayerLevel_21",
+      "attackModifier": 440.0,
+      "healthModifier": 400.0,
+      "expectedPlayerPowerlevel": 184
+    },
+    {
+      "nameId": "PlayerLevel_22",
+      "attackModifier": 462.0,
+      "healthModifier": 420.0,
+      "expectedPlayerPowerlevel": 199
+    },
+    {
+      "nameId": "PlayerLevel_23",
+      "attackModifier": 484.0,
+      "healthModifier": 440.0,
+      "expectedPlayerPowerlevel": 215
+    },
+    {
+      "nameId": "PlayerLevel_24",
+      "attackModifier": 525.0,
+      "healthModifier": 460.0,
+      "expectedPlayerPowerlevel": 231
+    },
+    {
+      "nameId": "PlayerLevel_25",
+      "attackModifier": 600.0,
+      "healthModifier": 480.0,
+      "expectedPlayerPowerlevel": 249
+    },
+    {
+      "nameId": "PlayerLevel_26",
+      "attackModifier": 675.0,
+      "healthModifier": 575.0,
+      "expectedPlayerPowerlevel": 267
+    },
+    {
+      "nameId": "PlayerLevel_27",
+      "attackModifier": 750.0,
+      "healthModifier": 670.0,
+      "expectedPlayerPowerlevel": 285
+    },
+    {
+      "nameId": "PlayerLevel_28",
+      "attackModifier": 810.0,
+      "healthModifier": 765.0,
+      "expectedPlayerPowerlevel": 304
+    },
+    {
+      "nameId": "PlayerLevel_29",
+      "attackModifier": 878.0,
+      "healthModifier": 860.0,
+      "expectedPlayerPowerlevel": 324
+    },
+    {
+      "nameId": "PlayerLevel_30",
+      "attackModifier": 945.0,
+      "healthModifier": 955.0,
+      "expectedPlayerPowerlevel": 345
+    },
+    {
+      "nameId": "PlayerLevel_31",
+      "attackModifier": 1010.23224,
+      "healthModifier": 1047.1311,
+      "expectedPlayerPowerlevel": 366
+    },
+    {
+      "nameId": "PlayerLevel_32",
+      "attackModifier": 1077.2094,
+      "healthModifier": 1142.0414,
+      "expectedPlayerPowerlevel": 387
+    },
+    {
+      "nameId": "PlayerLevel_33",
+      "attackModifier": 1139.6,
+      "healthModifier": 1230.9269,
+      "expectedPlayerPowerlevel": 410
+    },
+    {
+      "nameId": "PlayerLevel_34",
+      "attackModifier": 1206.582,
+      "healthModifier": 1325.7506,
+      "expectedPlayerPowerlevel": 433
+    },
+    {
+      "nameId": "PlayerLevel_35",
+      "attackModifier": 1271.7703,
+      "healthModifier": 1417.4836,
+      "expectedPlayerPowerlevel": 457
+    },
+    {
+      "nameId": "PlayerLevel_36",
+      "attackModifier": 1338.7734,
+      "healthModifier": 1512.3181,
+      "expectedPlayerPowerlevel": 481
+    },
+    {
+      "nameId": "PlayerLevel_37",
+      "attackModifier": 1403.9882,
+      "healthModifier": 1603.9921,
+      "expectedPlayerPowerlevel": 506
+    },
+    {
+      "nameId": "PlayerLevel_38",
+      "attackModifier": 1471.017,
+      "healthModifier": 1698.8512,
+      "expectedPlayerPowerlevel": 531
+    },
+    {
+      "nameId": "PlayerLevel_39",
+      "attackModifier": 1533.518,
+      "healthModifier": 1787.294,
+      "expectedPlayerPowerlevel": 558
+    },
+    {
+      "nameId": "PlayerLevel_40",
+      "attackModifier": 1581.2307,
+      "healthModifier": 1859.4103,
+      "expectedPlayerPowerlevel": 585
+    },
+    {
+      "nameId": "PlayerLevel_41",
+      "attackModifier": 1643.8693,
+      "healthModifier": 1947.7124,
+      "expectedPlayerPowerlevel": 612
+    },
+    {
+      "nameId": "PlayerLevel_42",
+      "attackModifier": 1746.5625,
+      "healthModifier": 2032.8047,
+      "expectedPlayerPowerlevel": 640
+    },
+    {
+      "nameId": "PlayerLevel_43",
+      "attackModifier": 1834.6786,
+      "healthModifier": 2114.7085,
+      "expectedPlayerPowerlevel": 669
+    },
+    {
+      "nameId": "PlayerLevel_44",
+      "attackModifier": 1919.8855,
+      "healthModifier": 2193.4692,
+      "expectedPlayerPowerlevel": 699
+    },
+    {
+      "nameId": "PlayerLevel_45",
+      "attackModifier": 1997.3004,
+      "healthModifier": 2272.2634,
+      "expectedPlayerPowerlevel": 729
+    },
+    {
+      "nameId": "PlayerLevel_46",
+      "attackModifier": 2071.9263,
+      "healthModifier": 2347.9934,
+      "expectedPlayerPowerlevel": 760
+    },
+    {
+      "nameId": "PlayerLevel_47",
+      "attackModifier": 2146.5183,
+      "healthModifier": 2423.7927,
+      "expectedPlayerPowerlevel": 791
+    },
+    {
+      "nameId": "PlayerLevel_48",
+      "attackModifier": 2218.3816,
+      "healthModifier": 2496.616,
+      "expectedPlayerPowerlevel": 823
+    },
+    {
+      "nameId": "PlayerLevel_49",
+      "attackModifier": 2287.57,
+      "healthModifier": 2566.542,
+      "expectedPlayerPowerlevel": 856
+    },
+    {
+      "nameId": "PlayerLevel_50",
+      "attackModifier": 2356.7964,
+      "healthModifier": 2636.6199,
+      "expectedPlayerPowerlevel": 889
+    },
+    {
+      "nameId": "PlayerLevel_51",
+      "attackModifier": 2452.0737,
+      "healthModifier": 2735.8613,
+      "expectedPlayerPowerlevel": 923
+    },
+    {
+      "nameId": "PlayerLevel_52",
+      "attackModifier": 2544.6514,
+      "healthModifier": 2832.0408,
+      "expectedPlayerPowerlevel": 958
+    },
+    {
+      "nameId": "PlayerLevel_53",
+      "attackModifier": 2637.1882,
+      "healthModifier": 2928.137,
+      "expectedPlayerPowerlevel": 993
+    },
+    {
+      "nameId": "PlayerLevel_54",
+      "attackModifier": 2727.036,
+      "healthModifier": 3021.2197,
+      "expectedPlayerPowerlevel": 1029
+    },
+    {
+      "nameId": "PlayerLevel_55",
+      "attackModifier": 2816.8564,
+      "healthModifier": 3114.2534,
+      "expectedPlayerPowerlevel": 1065
+    },
+    {
+      "nameId": "PlayerLevel_56",
+      "attackModifier": 2901.3816,
+      "healthModifier": 3201.428,
+      "expectedPlayerPowerlevel": 1103
+    },
+    {
+      "nameId": "PlayerLevel_57",
+      "attackModifier": 2988.5403,
+      "healthModifier": 3291.5088,
+      "expectedPlayerPowerlevel": 1140
+    },
+    {
+      "nameId": "PlayerLevel_58",
+      "attackModifier": 3070.4734,
+      "healthModifier": 3375.8396,
+      "expectedPlayerPowerlevel": 1179
+    },
+    {
+      "nameId": "PlayerLevel_59",
+      "attackModifier": 3152.4465,
+      "healthModifier": 3460.23,
+      "expectedPlayerPowerlevel": 1218
+    },
+    {
+      "nameId": "PlayerLevel_60",
+      "attackModifier": 3231.8855,
+      "healthModifier": 3541.8562,
+      "expectedPlayerPowerlevel": 1258
+    },
+    {
+      "nameId": "PlayerLevel_61",
+      "attackModifier": 3325.1187,
+      "healthModifier": 3638.598,
+      "expectedPlayerPowerlevel": 1298
+    },
+    {
+      "nameId": "PlayerLevel_62",
+      "attackModifier": 3415.725,
+      "healthModifier": 3732.4458,
+      "expectedPlayerPowerlevel": 1339
+    },
+    {
+      "nameId": "PlayerLevel_63",
+      "attackModifier": 3503.7422,
+      "healthModifier": 3823.454,
+      "expectedPlayerPowerlevel": 1381
+    },
+    {
+      "nameId": "PlayerLevel_64",
+      "attackModifier": 3591.7358,
+      "healthModifier": 3914.4307,
+      "expectedPlayerPowerlevel": 1423
+    },
+    {
+      "nameId": "PlayerLevel_65",
+      "attackModifier": 3677.1978,
+      "healthModifier": 4002.6467,
+      "expectedPlayerPowerlevel": 1466
+    },
+    {
+      "nameId": "PlayerLevel_66",
+      "attackModifier": 3760.1748,
+      "healthModifier": 4088.1624,
+      "expectedPlayerPowerlevel": 1510
+    },
+    {
+      "nameId": "PlayerLevel_67",
+      "attackModifier": 3843.1892,
+      "healthModifier": 4173.726,
+      "expectedPlayerPowerlevel": 1554
+    },
+    {
+      "nameId": "PlayerLevel_68",
+      "attackModifier": 3923.7825,
+      "healthModifier": 4256.67,
+      "expectedPlayerPowerlevel": 1599
+    },
+    {
+      "nameId": "PlayerLevel_69",
+      "attackModifier": 4002.006,
+      "healthModifier": 4337.0576,
+      "expectedPlayerPowerlevel": 1645
+    },
+    {
+      "nameId": "PlayerLevel_70",
+      "attackModifier": 4080.3264,
+      "healthModifier": 4417.5664,
+      "expectedPlayerPowerlevel": 1691
+    },
+    {
+      "nameId": "PlayerLevel_71",
+      "attackModifier": 4169.2427,
+      "healthModifier": 4509.5513,
+      "expectedPlayerPowerlevel": 1738
+    },
+    {
+      "nameId": "PlayerLevel_72",
+      "attackModifier": 4255.7314,
+      "healthModifier": 4598.9053,
+      "expectedPlayerPowerlevel": 1786
+    },
+    {
+      "nameId": "PlayerLevel_73",
+      "attackModifier": 4342.207,
+      "healthModifier": 4688.244,
+      "expectedPlayerPowerlevel": 1834
+    },
+    {
+      "nameId": "PlayerLevel_74",
+      "attackModifier": 4428.6714,
+      "healthModifier": 4777.569,
+      "expectedPlayerPowerlevel": 1882
+    },
+    {
+      "nameId": "PlayerLevel_75",
+      "attackModifier": 4510.451,
+      "healthModifier": 4861.843,
+      "expectedPlayerPowerlevel": 1932
+    },
+    {
+      "nameId": "PlayerLevel_76",
+      "attackModifier": 4592.2827,
+      "healthModifier": 4946.178,
+      "expectedPlayerPowerlevel": 1982
+    },
+    {
+      "nameId": "PlayerLevel_77",
+      "attackModifier": 4671.8623,
+      "healthModifier": 5028.096,
+      "expectedPlayerPowerlevel": 2033
+    },
+    {
+      "nameId": "PlayerLevel_78",
+      "attackModifier": 4751.52,
+      "healthModifier": 5110.108,
+      "expectedPlayerPowerlevel": 2084
+    },
+    {
+      "nameId": "PlayerLevel_79",
+      "attackModifier": 4828.989,
+      "healthModifier": 5189.7754,
+      "expectedPlayerPowerlevel": 2136
+    },
+    {
+      "nameId": "PlayerLevel_80",
+      "attackModifier": 4938.1562,
+      "healthModifier": 5303.498,
+      "expectedPlayerPowerlevel": 2174
+    },
+    {
+      "nameId": "PlayerLevel_81",
+      "attackModifier": 5003.8823,
+      "healthModifier": 5370.562,
+      "expectedPlayerPowerlevel": 2242
+    },
+    {
+      "nameId": "PlayerLevel_82",
+      "attackModifier": 5101.0347,
+      "healthModifier": 5471.361,
+      "expectedPlayerPowerlevel": 2296
+    },
+    {
+      "nameId": "PlayerLevel_83",
+      "attackModifier": 5195.818,
+      "healthModifier": 5569.6045,
+      "expectedPlayerPowerlevel": 2351
+    },
+    {
+      "nameId": "PlayerLevel_84",
+      "attackModifier": 5290.4736,
+      "healthModifier": 5667.6997,
+      "expectedPlayerPowerlevel": 2406
+    },
+    {
+      "nameId": "PlayerLevel_85",
+      "attackModifier": 5382.8237,
+      "healthModifier": 5763.3145,
+      "expectedPlayerPowerlevel": 2462
+    },
+    {
+      "nameId": "PlayerLevel_86",
+      "attackModifier": 5475.085,
+      "healthModifier": 5858.8267,
+      "expectedPlayerPowerlevel": 2518
+    },
+    {
+      "nameId": "PlayerLevel_87",
+      "attackModifier": 5562.941,
+      "healthModifier": 5949.6196,
+      "expectedPlayerPowerlevel": 2576
+    },
+    {
+      "nameId": "PlayerLevel_88",
+      "attackModifier": 5652.916,
+      "healthModifier": 6042.676,
+      "expectedPlayerPowerlevel": 2633
+    },
+    {
+      "nameId": "PlayerLevel_89",
+      "attackModifier": 5738.5737,
+      "healthModifier": 6131.1143,
+      "expectedPlayerPowerlevel": 2692
+    },
+    {
+      "nameId": "PlayerLevel_90",
+      "attackModifier": 5824.2354,
+      "healthModifier": 6219.558,
+      "expectedPlayerPowerlevel": 2751
+    },
+    {
+      "nameId": "PlayerLevel_91",
+      "attackModifier": 5924.6606,
+      "healthModifier": 6323.7603,
+      "expectedPlayerPowerlevel": 2803
+    },
+    {
+      "nameId": "PlayerLevel_92",
+      "attackModifier": 6014.439,
+      "healthModifier": 6416.5894,
+      "expectedPlayerPowerlevel": 2860
+    },
+    {
+      "nameId": "PlayerLevel_93",
+      "attackModifier": 6106.2715,
+      "healthModifier": 6511.605,
+      "expectedPlayerPowerlevel": 2916
+    },
+    {
+      "nameId": "PlayerLevel_94",
+      "attackModifier": 6195.964,
+      "healthModifier": 6604.334,
+      "expectedPlayerPowerlevel": 2973
+    },
+    {
+      "nameId": "PlayerLevel_95",
+      "attackModifier": 6287.6963,
+      "healthModifier": 6699.234,
+      "expectedPlayerPowerlevel": 3029
+    },
+    {
+      "nameId": "PlayerLevel_96",
+      "attackModifier": 6377.3115,
+      "healthModifier": 6791.8745,
+      "expectedPlayerPowerlevel": 3086
+    },
+    {
+      "nameId": "PlayerLevel_97",
+      "attackModifier": 6468.9546,
+      "healthModifier": 6886.671,
+      "expectedPlayerPowerlevel": 3142
+    },
+    {
+      "nameId": "PlayerLevel_98",
+      "attackModifier": 6558.502,
+      "healthModifier": 6979.2324,
+      "expectedPlayerPowerlevel": 3199
+    },
+    {
+      "nameId": "PlayerLevel_99",
+      "attackModifier": 6650.0645,
+      "healthModifier": 7073.9355,
+      "expectedPlayerPowerlevel": 3255
+    },
+    {
+      "nameId": "PlayerLevel_100",
+      "attackModifier": 6739.551,
+      "healthModifier": 7166.427,
+      "expectedPlayerPowerlevel": 3312
+    }
+  ]
+}

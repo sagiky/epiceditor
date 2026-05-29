@@ -1,0 +1,1740 @@
+{
+  "eventManagerData": [
+    {
+      "nameId": "pirate_invasion_live_01",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1412841600,
+      "eventStartTimeStamp": 1412949600,
+      "eventEndTimeStamp": 1413176400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_01",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1413360000,
+      "eventStartTimeStamp": 1413374400,
+      "eventEndTimeStamp": 1413451800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "gungho_wave_live_01",
+      "eventId": "event_wave_gungho",
+      "eventTeaserStartTimeStamp": 1413795600,
+      "eventStartTimeStamp": 1413961200,
+      "eventEndTimeStamp": 1414958400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_01",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1415178000,
+      "eventStartTimeStamp": 1415390400,
+      "eventEndTimeStamp": 1415563200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_02",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1416042000,
+      "eventStartTimeStamp": 1416427200,
+      "eventEndTimeStamp": 1416772800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_02",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1417597200,
+      "eventStartTimeStamp": 1417809600,
+      "eventEndTimeStamp": 1417982400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "winter_invasion_live_01",
+      "eventId": "event_invasion_winter",
+      "eventTeaserStartTimeStamp": 1418806800,
+      "eventStartTimeStamp": 1419192000,
+      "eventEndTimeStamp": 1419523200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_02",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1412758800,
+      "eventStartTimeStamp": 1412759400,
+      "eventEndTimeStamp": 1412760600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "china_invasion_live_01",
+      "eventId": "event_invasion_china",
+      "eventTeaserStartTimeStamp": 1424077200,
+      "eventStartTimeStamp": 1424358000,
+      "eventEndTimeStamp": 1424635200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_01",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1425891600,
+      "eventStartTimeStamp": 1426190400,
+      "eventEndTimeStamp": 1426449600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "jungle_campaign_live_01",
+      "eventId": "event_campaign_jungle",
+      "eventTeaserStartTimeStamp": 1427965200,
+      "eventStartTimeStamp": 1428681600,
+      "eventEndTimeStamp": 1429473600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_03",
+      "eventId": "event_invasion_pirates_5d",
+      "eventTeaserStartTimeStamp": 1429520400,
+      "eventStartTimeStamp": 1430319600,
+      "eventEndTimeStamp": 1430683200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_03",
+      "eventId": "event_invasion_ninjas_5d",
+      "eventTeaserStartTimeStamp": 1430730000,
+      "eventStartTimeStamp": 1431529200,
+      "eventEndTimeStamp": 1431892800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_03",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1431939600,
+      "eventStartTimeStamp": 1432306800,
+      "eventEndTimeStamp": 1432497600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_02",
+      "eventId": "event_invasion_tinker_5d",
+      "eventTeaserStartTimeStamp": 1432544400,
+      "eventStartTimeStamp": 1433343600,
+      "eventEndTimeStamp": 1433707200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_04",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1433754000,
+      "eventStartTimeStamp": 1434726000,
+      "eventEndTimeStamp": 1434916800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_04",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1434963600,
+      "eventStartTimeStamp": 1435935600,
+      "eventEndTimeStamp": 1436126400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_04",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1436173200,
+      "eventStartTimeStamp": 1437145200,
+      "eventEndTimeStamp": 1437336000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_03",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1437382800,
+      "eventStartTimeStamp": 1438354800,
+      "eventEndTimeStamp": 1438545600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_05",
+      "eventId": "event_invasion_pirates_5d",
+      "eventTeaserStartTimeStamp": 1438592400,
+      "eventStartTimeStamp": 1439391600,
+      "eventEndTimeStamp": 1439755200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "sonicdash_campaign_live_01",
+      "eventId": "event_campaign_sonic",
+      "eventTeaserStartTimeStamp": 1440406800,
+      "eventStartTimeStamp": 1441119600,
+      "eventEndTimeStamp": 1442174400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_04",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1442221200,
+      "eventStartTimeStamp": 1443193200,
+      "eventEndTimeStamp": 1443384000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_06",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1443430800,
+      "eventStartTimeStamp": 1444402800,
+      "eventEndTimeStamp": 1444593600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "halloween_campaign_live_01",
+      "eventId": "event_campaign_halloween",
+      "eventTeaserStartTimeStamp": 1444640400,
+      "eventStartTimeStamp": 1445612400,
+      "eventEndTimeStamp": 1446408000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_05",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1446454800,
+      "eventStartTimeStamp": 1447426800,
+      "eventEndTimeStamp": 1447617600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_05",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1447664400,
+      "eventStartTimeStamp": 1448636400,
+      "eventEndTimeStamp": 1448827200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "christmas_campaign_live_01",
+      "eventId": "event_campaign_christmas",
+      "eventTeaserStartTimeStamp": 1449565200,
+      "eventStartTimeStamp": 1450450800,
+      "eventEndTimeStamp": 1451505600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villains_invasion_live_01",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1453107600,
+      "eventStartTimeStamp": 1453474800,
+      "eventEndTimeStamp": 1453665600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "valentine_campaign_live_01",
+      "eventId": "event_campaign_valentine",
+      "eventTeaserStartTimeStamp": 1454317200,
+      "eventStartTimeStamp": 1455289200,
+      "eventEndTimeStamp": 1456084800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_07",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1456477200,
+      "eventStartTimeStamp": 1457103600,
+      "eventEndTimeStamp": 1457294400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "easter_campaign_live_01",
+      "eventId": "event_campaign_easter",
+      "eventTeaserStartTimeStamp": 1457341200,
+      "eventStartTimeStamp": 1458313200,
+      "eventEndTimeStamp": 1459108800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villains_invasion_live_02",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1459108860,
+      "eventStartTimeStamp": 1460127600,
+      "eventEndTimeStamp": 1460318400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "movie_campaign_live_01",
+      "eventId": "event_campaign_movie",
+      "eventTeaserStartTimeStamp": 1460318400,
+      "eventStartTimeStamp": 1461333600,
+      "eventEndTimeStamp": 1462129200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_06",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1462129200,
+      "eventStartTimeStamp": 1463148000,
+      "eventEndTimeStamp": 1463338800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "anniversary_campaign_live_01",
+      "eventId": "event_campaign_anniversary",
+      "eventTeaserStartTimeStamp": 1463338800,
+      "eventStartTimeStamp": 1464876000,
+      "eventEndTimeStamp": 1465758000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_01",
+      "eventId": "event_boss_tinker",
+      "eventTeaserStartTimeStamp": 1465758000,
+      "eventStartTimeStamp": 1466600400,
+      "eventEndTimeStamp": 1466967600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "jungle_campaign_live_02",
+      "eventId": "event_campaign_jungle",
+      "eventTeaserStartTimeStamp": 1466967600,
+      "eventStartTimeStamp": 1467892800,
+      "eventEndTimeStamp": 1468782000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_06",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1468782000,
+      "eventStartTimeStamp": 1469793600,
+      "eventEndTimeStamp": 1469991600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "sports_campaign_live_01",
+      "eventId": "event_campaign_sports",
+      "eventTeaserStartTimeStamp": 1469991600,
+      "eventStartTimeStamp": 1470916800,
+      "eventEndTimeStamp": 1471806000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_01",
+      "eventId": "event_boss_kraken",
+      "eventTeaserStartTimeStamp": 1469991600,
+      "eventStartTimeStamp": 1473249600,
+      "eventEndTimeStamp": 1473620400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "oktoberfest_campaign_live_01",
+      "eventId": "event_campaign_oktoberfest",
+      "eventTeaserStartTimeStamp": 1471806000,
+      "eventStartTimeStamp": 1474545600,
+      "eventEndTimeStamp": 1475434800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_05",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1473879600,
+      "eventStartTimeStamp": 1476446400,
+      "eventEndTimeStamp": 1476644400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "halloween_campaign_live_02",
+      "eventId": "event_campaign_halloween",
+      "eventTeaserStartTimeStamp": 1473879600,
+      "eventStartTimeStamp": 1477569600,
+      "eventEndTimeStamp": 1478113200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_02",
+      "eventId": "event_boss_tinker",
+      "eventTeaserStartTimeStamp": 1478026800,
+      "eventStartTimeStamp": 1479297600,
+      "eventEndTimeStamp": 1479668400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_08",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1478026800,
+      "eventStartTimeStamp": 1480680000,
+      "eventEndTimeStamp": 1480878000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "christmas_campaign_live_02",
+      "eventId": "event_campaign_christmas",
+      "eventTeaserStartTimeStamp": 1478026800,
+      "eventStartTimeStamp": 1481817600,
+      "eventEndTimeStamp": 1482692400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villains_invasion_live_03",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1478026800,
+      "eventStartTimeStamp": 1483110000,
+      "eventEndTimeStamp": 1483300800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_02",
+      "eventId": "event_boss_kraken",
+      "eventTeaserStartTimeStamp": 1481817600,
+      "eventStartTimeStamp": 1484146800,
+      "eventEndTimeStamp": 1484510400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "china_invasion_live_02",
+      "eventId": "event_invasion_china",
+      "eventTeaserStartTimeStamp": 1481817600,
+      "eventStartTimeStamp": 1485529200,
+      "eventEndTimeStamp": 1485720000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "valentine_campaign_live_02",
+      "eventId": "event_campaign_valentine",
+      "eventTeaserStartTimeStamp": 1481817600,
+      "eventStartTimeStamp": 1486652400,
+      "eventEndTimeStamp": 1487534400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_07",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1485705600,
+      "eventStartTimeStamp": 1487948400,
+      "eventEndTimeStamp": 1488139200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_03",
+      "eventId": "event_boss_tinker",
+      "eventTeaserStartTimeStamp": 1485705600,
+      "eventStartTimeStamp": 1488380400,
+      "eventEndTimeStamp": 1488744000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_07",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1485705600,
+      "eventStartTimeStamp": 1489158000,
+      "eventEndTimeStamp": 1489348800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_06",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1488870000,
+      "eventStartTimeStamp": 1490367600,
+      "eventEndTimeStamp": 1490558400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_01",
+      "eventId": "event_boss_hogrider",
+      "eventTeaserStartTimeStamp": 1489518000,
+      "eventStartTimeStamp": 1490799600,
+      "eventEndTimeStamp": 1491163200,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_09",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1491073200,
+      "eventStartTimeStamp": 1491577200,
+      "eventEndTimeStamp": 1491768000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "easter_campaign_live_02",
+      "eventId": "event_campaign_easter",
+      "eventTeaserStartTimeStamp": 1491332400,
+      "eventStartTimeStamp": 1492095600,
+      "eventEndTimeStamp": 1492977600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villains_invasion_live_04",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1488654000,
+      "eventStartTimeStamp": 1493388000,
+      "eventEndTimeStamp": 1493578800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_03",
+      "eventId": "event_boss_kraken",
+      "eventTeaserStartTimeStamp": 1488654000,
+      "eventStartTimeStamp": 1493820000,
+      "eventEndTimeStamp": 1494183600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_boss_live_04",
+      "eventId": "event_boss_tinker",
+      "eventTeaserStartTimeStamp": 1494183600,
+      "eventStartTimeStamp": 1495634400,
+      "eventEndTimeStamp": 1495998000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_08",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1494183600,
+      "eventStartTimeStamp": 1496412000,
+      "eventEndTimeStamp": 1496602800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "anniversary_campaign_live_02",
+      "eventId": "event_campaign_anniversary",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1496930400,
+      "eventEndTimeStamp": 1497812400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_07",
+      "eventId": "event_boss_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1498053600,
+      "eventEndTimeStamp": 1498417200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_10",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1498831200,
+      "eventEndTimeStamp": 1499022000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_03",
+      "eventId": "event_boss_hogrider",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1499263200,
+      "eventEndTimeStamp": 1499886000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villains_invasion_live_05",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1500040800,
+      "eventEndTimeStamp": 1500231600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_09",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1500645600,
+      "eventEndTimeStamp": 1500836400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "sports_campaign_live_02",
+      "eventId": "event_campaign_sports",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1501164000,
+      "eventEndTimeStamp": 1502046000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_09",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1502460000,
+      "eventEndTimeStamp": 1502650800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_08",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1503064800,
+      "eventEndTimeStamp": 1503255600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_04",
+      "eventId": "event_boss_kraken",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1503496800,
+      "eventEndTimeStamp": 1503860400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_11",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1504274400,
+      "eventEndTimeStamp": 1504465200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "jungle_campaign_live_03",
+      "eventId": "event_campaign_jungle",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1504792800,
+      "eventEndTimeStamp": 1505674800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_10",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1506088800,
+      "eventEndTimeStamp": 1506279600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_05",
+      "eventId": "event_boss_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1506520800,
+      "eventEndTimeStamp": 1506884400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_invasion_live_09",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1507298400,
+      "eventEndTimeStamp": 1507489200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_10",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1507903200,
+      "eventEndTimeStamp": 1508094000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_04",
+      "eventId": "event_boss_hogrider",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1508335200,
+      "eventEndTimeStamp": 1508698800,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "halloween_campaign_live_03",
+      "eventId": "event_campaign_halloween",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1509026400,
+      "eventEndTimeStamp": 1509519600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villains_invasion_live_06",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1510322400,
+      "eventEndTimeStamp": 1510513200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_05",
+      "eventId": "event_boss_kraken",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1510754400,
+      "eventEndTimeStamp": 1510759800,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "kraken_boss_live_06",
+      "eventId": "event_boss_kraken",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1510759800,
+      "eventEndTimeStamp": 1511121600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_11_2017",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1511535600,
+      "eventEndTimeStamp": 1511726400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_12_2017",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1512140400,
+      "eventEndTimeStamp": 1512331200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_12_2017",
+      "eventId": "event_boss_tinker_xmas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1512572400,
+      "eventEndTimeStamp": 1512936000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "christmas_campaign_live_12_2017",
+      "eventId": "event_campaign_christmas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1513350000,
+      "eventEndTimeStamp": 1514232000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_12_2017",
+      "eventId": "event_boss_hogrider_winter",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1514386800,
+      "eventEndTimeStamp": 1514750400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_invasion_live_01_2018",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1515164400,
+      "eventEndTimeStamp": 1515355200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_01_2018",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1515769200,
+      "eventEndTimeStamp": 1515960000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_01_2018",
+      "eventId": "event_boss_kraken_winter",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1516201200,
+      "eventEndTimeStamp": 1516564800,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villains_invasion_live_01_2018",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1516978800,
+      "eventEndTimeStamp": 1517169600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_02_2018",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1517583600,
+      "eventEndTimeStamp": 1517774400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "valentine_campaign_live_02_2018",
+      "eventId": "event_campaign_valentine",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1518102000,
+      "eventEndTimeStamp": 1518984000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_02_2018",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1519398000,
+      "eventEndTimeStamp": 1519588800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_02_2018",
+      "eventId": "event_boss_tinker_cosmic",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1519830000,
+      "eventEndTimeStamp": 1520193600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_invasion_live_03_2018",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1520607600,
+      "eventEndTimeStamp": 1520798400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_03_2018",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1521212400,
+      "eventEndTimeStamp": 1521403200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_03_2018",
+      "eventId": "event_boss_hogrider",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1521644400,
+      "eventEndTimeStamp": 1522008000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "easter_campaign_live_03_2018",
+      "eventId": "event_campaign_easter",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1522335600,
+      "eventEndTimeStamp": 1523217600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villain_invasion_live_04_2018",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1523631600,
+      "eventEndTimeStamp": 1523822400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_04_2018",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1524236400,
+      "eventEndTimeStamp": 1524427200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_04_2018",
+      "eventId": "event_boss_kraken_hero",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1524668400,
+      "eventEndTimeStamp": 1525032000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_05_2018",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1525446000,
+      "eventEndTimeStamp": 1525636800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_05_2018",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1526050800,
+      "eventEndTimeStamp": 1526241600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_05_2018",
+      "eventId": "event_boss_tinker_hero",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1526482800,
+      "eventEndTimeStamp": 1526846400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "zombie_invasion_live_05_2018",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1527260400,
+      "eventEndTimeStamp": 1527451200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villain_invasion_live_06_2018",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1527865200,
+      "eventEndTimeStamp": 1528056000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "anniversary_campaign_live_06_2018",
+      "eventId": "event_campaign_anniversary",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1528383600,
+      "eventEndTimeStamp": 1529265600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_06_2018",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1529679600,
+      "eventEndTimeStamp": 1529870400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_06_2018",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1530284400,
+      "eventEndTimeStamp": 1530475200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_07_2018",
+      "eventId": "event_boss_hogrider_july",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1530716400,
+      "eventEndTimeStamp": 1531080000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_invasion_live_07_2018",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1531494000,
+      "eventEndTimeStamp": 1531684800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_07_2018",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1532098800,
+      "eventEndTimeStamp": 1532289600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_07_2018",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1532530800,
+      "eventEndTimeStamp": 1532894400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villain_invasion_live_08_2018",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1533308400,
+      "eventEndTimeStamp": 1533499200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "sports_campaign_live_08_2018",
+      "eventId": "event_campaign_sports",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1533826800,
+      "eventEndTimeStamp": 1534708800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_08_2018",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1535122800,
+      "eventEndTimeStamp": 1535313600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_09_2018",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1536159600,
+      "eventEndTimeStamp": 1536523200,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_09_2018",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1536937200,
+      "eventEndTimeStamp": 1537128000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_09_2018",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1537542000,
+      "eventEndTimeStamp": 1537732800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_09_2018",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1537974000,
+      "eventEndTimeStamp": 1538337600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villain_invasion_live_10_2018",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1538751600,
+      "eventEndTimeStamp": 1538942400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_10_2018",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1539356400,
+      "eventEndTimeStamp": 1539547200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_10_2018",
+      "eventId": "event_boss_hogrider_halloween",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1539788400,
+      "eventEndTimeStamp": 1540152000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "halloween_campaign_live_10_2018",
+      "eventId": "event_campaign_halloween",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1540566000,
+      "eventEndTimeStamp": 1541016000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_11_2018",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1541775600,
+      "eventEndTimeStamp": 1541966400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_11_2018",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1542207600,
+      "eventEndTimeStamp": 1542571200,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_11_2018",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1542985200,
+      "eventEndTimeStamp": 1543176000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_11_2018",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1543590000,
+      "eventEndTimeStamp": 1543780800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_12_2018",
+      "eventId": "event_boss_kraken_xmas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1544022000,
+      "eventEndTimeStamp": 1544385600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "christmas_campaign_live_12_2018",
+      "eventId": "event_campaign_christmas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1544886000,
+      "eventEndTimeStamp": 1545768000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_12_2018",
+      "eventId": "event_boss_hogrider_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1545922800,
+      "eventEndTimeStamp": 1546286400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villain_invasion_live_01_2019",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1546614000,
+      "eventEndTimeStamp": 1546804800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_01_2019",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1547823600,
+      "eventEndTimeStamp": 1548014400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_01_2019",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1548255600,
+      "eventEndTimeStamp": 1548619200,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_02_2019",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1549033200,
+      "eventEndTimeStamp": 1549224000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "valentine_campaign_live_02_2019",
+      "eventId": "event_campaign_valentine",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1549551600,
+      "eventEndTimeStamp": 1550433600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_02_2019",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1550674800,
+      "eventEndTimeStamp": 1551038400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_03_2019",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1551452400,
+      "eventEndTimeStamp": 1551643200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_03_2019",
+      "eventId": "event_boss_hogrider_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1551884400,
+      "eventEndTimeStamp": 1552248000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villain_invasion_live_03_2019",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1552662000,
+      "eventEndTimeStamp": 1552852800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_03_2019",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1553094000,
+      "eventEndTimeStamp": 1553457600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "zombie_invasion_live_03_2019",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1553871600,
+      "eventEndTimeStamp": 1554062400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_04_2019",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1554476400,
+      "eventEndTimeStamp": 1554667200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_04_2019",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1554908400,
+      "eventEndTimeStamp": 1555272000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "easter_campaign_live_04_2019",
+      "eventId": "event_campaign_easter",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1555599600,
+      "eventEndTimeStamp": 1556481600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_05_2019",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1556895600,
+      "eventEndTimeStamp": 1557086400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_05_2019",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1558105200,
+      "eventEndTimeStamp": 1558296000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_05_2019",
+      "eventId": "event_boss_hogrider_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1558537200,
+      "eventEndTimeStamp": 1558900800,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villain_invasion_live_05_2019",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1559314800,
+      "eventEndTimeStamp": 1559505600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "anniversary_campaign_live_06_2019",
+      "eventId": "event_campaign_anniversary",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1559833200,
+      "eventEndTimeStamp": 1560715200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_06_2019",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1561129200,
+      "eventEndTimeStamp": 1561320000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_06_2019",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1561734000,
+      "eventEndTimeStamp": 1561924800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_07_2019",
+      "eventId": "event_boss_hogrider_july",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1562166000,
+      "eventEndTimeStamp": 1562529600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_invasion_live_07_2019",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1562943600,
+      "eventEndTimeStamp": 1563134400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_07_2019",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1563548400,
+      "eventEndTimeStamp": 1563739200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_07_2019",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1563980400,
+      "eventEndTimeStamp": 1564344000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villain_invasion_live_08_2019",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1564758000,
+      "eventEndTimeStamp": 1564948800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "sports_campaign_live_08_2019",
+      "eventId": "event_campaign_sports",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1565276400,
+      "eventEndTimeStamp": 1566158400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_08_2019",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1567177200,
+      "eventEndTimeStamp": 1567368000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_09_2019",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1567782000,
+      "eventEndTimeStamp": 1567972800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_09_2019",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1568214000,
+      "eventEndTimeStamp": 1568577600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_invasion_live_09_2019",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1568991600,
+      "eventEndTimeStamp": 1569182400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_09_2019",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1569423600,
+      "eventEndTimeStamp": 1569787200,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_10_2019",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1570201200,
+      "eventEndTimeStamp": 1570392000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villain_invasion_live_10_2019",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1570806000,
+      "eventEndTimeStamp": 1570996800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_10_2019",
+      "eventId": "event_boss_hogrider_halloween",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1571238000,
+      "eventEndTimeStamp": 1571601600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "halloween_campaign_live_10_2019",
+      "eventId": "event_campaign_halloween",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1572102000,
+      "eventEndTimeStamp": 1572552000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_11_2019",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1573225200,
+      "eventEndTimeStamp": 1573416000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_11_2019",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1573657200,
+      "eventEndTimeStamp": 1574020800,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_11_2019",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1574434800,
+      "eventEndTimeStamp": 1574625600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_11_2019",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1575039600,
+      "eventEndTimeStamp": 1575230400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_12_2019",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1575644400,
+      "eventEndTimeStamp": 1575835200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_12_2019",
+      "eventId": "event_boss_kraken_xmas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1576076400,
+      "eventEndTimeStamp": 1576440000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "christmas_campaign_live_12_2019",
+      "eventId": "event_campaign_christmas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1576767600,
+      "eventEndTimeStamp": 1577649600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villain_invasion_live_01_2020",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1578063600,
+      "eventEndTimeStamp": 1578254400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_01_2020",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1578668400,
+      "eventEndTimeStamp": 1578859200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_01_2020",
+      "eventId": "event_boss_hogrider_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1579100400,
+      "eventEndTimeStamp": 1579464000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_01_2020",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1579878000,
+      "eventEndTimeStamp": 1580068800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_02_2020",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1581087600,
+      "eventEndTimeStamp": 1581278400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "valentine_campaign_live_02_2020",
+      "eventId": "event_campaign_valentine",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1581606000,
+      "eventEndTimeStamp": 1582488000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_02_2020",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1582729200,
+      "eventEndTimeStamp": 1583092800,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_03_2020",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1583506800,
+      "eventEndTimeStamp": 1583697600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_03_2020",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1583938800,
+      "eventEndTimeStamp": 1584302400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villain_invasion_live_03_2020",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1584716400,
+      "eventEndTimeStamp": 1584907200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_03_2020",
+      "eventId": "event_boss_hogrider_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1585148400,
+      "eventEndTimeStamp": 1585512000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "zombie_invasion_live_04_2020",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1585926000,
+      "eventEndTimeStamp": 1586116800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "easter_campaign_live_04_2020",
+      "eventId": "event_campaign_easter",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1586444400,
+      "eventEndTimeStamp": 1587326400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_04_2020",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1587567600,
+      "eventEndTimeStamp": 1587931200,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "ninja_invasion_live_05_2020",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1588345200,
+      "eventEndTimeStamp": 1588536000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_05_2020",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1589554800,
+      "eventEndTimeStamp": 1589745600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_05_2020",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1589986800,
+      "eventEndTimeStamp": 1590350400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_05_2020",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1590764400,
+      "eventEndTimeStamp": 1590955200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villain_invasion_live_06_2020",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1591369200,
+      "eventEndTimeStamp": 1591560000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "anniversary_campaign_live_06_2020",
+      "eventId": "event_campaign_anniversary",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1591887600,
+      "eventEndTimeStamp": 1592769600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_06_2020",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1593183600,
+      "eventEndTimeStamp": 1593374400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_07_2020",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1593788400,
+      "eventEndTimeStamp": 1593979200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_07_2020",
+      "eventId": "event_boss_hogrider_july",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1594220400,
+      "eventEndTimeStamp": 1594584000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_invasion_live_07_2020",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1594998000,
+      "eventEndTimeStamp": 1595188800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_07_2020",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1595430000,
+      "eventEndTimeStamp": 1595793600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "pirate_invasion_live_08_2020",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1596812400,
+      "eventEndTimeStamp": 1597003200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_invasion_live_08_2020",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1597417200,
+      "eventEndTimeStamp": 1597608000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "sports_campaign_live_08_2020",
+      "eventId": "event_campaign_sports",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1597935600,
+      "eventEndTimeStamp": 1598817600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "villain_invasion_live_09_2020",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1599231600,
+      "eventEndTimeStamp": 1599422400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_09_2020",
+      "eventId": "event_boss_kraken_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1600268400,
+      "eventEndTimeStamp": 1600632000,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "zombie_invasion_live_09_2020",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1601046000,
+      "eventEndTimeStamp": 1601236800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_10_2020",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1602255600,
+      "eventEndTimeStamp": 1602446400,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "hogrider_boss_live_10_2020",
+      "eventId": "event_boss_hogrider_halloween",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1602687600,
+      "eventEndTimeStamp": 1603051200,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "tinker_invasion_live_10_2020",
+      "eventId": "event_invasion_tinker",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1603465200,
+      "eventEndTimeStamp": 1603656000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "halloween_campaign_live_10_2020",
+      "eventId": "event_campaign_halloween",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1603810800,
+      "eventEndTimeStamp": 1604260800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "pirate_invasion_live_11_2020",
+      "eventId": "event_invasion_pirates",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1604674800,
+      "eventEndTimeStamp": 1604865600,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "tinker_boss_live_11_2020",
+      "eventId": "event_boss_tinker_mix",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1605106800,
+      "eventEndTimeStamp": 1605470400,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "villain_invasion_live_11_2020",
+      "eventId": "event_invasion_villains",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1605884400,
+      "eventEndTimeStamp": 1606075200,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "zombie_invasion_live_11_2020",
+      "eventId": "event_invasion_zombies",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1606489200,
+      "eventEndTimeStamp": 1606680000,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "ninja_invasion_live_12_2020",
+      "eventId": "event_invasion_ninjas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1607094000,
+      "eventEndTimeStamp": 1607284800,
+      "maximumMatchmakingPlayers": 24
+    },
+    {
+      "nameId": "kraken_boss_live_12_2020",
+      "eventId": "event_boss_kraken_xmas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1607526000,
+      "eventEndTimeStamp": 1607889600,
+      "maximumMatchmakingPlayers": 49
+    },
+    {
+      "nameId": "christmas_campaign_live_12_2020",
+      "eventId": "event_campaign_christmas",
+      "eventTeaserStartTimeStamp": 1495998000,
+      "eventStartTimeStamp": 1608217200,
+      "eventEndTimeStamp": 1609099200,
+      "maximumMatchmakingPlayers": 24
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "customMessageData": [
+    {
+      "nameId": "message_summersale_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_summersale_gift",
+      "lootTableReward": {
+        "class_nerd": 1
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_BIRD",
+          "nameId": "bird_yellow",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_visit_twitter",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_visit_twitter",
+      "buttonAtlasId": "CampElements",
+      "buttonSpriteNameId": "ScrapItem",
+      "urlToOpen": "https://twitter.com/Abepic",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_039_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_fullmoon_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_fullmoon_gift",
+      "lootTableReward": {
+        "class_moonpriest": 1
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_BIRD",
+          "nameId": "bird_white",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_christmas_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_christmas_gift",
+      "lootTableReward": {
+        "lucky_coin": 60
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_pvp_season07_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_pvp_season07_gift",
+      "lootTableReward": {
+        "lucky_coin": 10
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_enchantment_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_enchantment_gift",
+      "lootTableReward": {
+        "shard": 5
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_067_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_pvp_reset_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_pvp_reset_gift",
+      "lootTableReward": {
+        "lucky_coin": 30
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_143android_reset_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_143android_reset_gift",
+      "lootTableReward": {
+        "potion_energy": 75
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_144_compensation_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_144_compensation_ios_gift",
+      "lootTableReward": {
+        "gold": 1000,
+        "mastery_all": 5000
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_visit_facebook",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_visit_facebook",
+      "buttonAtlasId": "CampElements",
+      "buttonSpriteNameId": "ScrapItem",
+      "urlToOpen": "https://www.facebook.com/angrybirdsepic",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_022_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_151android_crash_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_151android_crash_gift",
+      "lootTableReward": {
+        "potion_energy": 20
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_210_compensation_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_210_compensation_gift",
+      "lootTableReward": {
+        "lucky_coin": 30
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_053_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "social_mailbox_pvp_season07_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_pvp_season07_gift",
+      "lootTableReward": {
+        "lucky_coin": 50
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_053_battleground",
+          "value": 1.0
+        }
+      ]
+    },
+    {
+      "nameId": "message_22_classupgrade",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_tricksters_gift",
+      "lootTableReward": {
+        "skin_elitetricksters_legacy": 1
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": ""
+    },
+    {
+      "nameId": "social_mailbox_pvp_season16_gift",
+      "npcNameId": "npc_friend_eagle",
+      "locaId": "social_mailbox_pvp_season16_gift",
+      "lootTableReward": {
+        "lucky_coin": 50
+      },
+      "buttonAtlasId": "ShopAndSocialElements",
+      "buttonSpriteNameId": "SocialReward",
+      "urlToOpen": "",
+      "addMessageRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_053_battleground",
+          "value": 1.0
+        }
+      ]
+    }
+  ]
+}

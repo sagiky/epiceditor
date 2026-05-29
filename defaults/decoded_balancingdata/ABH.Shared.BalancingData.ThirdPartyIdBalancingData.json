@@ -1,0 +1,839 @@
+{
+  "thirdPartyIdData": [
+    {
+      "nameId": "offer_lucky_coins_1",
+      "paymentProductId": "com.rovio.gold.luckycoins.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_2",
+      "paymentProductId": "com.rovio.gold.luckycoins.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_3",
+      "paymentProductId": "com.rovio.gold.luckycoins.3",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_4",
+      "paymentProductId": "com.rovio.gold.luckycoins.4",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_5",
+      "paymentProductId": "com.rovio.gold.luckycoins.5",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_1a",
+      "paymentProductId": "com.rovio.gold.luckycoins.1a",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_2a",
+      "paymentProductId": "com.rovio.gold.luckycoins.2a",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_3a",
+      "paymentProductId": "com.rovio.gold.luckycoins.3a",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_4a",
+      "paymentProductId": "com.rovio.gold.luckycoins.4a",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_5a",
+      "paymentProductId": "com.rovio.gold.luckycoins.5a",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_0",
+      "paymentProductId": "com.rovio.gold.luckycoins.0",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_1b",
+      "paymentProductId": "com.rovio.gold.luckycoins.1b",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_2b",
+      "paymentProductId": "com.rovio.gold.luckycoins.2b",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_3b",
+      "paymentProductId": "com.rovio.gold.luckycoins.3b",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_4b",
+      "paymentProductId": "com.rovio.gold.luckycoins.4b",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_5b",
+      "paymentProductId": "com.rovio.gold.luckycoins.5b",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_0_discount",
+      "paymentProductId": "com.rovio.gold.luckycoins.0.discount",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_1b_discount",
+      "paymentProductId": "com.rovio.gold.luckycoins.1.discount",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_2b_discount",
+      "paymentProductId": "com.rovio.gold.luckycoins.2.discount",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_3b_discount",
+      "paymentProductId": "com.rovio.gold.luckycoins.3.discount",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_4b_discount",
+      "paymentProductId": "com.rovio.gold.luckycoins.4.discount",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_5b_discount",
+      "paymentProductId": "com.rovio.gold.luckycoins.5.discount",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_cs",
+      "paymentProductId": "com.rovio.gold.luckycoins.0.cs",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_cs_5",
+      "paymentProductId": "com.rovio.gold.fiveluckycoins",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_charity_blackfriday",
+      "paymentProductId": "com.rovio.gold.luckycoins.blackfriday",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_bf1",
+      "paymentProductId": "com.rovio.gold.luckycoins.blackfridayoffer01",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_bf2",
+      "paymentProductId": "com.rovio.gold.luckycoins.blackfridayoffer02",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_lucky_coins_charity_RoomToRead",
+      "paymentProductId": "com.rovio.gold.roomtoread",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_permanent_golden_chili",
+      "paymentProductId": "com.rovio.gold.goldenchili",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_starter_bundle_01",
+      "paymentProductId": "com.rovio.gold.starter1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_starter_bundle_02",
+      "paymentProductId": "com.rovio.gold.starter2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_samurai_bundle_01",
+      "paymentProductId": "com.rovio.gold.bonuscode.japan",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_samurai_set_01",
+      "paymentProductId": "com.rovio.gold.bonuscode.summersale",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_voucher_test",
+      "paymentProductId": "test.voucher",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_bonuscode_magazine01",
+      "paymentProductId": "com.rovio.gold.bonuscode.magazine01",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_bonuscode_objectives01",
+      "paymentProductId": "com.rovio.gold.bonuscode.hashtag01",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "addbird_yellowbird",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.addbird_yellowbird",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQAQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQAA",
+      "xBoxLiveAchievementId": 1
+    },
+    {
+      "nameId": "addbird_whitebird",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.addbird_whitebird",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQAg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQAQ",
+      "xBoxLiveAchievementId": 2
+    },
+    {
+      "nameId": "addbird_blackbird",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.addbird_blackbird",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQAw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQAg",
+      "xBoxLiveAchievementId": 3
+    },
+    {
+      "nameId": "addbird_bluebird",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.addbird_bluebird",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQEg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQAw",
+      "xBoxLiveAchievementId": 5
+    },
+    {
+      "nameId": "key_yellow",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.key_yellow",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQBA",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQBA",
+      "xBoxLiveAchievementId": 7
+    },
+    {
+      "nameId": "key_blue",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.key_blue",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQBQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQBQ",
+      "xBoxLiveAchievementId": 8
+    },
+    {
+      "nameId": "key_red",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.key_red",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQBg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQBg",
+      "xBoxLiveAchievementId": 9
+    },
+    {
+      "nameId": "egg_01",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.egg_01",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQBw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQBw",
+      "xBoxLiveAchievementId": 10
+    },
+    {
+      "nameId": "egg_02",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.egg_02",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQCA",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQCA",
+      "xBoxLiveAchievementId": 11
+    },
+    {
+      "nameId": "egg_03",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.egg_03",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQCQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQCQ",
+      "xBoxLiveAchievementId": 12
+    },
+    {
+      "nameId": "egg_04",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.egg_04",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQCg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQCg",
+      "xBoxLiveAchievementId": 13
+    },
+    {
+      "nameId": "egg_05",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.egg_05",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQCw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQCw",
+      "xBoxLiveAchievementId": 14
+    },
+    {
+      "nameId": "class_upgrade_bronze",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.class_upgrade_bronze",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQDA",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQDA",
+      "xBoxLiveAchievementId": 15
+    },
+    {
+      "nameId": "class_upgrade_silver",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.class_upgrade_silver",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQDQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQDQ",
+      "xBoxLiveAchievementId": 16
+    },
+    {
+      "nameId": "class_upgrade_gold",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.class_upgrade_gold",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQDg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQDg",
+      "xBoxLiveAchievementId": 17
+    },
+    {
+      "nameId": "chronicle_cave_progress",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.chronicle_cave_progress",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQDw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQDw",
+      "xBoxLiveAchievementId": 18
+    },
+    {
+      "nameId": "unlock_airship",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.unlock_airship",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQEA",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQEA",
+      "xBoxLiveAchievementId": 19
+    },
+    {
+      "nameId": "unlock_ship",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.unlock_ship",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQEw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQEw",
+      "xBoxLiveAchievementId": 20
+    },
+    {
+      "nameId": "unlock_submarine",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.unlock_submarine",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQEQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQEQ",
+      "xBoxLiveAchievementId": 21
+    },
+    {
+      "nameId": "winArenaBattles",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.winArenaBattles",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQIg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQIQ",
+      "xBoxLiveAchievementId": 22
+    },
+    {
+      "nameId": "completeObjectives",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.completeObjectives",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQGw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQGg",
+      "xBoxLiveAchievementId": 23
+    },
+    {
+      "nameId": "completeCaves",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.completeCaves",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQIQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQIA",
+      "xBoxLiveAchievementId": 24
+    },
+    {
+      "nameId": "topSpotDiamond",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.topSpotDiamond",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQFQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQFA",
+      "xBoxLiveAchievementId": 25
+    },
+    {
+      "nameId": "reachDiamond",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.reachDiamond",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQFg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQFQ",
+      "xBoxLiveAchievementId": 26
+    },
+    {
+      "nameId": "reachStone",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.reachStone",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQFw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQFg",
+      "xBoxLiveAchievementId": 27
+    },
+    {
+      "nameId": "reachSilver",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.reachSilver",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQGA",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQFw",
+      "xBoxLiveAchievementId": 28
+    },
+    {
+      "nameId": "reachGold",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.reachGold",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQGQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQGA",
+      "xBoxLiveAchievementId": 29
+    },
+    {
+      "nameId": "reachPlatinum",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.reachPlatinum",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQGg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQGQ",
+      "xBoxLiveAchievementId": 30
+    },
+    {
+      "nameId": "defeatAllClasses",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.defeatAllClasses",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQHA",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQGw",
+      "xBoxLiveAchievementId": 31
+    },
+    {
+      "nameId": "playAllClasses",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.playAllClasses",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQHQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQHA",
+      "xBoxLiveAchievementId": 32
+    },
+    {
+      "nameId": "completeBannerSet",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.completeBannerSet",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQHg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQHQ",
+      "xBoxLiveAchievementId": 33
+    },
+    {
+      "nameId": "unlock_pvp",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.unlock_pvp",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQHw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQHg",
+      "xBoxLiveAchievementId": 34
+    },
+    {
+      "nameId": "topSpotAnyLeague",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.topSpotAnyLeague",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQIA",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQHw",
+      "xBoxLiveAchievementId": 35
+    },
+    {
+      "nameId": "eventZombie",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.eventZombie",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQIw",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQIg",
+      "xBoxLiveAchievementId": 36
+    },
+    {
+      "nameId": "eventPirates",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.eventPirates",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQJA",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQIw",
+      "xBoxLiveAchievementId": 37
+    },
+    {
+      "nameId": "eventNinja",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.eventNinja",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQJQ",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQJA",
+      "xBoxLiveAchievementId": 38
+    },
+    {
+      "nameId": "topSpotEvent",
+      "paymentProductId": "",
+      "gamecenterAchievementId": "com.rovio.gold.topSpotEvent",
+      "chimeraGooglePlayAchievementId": "CgkI2umcnMQKEAIQJg",
+      "rovioGooglePlayAchievementId": "CgkI64aqjd0eEAIQJQ",
+      "xBoxLiveAchievementId": 39
+    },
+    {
+      "nameId": "offer_special_dojo_unlock_1",
+      "paymentProductId": "com.rovio.gold.dojo",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_special_arena_unlock_1_1",
+      "paymentProductId": "com.rovio.gold.arena.1.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_special_arena_unlock_1_2",
+      "paymentProductId": "com.rovio.gold.arena.1.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_special_arena_unlock_2_1",
+      "paymentProductId": "com.rovio.gold.arena.2.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_special_arena_unlock_2_2",
+      "paymentProductId": "com.rovio.gold.arena.2.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_special_campaign_end_1_1",
+      "paymentProductId": "com.rovio.gold.campaign.1.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_special_campaign_end_1_2",
+      "paymentProductId": "com.rovio.gold.campaign.1.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_starter_class_1",
+      "paymentProductId": "com.rovio.gold.starter.class.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_starter_class_2",
+      "paymentProductId": "com.rovio.gold.starter.class.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_starter_class_3",
+      "paymentProductId": "com.rovio.gold.starter.class.3",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_starter_class_4",
+      "paymentProductId": "com.rovio.gold.starter.class.4",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_starter_class_5",
+      "paymentProductId": "com.rovio.gold.starter.class.4",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_chest_endless_1_1",
+      "paymentProductId": "com.rovio.gold.chest.endless.1.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_chest_endless_1_2",
+      "paymentProductId": "com.rovio.gold.chest.endless.1.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_chest_endless_2_1",
+      "paymentProductId": "com.rovio.gold.chest.endless.2.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_chest_endless_2_2",
+      "paymentProductId": "com.rovio.gold.chest.endless.2.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_upsell_castle_2",
+      "paymentProductId": "com.rovio.gold.castle.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_upsell_castle_3",
+      "paymentProductId": "com.rovio.gold.castle.3",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_upsell_castle_4",
+      "paymentProductId": "com.rovio.gold.castle.4",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_upsell_castle_5",
+      "paymentProductId": "com.rovio.gold.castle.5",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_low_40",
+      "paymentProductId": "com.rovio.gold.mlow.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_low_50",
+      "paymentProductId": "com.rovio.gold.mlow.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_low_60",
+      "paymentProductId": "com.rovio.gold.mlow.3",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_high_30",
+      "paymentProductId": "com.rovio.gold.mhigh.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_high_40",
+      "paymentProductId": "com.rovio.gold.mhigh.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_high_50",
+      "paymentProductId": "com.rovio.gold.mhigh.3",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_high_60",
+      "paymentProductId": "com.rovio.gold.mhigh.4",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_high_70",
+      "paymentProductId": "com.rovio.gold.mhigh.5",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_high_80",
+      "paymentProductId": "com.rovio.gold.mhigh.6",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_bomb_s",
+      "paymentProductId": "com.rovio.gold.mpackage.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_bomb_m",
+      "paymentProductId": "com.rovio.gold.mpackage.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_bomb_l",
+      "paymentProductId": "com.rovio.gold.mpackage.3",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_bomb_xl",
+      "paymentProductId": "com.rovio.gold.mpackage.4",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_bomb_xxl_all",
+      "paymentProductId": "com.rovio.gold.mpackage.5",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_mastery_bomb_xxl_npu",
+      "paymentProductId": "com.rovio.gold.mpackage.6",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_perma_xs",
+      "paymentProductId": "com.rovio.gold.sticky.1",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_perma_s",
+      "paymentProductId": "com.rovio.gold.sticky.2",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_perma_m",
+      "paymentProductId": "com.rovio.gold.sticky.3",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_perma_l",
+      "paymentProductId": "com.rovio.gold.sticky.4",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_perma_xl",
+      "paymentProductId": "com.rovio.gold.sticky.5",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    },
+    {
+      "nameId": "offer_perma_xxl",
+      "paymentProductId": "com.rovio.gold.sticky.6",
+      "gamecenterAchievementId": "",
+      "chimeraGooglePlayAchievementId": "",
+      "rovioGooglePlayAchievementId": ""
+    }
+  ]
+}

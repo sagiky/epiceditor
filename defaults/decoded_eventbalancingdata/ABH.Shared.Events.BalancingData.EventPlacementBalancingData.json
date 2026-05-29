@@ -1,0 +1,1474 @@
+{
+  "eventPlacementData": [
+    {
+      "nameId": "eventlocation_01",
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_PigShip_SouthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_02",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltPlateaus_02"
+    },
+    {
+      "nameId": "eventlocation_03",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltPlateaus_03"
+    },
+    {
+      "nameId": "eventlocation_04",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_PigShip_SouthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_05",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltForest_02"
+    },
+    {
+      "nameId": "eventlocation_06",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_LimestoneLagoon_01"
+    },
+    {
+      "nameId": "eventlocation_07",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_GoldenFields_01"
+    },
+    {
+      "nameId": "eventlocation_08",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_BeardForest_01"
+    },
+    {
+      "nameId": "eventlocation_09",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_BambooForest_02"
+    },
+    {
+      "nameId": "eventlocation_10",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_PigShip_SouthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_11",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_DesertIsland_02"
+    },
+    {
+      "nameId": "eventlocation_12",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_LimestoneLagoon_01"
+    },
+    {
+      "nameId": "eventlocation_13",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_DesertIsland_01"
+    },
+    {
+      "nameId": "eventlocation_14",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_PigShip_SouthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_15",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_035_battleground",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_PigShip_SouthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_16",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_LimestoneLagoon_01"
+    },
+    {
+      "nameId": "eventlocation_17",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_BanjoBayou_01"
+    },
+    {
+      "nameId": "eventlocation_18",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_SlingshotForest_02"
+    },
+    {
+      "nameId": "eventlocation_19",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SlingshotForest_03"
+    },
+    {
+      "nameId": "eventlocation_20",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SlingshotForest_01"
+    },
+    {
+      "nameId": "eventlocation_21",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Cliff_01"
+    },
+    {
+      "nameId": "eventlocation_22",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_StarReef_01"
+    },
+    {
+      "nameId": "eventlocation_23",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_StarReef_01"
+    },
+    {
+      "nameId": "eventlocation_24",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_StarReef_01"
+    },
+    {
+      "nameId": "eventlocation_25",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_StarReef_01"
+    },
+    {
+      "nameId": "eventlocation_26",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SmallIsland_01"
+    },
+    {
+      "nameId": "eventlocation_27",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_BambooForest_01"
+    },
+    {
+      "nameId": "eventlocation_28",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_BambooForest_02"
+    },
+    {
+      "nameId": "eventlocation_29",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_NorthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_30",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_BambooForest_01"
+    },
+    {
+      "nameId": "eventlocation_31",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_NorthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_32",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_NorthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_33",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_BirdAirship_Mountain_01"
+    },
+    {
+      "nameId": "eventlocation_34",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_02"
+    },
+    {
+      "nameId": "eventlocation_35",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Moorlands_01"
+    },
+    {
+      "nameId": "eventlocation_36",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_NorthernSea_01"
+    },
+    {
+      "nameId": "eventlocation_37",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_LakeLand_01"
+    },
+    {
+      "nameId": "eventlocation_38",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_02"
+    },
+    {
+      "nameId": "eventlocation_39",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_02"
+    },
+    {
+      "nameId": "eventlocation_40",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_RedwoodForest_02"
+    },
+    {
+      "nameId": "eventlocation_41",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_EasternSea_01"
+    },
+    {
+      "nameId": "eventlocation_42",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_01"
+    },
+    {
+      "nameId": "eventlocation_43",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SquareWoodForest_02"
+    },
+    {
+      "nameId": "eventlocation_44",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_EasternSea_01"
+    },
+    {
+      "nameId": "eventlocation_45",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_PigCity_02"
+    },
+    {
+      "nameId": "eventlocation_46",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_EasternSea_01"
+    },
+    {
+      "nameId": "eventlocation_47",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_PigCity_01"
+    },
+    {
+      "nameId": "eventlocation_48",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_01"
+    },
+    {
+      "nameId": "eventlocation_49",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdSubmarine_01"
+    },
+    {
+      "nameId": "eventlocation_50",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_EasternSea_01"
+    },
+    {
+      "nameId": "eventlocation_51",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": "Battleground_BirdShip_EasternSea_01"
+    },
+    {
+      "nameId": "eventlocation_52",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_OldNestingBarrows_01"
+    },
+    {
+      "nameId": "eventlocation_53",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_OldNestingBarrows_01"
+    },
+    {
+      "nameId": "eventlocation_54",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_01"
+    },
+    {
+      "nameId": "eventlocation_55",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_01"
+    },
+    {
+      "nameId": "eventlocation_56",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_01"
+    },
+    {
+      "nameId": "eventlocation_57",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_01"
+    },
+    {
+      "nameId": "eventlocation_58",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_01"
+    },
+    {
+      "nameId": "eventlocation_59",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_Mountain_01"
+    },
+    {
+      "nameId": "collectiblelocation_01",
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_02",
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_03",
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_04",
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_05",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_06",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_07",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_08",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_09",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_10",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_11",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_035_battleground",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_12",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_035_battleground",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_13",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_14",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_15",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_16",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_17",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_18",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_19",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_20",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_21",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_045_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_22",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_23",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_24",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_25",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_26",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_27",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_28",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_29",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_30",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_31",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_32",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_33",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_34",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_35",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_36",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_069_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_37",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_38",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_39",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_40",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_41",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_42",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_43",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_44",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_45",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_46",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_47",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_48",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_49",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_50",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_51",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_52",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_53",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_086_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_55",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_105_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_56",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_105_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_57",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_105_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "water",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_58",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_105_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "collectiblelocation_59",
+      "spawnAbleRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_105_castle",
+          "value": 1.0
+        }
+      ],
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "eventcampaignentrance_01",
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "eventcampaignentrance_02",
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "eventcampaignentrance_03",
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "eventcampaignentrance_04",
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "eventcampaignentrance_05",
+      "category": "land",
+      "overrideBattleGroundName": ""
+    },
+    {
+      "nameId": "bosslocation_01_tinker",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltForest_02"
+    },
+    {
+      "nameId": "bosslocation_02_tinker",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltForest_01"
+    },
+    {
+      "nameId": "bosslocation_03_tinker",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltPlateaus_02"
+    },
+    {
+      "nameId": "bosslocation_04_tinker",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltPlateaus_01"
+    },
+    {
+      "nameId": "bosslocation_05_tinker",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SouthBeach_02_Boss"
+    },
+    {
+      "nameId": "bosslocation_06_tinker",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_BirdCamp_01"
+    },
+    {
+      "nameId": "bosslocation_01_kraken",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltPlateaus_01_KrakenBoss"
+    },
+    {
+      "nameId": "bosslocation_02_kraken",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltPlateaus_02_KrakenBoss"
+    },
+    {
+      "nameId": "bosslocation_03_kraken",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltForest_01_KrakenBoss"
+    },
+    {
+      "nameId": "bosslocation_04_kraken",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltForest_02_KrakenBoss"
+    },
+    {
+      "nameId": "bosslocation_05_kraken",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SouthBeach_01_KrakenBoss"
+    },
+    {
+      "nameId": "bosslocation_06_kraken",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SouthBeach_02_KrakenBoss"
+    },
+    {
+      "nameId": "bosslocation_01_hogrider",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltForest_01_HogriderBoss"
+    },
+    {
+      "nameId": "bosslocation_02_hogrider",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltForest_02_HogriderBoss"
+    },
+    {
+      "nameId": "bosslocation_03_hogrider",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltPlateaus_01_HogriderBoss"
+    },
+    {
+      "nameId": "bosslocation_04_hogrider",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_CobaltPlateaus_02_HogriderBoss"
+    },
+    {
+      "nameId": "bosslocation_05_hogrider",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SouthBeach_01_HogriderBoss"
+    },
+    {
+      "nameId": "bosslocation_06_hogrider",
+      "category": "land",
+      "overrideBattleGroundName": "Battleground_SouthBeach_02_HogriderBoss"
+    }
+  ]
+}

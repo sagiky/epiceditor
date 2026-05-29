@@ -1,0 +1,732 @@
+{
+  "chronicleCaveFloorData": [
+    {
+      "nameId": "0",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Ground",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_000",
+        "hotspot_01_dungeon_000",
+        "hotspot_02_dungeon_000",
+        "hotspot_03_dungeon_000",
+        "hotspot_04_dungeon_000",
+        "hotspot_05_dungeon_000",
+        "hotspot_06_dungeon_000",
+        "hotspot_07_dungeon_000",
+        "hotspot_08_dungeon_000",
+        "hotspot_09_dungeon_000",
+        "hotspot_10_dungeon_000",
+        "hotspot_11_pathnode_000"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_000",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_000",
+      "bossNameId": "pig_shaman_shaman",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_02"
+        }
+      ]
+    },
+    {
+      "nameId": "1",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Water",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_001",
+        "hotspot_01_dungeon_001",
+        "hotspot_02_dungeon_001",
+        "hotspot_03_dungeon_001",
+        "hotspot_04_dungeon_001",
+        "hotspot_05_dungeon_001",
+        "hotspot_06_dungeon_001",
+        "hotspot_07_dungeon_001",
+        "hotspot_08_dungeon_001",
+        "hotspot_09_dungeon_001",
+        "hotspot_10_dungeon_001",
+        "hotspot_11_pathnode_001"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_001",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_001",
+      "bossNameId": "pig_moustache_pirate_captain_redbeard",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_04"
+        }
+      ]
+    },
+    {
+      "nameId": "2",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Air",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_002",
+        "hotspot_01_dungeon_002",
+        "hotspot_02_dungeon_002",
+        "hotspot_03_dungeon_002",
+        "hotspot_04_dungeon_002",
+        "hotspot_05_dungeon_002",
+        "hotspot_06_dungeon_002",
+        "hotspot_07_dungeon_002",
+        "hotspot_08_dungeon_002",
+        "hotspot_09_dungeon_002",
+        "hotspot_10_dungeon_002",
+        "hotspot_11_pathnode_002"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_002",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_002",
+      "bossNameId": "pig_ghost_willowhisp",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_03"
+        }
+      ]
+    },
+    {
+      "nameId": "3",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Underwater",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_003",
+        "hotspot_01_dungeon_003",
+        "hotspot_02_dungeon_003",
+        "hotspot_03_dungeon_003",
+        "hotspot_04_dungeon_003",
+        "hotspot_05_dungeon_003",
+        "hotspot_06_dungeon_003",
+        "hotspot_07_dungeon_003",
+        "hotspot_08_dungeon_003",
+        "hotspot_09_dungeon_003",
+        "hotspot_10_dungeon_003",
+        "hotspot_11_pathnode_003"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_003",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_003",
+      "bossNameId": "pig_shaman_ice",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_06"
+        }
+      ]
+    },
+    {
+      "nameId": "4",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Ground",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_004",
+        "hotspot_01_dungeon_004",
+        "hotspot_02_dungeon_004",
+        "hotspot_03_dungeon_004",
+        "hotspot_04_dungeon_004",
+        "hotspot_05_dungeon_004",
+        "hotspot_06_dungeon_004",
+        "hotspot_07_dungeon_004",
+        "hotspot_08_dungeon_004",
+        "hotspot_09_dungeon_004",
+        "hotspot_10_dungeon_004",
+        "hotspot_11_pathnode_004"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_004",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_004",
+      "bossNameId": "pig_caster_pyropig",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_01"
+        }
+      ]
+    },
+    {
+      "nameId": "5",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Water",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_005",
+        "hotspot_01_dungeon_005",
+        "hotspot_02_dungeon_005",
+        "hotspot_03_dungeon_005",
+        "hotspot_04_dungeon_005",
+        "hotspot_05_dungeon_005",
+        "hotspot_06_dungeon_005",
+        "hotspot_07_dungeon_005",
+        "hotspot_08_dungeon_005",
+        "hotspot_09_dungeon_005",
+        "hotspot_10_dungeon_005",
+        "hotspot_11_pathnode_005"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_005",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_005",
+      "bossNameId": "pig_zombie_knight",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_17"
+        }
+      ]
+    },
+    {
+      "nameId": "6",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Air",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_006",
+        "hotspot_01_dungeon_006",
+        "hotspot_02_dungeon_006",
+        "hotspot_03_dungeon_006",
+        "hotspot_04_dungeon_006",
+        "hotspot_05_dungeon_006",
+        "hotspot_06_dungeon_006",
+        "hotspot_07_dungeon_006",
+        "hotspot_08_dungeon_006",
+        "hotspot_09_dungeon_006",
+        "hotspot_10_dungeon_006",
+        "hotspot_11_pathnode_006"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_006",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_006",
+      "bossNameId": "pig_minion_turban",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_12"
+        }
+      ]
+    },
+    {
+      "nameId": "7",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Underwater",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_007",
+        "hotspot_01_dungeon_007",
+        "hotspot_02_dungeon_007",
+        "hotspot_03_dungeon_007",
+        "hotspot_04_dungeon_007",
+        "hotspot_05_dungeon_007",
+        "hotspot_06_dungeon_007",
+        "hotspot_07_dungeon_007",
+        "hotspot_08_dungeon_007",
+        "hotspot_09_dungeon_007",
+        "hotspot_10_dungeon_007",
+        "hotspot_11_pathnode_007"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_007",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_007",
+      "bossNameId": "pig_pirate_veteran",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_14"
+        }
+      ]
+    },
+    {
+      "nameId": "8",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Ground",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_008",
+        "hotspot_01_dungeon_008",
+        "hotspot_02_dungeon_008",
+        "hotspot_03_dungeon_008",
+        "hotspot_04_dungeon_008",
+        "hotspot_05_dungeon_008",
+        "hotspot_06_dungeon_008",
+        "hotspot_07_dungeon_008",
+        "hotspot_08_dungeon_008",
+        "hotspot_09_dungeon_008",
+        "hotspot_10_dungeon_008",
+        "hotspot_11_pathnode_008"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_008",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_008",
+      "bossNameId": "pig_moustache_big_boss",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_09"
+        }
+      ]
+    },
+    {
+      "nameId": "9",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Water",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_009",
+        "hotspot_01_dungeon_009",
+        "hotspot_02_dungeon_009",
+        "hotspot_03_dungeon_009",
+        "hotspot_04_dungeon_009",
+        "hotspot_05_dungeon_009",
+        "hotspot_06_dungeon_009",
+        "hotspot_07_dungeon_009",
+        "hotspot_08_dungeon_009",
+        "hotspot_09_dungeon_009",
+        "hotspot_10_dungeon_009",
+        "hotspot_11_pathnode_009"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_009",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_009",
+      "bossNameId": "pig_knight_royal_guard",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_04_01"
+        }
+      ]
+    },
+    {
+      "nameId": "10",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Air",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_010",
+        "hotspot_01_dungeon_010",
+        "hotspot_02_dungeon_010",
+        "hotspot_03_dungeon_010",
+        "hotspot_04_dungeon_010",
+        "hotspot_05_dungeon_010",
+        "hotspot_06_dungeon_010",
+        "hotspot_07_dungeon_010",
+        "hotspot_08_dungeon_010",
+        "hotspot_09_dungeon_010",
+        "hotspot_10_dungeon_010",
+        "hotspot_11_pathnode_010"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_010",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_010",
+      "bossNameId": "pig_ninja_master_cc_boss",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_03_01"
+        }
+      ]
+    },
+    {
+      "nameId": "11",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Underwater",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_011",
+        "hotspot_01_dungeon_011",
+        "hotspot_02_dungeon_011",
+        "hotspot_03_dungeon_011",
+        "hotspot_04_dungeon_011",
+        "hotspot_05_dungeon_011",
+        "hotspot_06_dungeon_011",
+        "hotspot_07_dungeon_011",
+        "hotspot_08_dungeon_011",
+        "hotspot_09_dungeon_011",
+        "hotspot_10_dungeon_011",
+        "hotspot_11_pathnode_011"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_011",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_011",
+      "bossNameId": "pig_zombie_berserk_cc_boss",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_01_02"
+        }
+      ]
+    },
+    {
+      "nameId": "12",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Ground",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_012",
+        "hotspot_01_dungeon_012",
+        "hotspot_02_dungeon_012",
+        "hotspot_03_dungeon_012",
+        "hotspot_04_dungeon_012",
+        "hotspot_05_dungeon_012",
+        "hotspot_06_dungeon_012",
+        "hotspot_07_dungeon_012",
+        "hotspot_08_dungeon_012",
+        "hotspot_09_dungeon_012",
+        "hotspot_10_dungeon_012",
+        "hotspot_11_pathnode_012"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_012",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_012",
+      "bossNameId": "pig_knight_ice",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_NONE",
+          "assetId": "env_cc_floor_05_01"
+        }
+      ]
+    },
+    {
+      "nameId": "13",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Water",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_013",
+        "hotspot_01_dungeon_013",
+        "hotspot_02_dungeon_013",
+        "hotspot_03_dungeon_013",
+        "hotspot_04_dungeon_013",
+        "hotspot_05_dungeon_013",
+        "hotspot_06_dungeon_013",
+        "hotspot_07_dungeon_013",
+        "hotspot_08_dungeon_013",
+        "hotspot_09_dungeon_013",
+        "hotspot_10_dungeon_013",
+        "hotspot_11_pathnode_013"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_013",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_013",
+      "bossNameId": "pig_moustache_tinker",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_14"
+        }
+      ]
+    },
+    {
+      "nameId": "14",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Air",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_014",
+        "hotspot_01_dungeon_014",
+        "hotspot_02_dungeon_014",
+        "hotspot_03_dungeon_014",
+        "hotspot_04_dungeon_014",
+        "hotspot_05_dungeon_014",
+        "hotspot_06_dungeon_014",
+        "hotspot_07_dungeon_014",
+        "hotspot_08_dungeon_014",
+        "hotspot_09_dungeon_014",
+        "hotspot_10_dungeon_014",
+        "hotspot_11_pathnode_014"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_014",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_014",
+      "bossNameId": "pig_minion_turban",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_12"
+        }
+      ]
+    },
+    {
+      "nameId": "15",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Underwater",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_015",
+        "hotspot_01_dungeon_015",
+        "hotspot_02_dungeon_015",
+        "hotspot_03_dungeon_015",
+        "hotspot_04_dungeon_015",
+        "hotspot_05_dungeon_015",
+        "hotspot_06_dungeon_015",
+        "hotspot_07_dungeon_015",
+        "hotspot_08_dungeon_015",
+        "hotspot_09_dungeon_015",
+        "hotspot_10_dungeon_015",
+        "hotspot_11_pathnode_015"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_015",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_015",
+      "bossNameId": "pig_moustache_pirate_captain_redbeard",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_04_02"
+        }
+      ]
+    },
+    {
+      "nameId": "16",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Ground",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_016",
+        "hotspot_01_dungeon_016",
+        "hotspot_02_dungeon_016",
+        "hotspot_03_dungeon_016",
+        "hotspot_04_dungeon_016",
+        "hotspot_05_dungeon_016",
+        "hotspot_06_dungeon_016",
+        "hotspot_07_dungeon_016",
+        "hotspot_08_dungeon_016",
+        "hotspot_09_dungeon_016",
+        "hotspot_10_dungeon_016",
+        "hotspot_11_pathnode_016"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_016",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_016",
+      "bossNameId": "pig_shaman_shaman",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_05_02"
+        }
+      ]
+    },
+    {
+      "nameId": "17",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Water",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_017",
+        "hotspot_01_dungeon_017",
+        "hotspot_02_dungeon_017",
+        "hotspot_03_dungeon_017",
+        "hotspot_04_dungeon_017",
+        "hotspot_05_dungeon_017",
+        "hotspot_06_dungeon_017",
+        "hotspot_07_dungeon_017",
+        "hotspot_08_dungeon_017",
+        "hotspot_09_dungeon_017",
+        "hotspot_10_dungeon_017",
+        "hotspot_11_pathnode_017"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_017",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_017",
+      "bossNameId": "pig_knight_roseknight_boss",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_07"
+        }
+      ]
+    },
+    {
+      "nameId": "18",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Air",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_018",
+        "hotspot_01_dungeon_018",
+        "hotspot_02_dungeon_018",
+        "hotspot_03_dungeon_018",
+        "hotspot_04_dungeon_018",
+        "hotspot_05_dungeon_018",
+        "hotspot_06_dungeon_018",
+        "hotspot_07_dungeon_018",
+        "hotspot_08_dungeon_018",
+        "hotspot_09_dungeon_018",
+        "hotspot_10_dungeon_018",
+        "hotspot_11_pathnode_018"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_018",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_018",
+      "bossNameId": "pig_zombie_knight",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_13"
+        }
+      ]
+    },
+    {
+      "nameId": "19",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Underwater",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_019",
+        "hotspot_01_dungeon_019",
+        "hotspot_02_dungeon_019",
+        "hotspot_03_dungeon_019",
+        "hotspot_04_dungeon_019",
+        "hotspot_05_dungeon_019",
+        "hotspot_06_dungeon_019",
+        "hotspot_07_dungeon_019",
+        "hotspot_08_dungeon_019",
+        "hotspot_09_dungeon_019",
+        "hotspot_10_dungeon_019",
+        "hotspot_11_pathnode_019"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_019",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_019",
+      "bossNameId": "pig_zombie_stinky_wizpig",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_16"
+        }
+      ]
+    },
+    {
+      "nameId": "20",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Ground",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_020",
+        "hotspot_01_dungeon_020",
+        "hotspot_02_dungeon_020",
+        "hotspot_03_dungeon_020",
+        "hotspot_04_dungeon_020",
+        "hotspot_05_dungeon_020",
+        "hotspot_06_dungeon_020",
+        "hotspot_07_dungeon_020",
+        "hotspot_08_dungeon_020",
+        "hotspot_09_dungeon_020",
+        "hotspot_10_dungeon_020",
+        "hotspot_11_pathnode_020"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_020",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_020",
+      "bossNameId": "pig_minion_cupid_dark",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_21"
+        }
+      ]
+    },
+    {
+      "nameId": "21",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Water",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_021",
+        "hotspot_01_dungeon_021",
+        "hotspot_02_dungeon_021",
+        "hotspot_03_dungeon_021",
+        "hotspot_04_dungeon_021",
+        "hotspot_05_dungeon_021",
+        "hotspot_06_dungeon_021",
+        "hotspot_07_dungeon_021",
+        "hotspot_08_dungeon_021",
+        "hotspot_09_dungeon_021",
+        "hotspot_10_dungeon_021",
+        "hotspot_11_pathnode_021"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_021",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_021",
+      "bossNameId": "pig_brute_pirate_cc_boss_03",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_04_02"
+        }
+      ]
+    },
+    {
+      "nameId": "22",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Air",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_022",
+        "hotspot_01_dungeon_022",
+        "hotspot_02_dungeon_022",
+        "hotspot_03_dungeon_022",
+        "hotspot_04_dungeon_022",
+        "hotspot_05_dungeon_022",
+        "hotspot_06_dungeon_022",
+        "hotspot_07_dungeon_022",
+        "hotspot_08_dungeon_022",
+        "hotspot_09_dungeon_022",
+        "hotspot_10_dungeon_022",
+        "hotspot_11_pathnode_022"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_022",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_022",
+      "bossNameId": "pig_drone_doom",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_12"
+        }
+      ]
+    },
+    {
+      "nameId": "23",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Underwater",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_023",
+        "hotspot_01_dungeon_023",
+        "hotspot_02_dungeon_023",
+        "hotspot_03_dungeon_023",
+        "hotspot_04_dungeon_023",
+        "hotspot_05_dungeon_023",
+        "hotspot_06_dungeon_023",
+        "hotspot_07_dungeon_023",
+        "hotspot_08_dungeon_023",
+        "hotspot_09_dungeon_023",
+        "hotspot_10_dungeon_023",
+        "hotspot_11_pathnode_023"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_023",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_023",
+      "bossNameId": "pig_shaman_icecave_boss",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_BIRDS",
+          "assetId": "env_cc_floor_08"
+        }
+      ]
+    },
+    {
+      "nameId": "24",
+      "templateId": 1,
+      "backgroundId": "ChronicleCave_Floor_Ground",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_024",
+        "hotspot_01_dungeon_024",
+        "hotspot_02_dungeon_024",
+        "hotspot_03_dungeon_024",
+        "hotspot_04_dungeon_024",
+        "hotspot_05_dungeon_024",
+        "hotspot_06_dungeon_024",
+        "hotspot_07_dungeon_024",
+        "hotspot_08_dungeon_024",
+        "hotspot_09_dungeon_024",
+        "hotspot_10_dungeon_024",
+        "hotspot_11_pathnode_024"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_024",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_024",
+      "bossNameId": "pig_minion_stickpig",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_22"
+        }
+      ]
+    },
+    {
+      "nameId": "25",
+      "templateId": 2,
+      "backgroundId": "ChronicleCave_Floor_Water",
+      "chronicleCaveHotspotIds": [
+        "hotspot_00_pathnode_025",
+        "hotspot_01_dungeon_025",
+        "hotspot_02_dungeon_025",
+        "hotspot_03_dungeon_025",
+        "hotspot_04_dungeon_025",
+        "hotspot_05_dungeon_025",
+        "hotspot_06_dungeon_025",
+        "hotspot_07_dungeon_025",
+        "hotspot_08_dungeon_025",
+        "hotspot_09_dungeon_025",
+        "hotspot_10_dungeon_025",
+        "hotspot_11_pathnode_025"
+      ],
+      "firstChronicleCaveHotspotId": "hotspot_01_dungeon_025",
+      "lastChronicleCaveHotspotId": "hotspot_10_dungeon_025",
+      "bossNameId": "pig_pirate_mystcave_airpirate_boss",
+      "environmentalEffects": [
+        {
+          "faction": "FACTION_PIGS",
+          "assetId": "env_cc_floor_23"
+        }
+      ]
+    }
+  ]
+}

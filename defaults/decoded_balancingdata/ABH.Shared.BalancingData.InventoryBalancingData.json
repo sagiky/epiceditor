@@ -1,0 +1,1885 @@
+{
+  "inventoryData": [
+    {
+      "nameId": "bird_inventory"
+    },
+    {
+      "nameId": "player_inventory",
+      "defaultInventoryContent": {
+        "loot_starting_inventory": 1
+      }
+    },
+    {
+      "nameId": "npc_inventory",
+      "defaultInventoryContent": {
+        "loot_npc_inventory": 1
+      }
+    },
+    {
+      "nameId": "bird_banner",
+      "defaultInventoryContent": {
+        "banner_banner_l1_q1_s1": 1,
+        "banner_emblem_08": 1,
+        "banner_tip_l1_q1_s1": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "bird_banner_mccool",
+      "defaultInventoryContent": {
+        "banner_flag_set_04": 1,
+        "banner_emblem_23": 1,
+        "banner_tip_set_04": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "bird_banner_tut",
+      "defaultInventoryContent": {
+        "banner_banner_l1_q1_s1_tut": 1,
+        "banner_emblem_22_tut": 1,
+        "banner_tip_l1_q1_s2_tut": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_start_guardian",
+      "defaultInventoryContent": {
+        "bird_weapon_red_sword_01": 1,
+        "bird_offhand_red_shield_01": 1,
+        "class_guardian": 1,
+        "skin_guardian": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_start_samurai",
+      "defaultInventoryContent": {
+        "bird_weapon_red_sword_01": 1,
+        "bird_offhand_red_shield_01": 1,
+        "class_samurai": 1,
+        "skin_samurai": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_start_knight",
+      "defaultInventoryContent": {
+        "bird_weapon_sword_0star": 1,
+        "bird_offhand_red_shield_01": 1,
+        "class_knight": 1,
+        "skin_knight": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_start_knight2star",
+      "defaultInventoryContent": {
+        "bird_weapon_sword_01": 1,
+        "bird_offhand_red_shield_01": 1,
+        "class_knight": 1,
+        "skin_knight": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_red_sword_0star": 1,
+        "bird_offhand_red_shield_start": 1,
+        "class_knight": 1,
+        "skin_knight": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_teaser_stoneguard",
+      "defaultInventoryContent": {
+        "class_stoneguard": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_cinematic",
+      "defaultInventoryContent": {
+        "bird_weapon_red_lance_set_03_intro": 1,
+        "bird_offhand_red_shield_set_03_intro": 1,
+        "class_knight": 1,
+        "skin_eliteknight": 1
+      },
+      "initializingLevel": 60
+    },
+    {
+      "nameId": "yellow_bird_cinematic",
+      "defaultInventoryContent": {
+        "bird_weapon_yellow_staff_set_01_intro": 1,
+        "bird_offhand_yellow_orb_set_01": 1,
+        "class_mage": 1,
+        "skin_elitemage": 1
+      },
+      "initializingLevel": 60
+    },
+    {
+      "nameId": "yellow_bird_teaser_illusionist",
+      "defaultInventoryContent": {
+        "class_illusionist": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "white_bird_teaser_witch",
+      "defaultInventoryContent": {
+        "class_witch": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "white_bird_teaser_elitewitch",
+      "defaultInventoryContent": {
+        "class_witch": 1,
+        "skin_elitewitch": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "black_bird_teaser_winterfighter",
+      "defaultInventoryContent": {
+        "class_winterfighter": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "blue_bird_teaser_treasurehunters",
+      "defaultInventoryContent": {
+        "class_treasurehunters": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_teaser_eliteknight",
+      "defaultInventoryContent": {
+        "class_knight": 1,
+        "skin_eliteknight": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "yellow_bird_teaser_elitemage",
+      "defaultInventoryContent": {
+        "class_mage": 1,
+        "skin_elitemage": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "white_bird_teaser_elitecleric",
+      "defaultInventoryContent": {
+        "class_cleric": 1,
+        "skin_elitecleric": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "black_bird_teaser_elitepirate",
+      "defaultInventoryContent": {
+        "class_pirate": 1,
+        "skin_elitepirate": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_teaser_eliteguardian",
+      "defaultInventoryContent": {
+        "class_guardian": 1,
+        "skin_eliteguardian": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "red_bird_teaser_elitestoneguard",
+      "defaultInventoryContent": {
+        "class_stoneguard": 1,
+        "skin_elitestoneguard": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "blue_bird_teaser_elitetricksters",
+      "defaultInventoryContent": {
+        "class_tricksters": 1,
+        "skin_elitetricksters": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "yellow_bird_teaser_eliteillusionist",
+      "defaultInventoryContent": {
+        "class_illusionist": 1,
+        "skin_eliteillusionist": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "black_bird_teaser_elitewinterfighter",
+      "defaultInventoryContent": {
+        "class_winterfighter": 1,
+        "skin_elitewinterfighter": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "blue_bird_teaser_elitetreasurehunters",
+      "defaultInventoryContent": {
+        "class_treasurehunters": 1,
+        "skin_elitetreasurehunters": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "yellow_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_yellow_staff_start": 1,
+        "bird_offhand_yellow_book_start": 1,
+        "class_mage": 1,
+        "skin_mage": 1
+      }
+    },
+    {
+      "nameId": "yellow_bird_archmage",
+      "defaultInventoryContent": {
+        "bird_weapon_yellow_staff_start": 1,
+        "bird_offhand_yellow_book_start": 1,
+        "class_nerd": 1,
+        "skin_archmage": 1
+      }
+    },
+    {
+      "nameId": "white_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_white_harp_start": 1,
+        "bird_offhand_white_handbag_start": 1,
+        "class_cleric": 1,
+        "skin_cleric": 1
+      }
+    },
+    {
+      "nameId": "white_bird_moonpriest",
+      "defaultInventoryContent": {
+        "bird_weapon_white_harp_start": 1,
+        "bird_offhand_white_handbag_start": 1,
+        "class_moonpriest": 1,
+        "skin_moonpriest": 1
+      }
+    },
+    {
+      "nameId": "black_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_black_punching_glove_start": 1,
+        "bird_offhand_black_treasure_map_start": 1,
+        "class_pirate": 1,
+        "skin_pirate": 1
+      }
+    },
+    {
+      "nameId": "blue_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_blue_bow_start": 1,
+        "bird_offhand_blue_warhorn_start": 1,
+        "class_tricksters": 1,
+        "skin_tricksters": 1
+      }
+    },
+    {
+      "nameId": "npc_red_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_red_hammer_set_02": 1,
+        "bird_offhand_red_banner_set_02": 1,
+        "class_paladin": 1,
+        "skin_paladin": 1
+      }
+    },
+    {
+      "nameId": "npc_yellow_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_yellow_wand_01_npc": 1,
+        "bird_offhand_yellow_orb_01_npc": 1,
+        "class_wizard": 1,
+        "skin_wizard": 1
+      }
+    },
+    {
+      "nameId": "npc_white_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_white_harp_01_npc": 1,
+        "bird_offhand_white_handbag_01_npc": 1,
+        "class_bard": 1,
+        "skin_bard": 1
+      }
+    },
+    {
+      "nameId": "npc_black_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_black_pistol_01_npc": 1,
+        "bird_offhand_black_treasure_map_01_npc": 1,
+        "class_captn": 1,
+        "skin_captn": 1
+      }
+    },
+    {
+      "nameId": "npc_blue_bird_start",
+      "defaultInventoryContent": {
+        "bird_weapon_blue_slingshot_set_03": 1,
+        "bird_offhand_blue_lucky_cards_set_03": 1,
+        "class_spies": 1,
+        "skin_spies": 1
+      }
+    },
+    {
+      "nameId": "pvptut_npc_bird_red_01",
+      "defaultInventoryContent": {
+        "bird_weapon_red_hammer_set_02": 1,
+        "bird_offhand_red_shield_01": 1,
+        "class_paladin": 1,
+        "skin_paladin": 1
+      }
+    },
+    {
+      "nameId": "bird_prince_porky",
+      "defaultInventoryContent": {
+        "bird_weapon_prince_porky_01": 1,
+        "bird_offhand_prince_porky_01": 1,
+        "headgear_bird_prince_porky": 1
+      }
+    },
+    {
+      "nameId": "bird_adventurer",
+      "defaultInventoryContent": {
+        "bird_weapon_adventurer_01": 1,
+        "bird_offhand_adventurer_01": 1,
+        "headgear_bird_adventurer": 1
+      }
+    },
+    {
+      "nameId": "bird_merchant",
+      "defaultInventoryContent": {
+        "bird_weapon_merchant_01": 1,
+        "bird_offhand_merchant_01": 1,
+        "headgear_bird_merchant": 1
+      }
+    },
+    {
+      "nameId": "bird_mighty_eagle",
+      "defaultInventoryContent": {
+        "bird_weapon_mighty_eagle_01": 1,
+        "bird_offhand_mighty_eagle_01": 1,
+        "class_mighty_eagle": 1
+      }
+    },
+    {
+      "nameId": "bird_valkyrie",
+      "defaultInventoryContent": {
+        "bird_weapon_valkyrie_01": 1,
+        "bird_offhand_valkyrie_01": 1,
+        "headgear_valkyrie": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_lederhosen_visitor_a",
+      "defaultInventoryContent": {
+        "headgear_minion_lederhosen_visitor_a": 1,
+        "pig_weapon_minion_lederhosen_visitor_a": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_lederhosen_visitor_b",
+      "defaultInventoryContent": {
+        "headgear_minion_lederhosen_visitor_b": 1,
+        "pig_offhand_minion_lederhosen_visitor_b": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_dirndl_visitor_a",
+      "defaultInventoryContent": {
+        "headgear_minion_dirndl_visitor_a": 1,
+        "pig_weapon_minion_dirndl_visitor_a": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_dirndl_visitor_b",
+      "defaultInventoryContent": {
+        "headgear_minion_dirndl_visitor_b": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_dirndl_visitor_c",
+      "defaultInventoryContent": {
+        "headgear_minion_dirndl_visitor_c": 1,
+        "pig_weapon_minion_dirndl_visitor_c": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_stickpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_stickpig_pointystick_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_sportsman_a_01",
+      "defaultInventoryContent": {
+        "headgear_minion_sportsman_a": 1,
+        "pig_weapon_minion_sportsman_a_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_sportsman_b_01",
+      "defaultInventoryContent": {
+        "headgear_minion_sportsman_b": 1,
+        "pig_weapon_minion_sportsman_b_01": 1,
+        "pig_offhand_minion_sportsman_b_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_sportsman_c_01",
+      "defaultInventoryContent": {
+        "headgear_minion_sportsman_c": 1,
+        "pig_offhand_minion_sportsman_c_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_sportsman_d_01",
+      "defaultInventoryContent": {
+        "headgear_minion_sportsman_d": 1,
+        "pig_weapon_minion_squire_01": 1,
+        "pig_offhand_minion_sportsman_d_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_sportsman_e_01",
+      "defaultInventoryContent": {
+        "headgear_minion_sportsman_e": 1,
+        "pig_weapon_minion_sportsman_e_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_squire_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_squire_01": 1,
+        "headgear_minion_squire": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_cupid_cute_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_cupid_cute_01": 1,
+        "headgear_minion_cupid_cute": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_cupid_dark_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_cupid_dark_01": 1,
+        "headgear_minion_cupid_dark": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_cupido_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_cupido_01": 1,
+        "headgear_minion_cupido": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_eggpainter_01",
+      "defaultInventoryContent": {
+        "headgear_minion_eggpainter": 1,
+        "pig_weapon_minion_eggpainter_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_flowerpig_01",
+      "defaultInventoryContent": {
+        "headgear_minion_flowerpig": 1,
+        "pig_weapon_minion_flowerpig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_egg_red_01",
+      "defaultInventoryContent": {
+        "headgear_minion_egg_red": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_egg_yellow_01",
+      "defaultInventoryContent": {
+        "headgear_minion_egg_yellow": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_egg_white_01",
+      "defaultInventoryContent": {
+        "headgear_minion_egg_white": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_egg_black_01",
+      "defaultInventoryContent": {
+        "headgear_minion_egg_black": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_egg_blue_01",
+      "defaultInventoryContent": {
+        "headgear_minion_egg_blue": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_apprentice",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_apprentice_01": 1,
+        "headgear_minion_apprentice": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_mechanic",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_mechanic_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_lancer",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_lancer_01": 1,
+        "headgear_minion_lancer": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_soldier",
+      "defaultInventoryContent": {
+        "pig_offhand_minion_guard_woodenshield_01": 1,
+        "pig_weapon_minion_turban_arabic_sword_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_farmer",
+      "defaultInventoryContent": {
+        "pig_offhand_minion_bird_catcher_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_worker",
+      "defaultInventoryContent": {
+        "headgear_guard": 1,
+        "pig_offhand_minion_bird_catcher_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_bird_catcher_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_bird_catcher_01": 1,
+        "pig_offhand_minion_bird_catcher_01": 1,
+        "headgear_bird_catcher": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_phat_loot_01",
+      "defaultInventoryContent": {
+        "pig_offhand_minion_phat_loot_01": 1,
+        "headgear_rogue": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_rogue_miniboss",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_snowpig_snowball_01": 1,
+        "headgear_rogue": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_rogue_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_rogue_smallclub_01": 1,
+        "headgear_rogue": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_guard_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_guard_featherstick_01": 1,
+        "pig_offhand_minion_guard_woodenshield_01": 1,
+        "headgear_guard": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_elf_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_elf_01": 1,
+        "headgear_minion_elf": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_guard_ninja",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_guard_featherstick_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_corporal_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_corporal_lolli_01": 1,
+        "headgear_corporal": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_turban_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_turban_arabic_sword_01": 1,
+        "headgear_turban": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_turban_02",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_turban_arabic_sword_01": 1,
+        "headgear_turban": 1,
+        "pig_offhand_minion_guard_woodenshield_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_snowpig_small",
+      "defaultInventoryContent": {
+        "headgear_minion_snowpig": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_snowpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_snowpig_snowball_01": 1,
+        "headgear_minion_snowpig": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_rogueboss_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_rogue_smallclub_01": 1,
+        "headgear_rogueboss": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_rogue_miniboss_02",
+      "defaultInventoryContent": {
+        "headgear_rogueboss": 1,
+        "pig_weapon_minion_corporal_lolli_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_pumpkin_01",
+      "defaultInventoryContent": {
+        "headgear_minion_pumpkin": 1,
+        "pig_weapon_minion_pumpkin_pig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_camerapig_01",
+      "defaultInventoryContent": {
+        "headgear_minion_camerapig": 1,
+        "pig_weapon_minion_camerapig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_soundpig_01",
+      "defaultInventoryContent": {
+        "headgear_minion_soundpig": 1,
+        "pig_weapon_minion_soundpig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_bestboy_01",
+      "defaultInventoryContent": {
+        "headgear_minion_bestboy": 1,
+        "pig_weapon_minion_bestboy_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_makeup_01",
+      "defaultInventoryContent": {
+        "headgear_minion_makeup": 1,
+        "pig_weapon_minion_makeup_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_slatepig_01",
+      "defaultInventoryContent": {
+        "headgear_minion_slatepig": 1,
+        "pig_weapon_minion_slatepig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_securitypig_01",
+      "defaultInventoryContent": {
+        "headgear_minion_securitypig": 1,
+        "pig_weapon_minion_securitypig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_reporterpig_01",
+      "defaultInventoryContent": {
+        "headgear_minion_reporterpig": 1,
+        "pig_weapon_minion_reporterpig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_partyguest_01",
+      "defaultInventoryContent": {
+        "headgear_minion_apprentice": 1,
+        "pig_weapon_minion_partyguest_01": 1
+      }
+    },
+    {
+      "nameId": "pig_pirate_matey_01",
+      "defaultInventoryContent": {
+        "pig_weapon_pirate_matey_01": 1
+      }
+    },
+    {
+      "nameId": "pig_pirate_pirate_01",
+      "defaultInventoryContent": {
+        "pig_weapon_pirate_pirate_fishbone_01": 1,
+        "headgear_pirate": 1
+      }
+    },
+    {
+      "nameId": "pig_pirate_veteran",
+      "defaultInventoryContent": {
+        "pig_weapon_pirate_airpirate_grapplinghook_02": 1,
+        "headgear_pirate": 1
+      }
+    },
+    {
+      "nameId": "pig_pirate_airpirate_01",
+      "defaultInventoryContent": {
+        "pig_weapon_pirate_airpirate_grapplinghook_01": 1,
+        "headgear_pirate_airpirate": 1
+      }
+    },
+    {
+      "nameId": "pig_pirate_adventurer_01",
+      "defaultInventoryContent": {
+        "pig_weapon_pirate_adventurer_whip_01": 1,
+        "headgear_pirate_adventurer": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_forest_small"
+    },
+    {
+      "nameId": "pig_pigmies_forest_01",
+      "defaultInventoryContent": {
+        "pig_weapon_pigmies_forest": 1,
+        "headgear_pigmies_forest": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_ice_01",
+      "defaultInventoryContent": {
+        "headgear_pigmies_frost": 1,
+        "pig_weapon_pigmies_frost": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_shooters_01",
+      "defaultInventoryContent": {
+        "pig_weapon_pigmies_shooters": 1,
+        "headgear_pigmies_shooters": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_templar_boss_01",
+      "defaultInventoryContent": {
+        "pig_weapon_pigmies_templar": 1,
+        "headgear_pigmies_templar": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_spectators_a_01",
+      "defaultInventoryContent": {
+        "headgear_pigmies_spectators_a": 1,
+        "pig_weapon_pigmies_spectators_a": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_spectators_b_01",
+      "defaultInventoryContent": {
+        "headgear_pigmies_spectators_b": 1,
+        "pig_weapon_pigmies_spectators_b": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_spectators_c_01",
+      "defaultInventoryContent": {
+        "headgear_pigmies_spectators_c": 1,
+        "pig_weapon_pigmies_spectators_c": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_spectators_d_01",
+      "defaultInventoryContent": {
+        "headgear_pigmies_spectators_d": 1,
+        "pig_weapon_pigmies_spectators_d": 1
+      }
+    },
+    {
+      "nameId": "pig_prince_porky_01",
+      "defaultInventoryContent": {
+        "pig_weapon_prince_porky_01": 1,
+        "headgear_prince_porky": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_brute_01",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_brute_club_01": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_bunny_01",
+      "defaultInventoryContent": {
+        "headgear_brute_bunny": 1,
+        "pig_weapon_brute_bunny_01": 1
+      }
+    },
+    {
+      "nameId": "pig_shaman_brute",
+      "defaultInventoryContent": {
+        "pig_weapon_shaman_totem_staff_ice_01": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_brass",
+      "defaultInventoryContent": {
+        "headgear_brute_brass": 1,
+        "pig_weapon_brute_brass": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_cave",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_frankenpig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_frosthog_boss",
+      "defaultInventoryContent": {
+        "headgear_brute_frosthog": 1,
+        "pig_weapon_brute_frankenpig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_frosthog_01",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_frozen_club_01": 1,
+        "headgear_brute_frosthog": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_frankenpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_frankenpig_01": 1,
+        "headgear_brute_frankenpig": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_pirate_01",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_pirate_anchor_01": 1,
+        "headgear_brute_pirate": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_brawler_01",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_brawler_club_01": 1,
+        "headgear_brute_brawler": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_proppig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_proppig_01": 1,
+        "headgear_brute_proppig": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_cutter_01",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_cutter_01": 1,
+        "headgear_brute_cutter": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_maestro",
+      "defaultInventoryContent": {
+        "headgear_moustache_maestro": 1,
+        "pig_weapon_moustache_maestro": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_chieftain_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_chieftain_totem_01": 1,
+        "headgear_chieftain": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_big_boss_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_boss_finger_01": 1,
+        "headgear_bigboss": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_pirate_captain_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_telescope_01": 1,
+        "headgear_pirate_captain": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_pirate_captain_undead",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_boss_finger_01": 1,
+        "headgear_pirate_captain": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_pirate_captain_02",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_pirate_captain_02": 1,
+        "headgear_captainredbeard": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_pirate_captain_redbeard_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_pirate_captain_redbeard_01": 1,
+        "headgear_pirate_captain_redbeard": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_foreman_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_green_pipe_01": 1,
+        "headgear_foreman": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_mandarin_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_chopsticks_01": 1,
+        "headgear_mandarin": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_pilotpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_paperplane_01": 1,
+        "headgear_pilotpig": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_tinker_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_tinker_01": 1,
+        "headgear_moustache_tinker": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_antler_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_antler_01": 1,
+        "headgear_moustache_antler": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_pastrychef_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_pastrychef_01": 1,
+        "headgear_moustache_pastrychef": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_director_01",
+      "defaultInventoryContent": {
+        "pig_weapon_moustache_director_01": 1,
+        "headgear_moustache_director": 1
+      }
+    },
+    {
+      "nameId": "pig_moustache_trainer_01",
+      "defaultInventoryContent": {
+        "headgear_moustache_trainer": 1,
+        "pig_weapon_moustache_trainer": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_santa_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_santa_01": 1,
+        "pig_offhand_caster_santa_01": 1,
+        "headgear_caster_santa": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_referee_01",
+      "defaultInventoryContent": {
+        "headgear_caster_referee": 1,
+        "pig_weapon_caster_referee_01": 1,
+        "pig_offhand_caster_referee_01": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_guardcaptain_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_guardcaptain_mace_01": 1,
+        "pig_offhand_knight_guardcaptain_shield_01": 1,
+        "headgear_guardcaptain": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_roseknight_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_roseknight_01": 1,
+        "pig_offhand_knight_roseknight_01": 1,
+        "headgear_knight_roseknight": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_navy",
+      "defaultInventoryContent": {
+        "pig_offhand_knight_kingpig_shield_01": 1,
+        "pig_weapon_knight_guardcaptain_mace_01": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_cactus_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_cactusknight_cactus_01": 1,
+        "pig_offhand_knight_cactusknight_shield_01": 1,
+        "headgear_knight_cactus": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_ice_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_icicle_lance_01": 1,
+        "pig_offhand_knight_ice_shield_01": 1,
+        "headgear_knight_ice": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_dark_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_lightsaber_01": 1,
+        "headgear_knight_dark": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_windup_knight_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_windup_knight_01": 1,
+        "pig_offhand_knight_windup_knight_01": 1,
+        "headgear_knight_windup_knight": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_shogun_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_katana_01": 1,
+        "headgear_knight_shogun": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_royal_guard_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_doll_mace_01": 1,
+        "pig_offhand_knight_kingpig_shield_01": 1,
+        "headgear_knight_royal_guard": 1
+      }
+    },
+    {
+      "nameId": "pig_knight_tin_01",
+      "defaultInventoryContent": {
+        "pig_weapon_knight_tin_01": 1,
+        "pig_offhand_knight_tin_01": 1,
+        "headgear_knight_tin": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_pyropig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_pyropig_pyrostaff_01": 1,
+        "pig_offhand_caster_pyropig_01": 1,
+        "headgear_caster_pyropig": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_lightningpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_lightningpig_metal_staff_01": 1,
+        "pig_offhand_caster_lightningpig_01": 1,
+        "headgear_caster_lightningpig": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_frostpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_frostpig_frozen_staff_01": 1,
+        "pig_offhand_caster_frostpig_01": 1,
+        "headgear_caster_frostpig": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_necromancer_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_necromancer_necronomicon_01": 1,
+        "pig_offhand_caster_necromancer_01": 1,
+        "headgear_caster_necromancer": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_naturepig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_naturepig_wooden_staff_01": 1,
+        "pig_offhand_caster_naturepig_01": 1,
+        "headgear_caster_naturepig": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_clown_a_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_clown_a_01": 1,
+        "pig_offhand_caster_clown_a_01": 1,
+        "headgear_caster_clown_a": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_clown_b_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_clown_b_01": 1,
+        "pig_offhand_caster_clown_b_01": 1,
+        "headgear_caster_clown_b": 1
+      }
+    },
+    {
+      "nameId": "pig_caster_rooster_01",
+      "defaultInventoryContent": {
+        "pig_weapon_caster_rooster_01": 1,
+        "pig_offhand_caster_rooster_01": 1,
+        "headgear_caster_rooster": 1
+      }
+    },
+    {
+      "nameId": "pig_zombie_zombie_minion_01"
+    },
+    {
+      "nameId": "pig_zombie_zombie_01",
+      "defaultInventoryContent": {
+        "pig_weapon_zombie_zombie": 1
+      }
+    },
+    {
+      "nameId": "pig_zombie_berserk_01",
+      "defaultInventoryContent": {
+        "pig_weapon_zombie_berserk": 1,
+        "headgear_zombie_berserk": 1
+      }
+    },
+    {
+      "nameId": "pig_zombie_mummy_01",
+      "defaultInventoryContent": {
+        "headgear_zombie_mummy": 1,
+        "pig_weapon_zombie_mummy": 1
+      }
+    },
+    {
+      "nameId": "pig_zombie_mummy_wet",
+      "defaultInventoryContent": {
+        "headgear_zombie_mummy": 1
+      }
+    },
+    {
+      "nameId": "pig_zombie_mummy_boss",
+      "defaultInventoryContent": {
+        "pig_weapon_zombie_mummy_boss": 1,
+        "headgear_zombie_mummy": 1
+      }
+    },
+    {
+      "nameId": "pig_zombie_knight_01",
+      "defaultInventoryContent": {
+        "pig_weapon_zombie_knight": 1,
+        "headgear_zombie_knight": 1
+      }
+    },
+    {
+      "nameId": "pig_zombie_stinky_01",
+      "defaultInventoryContent": {
+        "headgear_zombie_stinky": 1,
+        "pig_weapon_zombie_stinky": 1
+      }
+    },
+    {
+      "nameId": "pig_shaman_shaman_01",
+      "defaultInventoryContent": {
+        "pig_weapon_shaman_shaman": 1
+      }
+    },
+    {
+      "nameId": "pig_shaman_smutje"
+    },
+    {
+      "nameId": "pig_shaman_witch_doctor_01",
+      "defaultInventoryContent": {
+        "pig_weapon_shaman_witchdoctor": 1,
+        "headgear_shaman_witchdoctor": 1
+      }
+    },
+    {
+      "nameId": "pig_shaman_ice_01",
+      "defaultInventoryContent": {
+        "pig_weapon_shaman_totem_staff_ice_01": 1,
+        "headgear_shaman_ice": 1
+      }
+    },
+    {
+      "nameId": "pig_ghost_ship_01"
+    },
+    {
+      "nameId": "pig_ghost_ghost_01",
+      "defaultInventoryContent": {
+        "pig_weapon_ghost_ghost": 1
+      }
+    },
+    {
+      "nameId": "pig_ghost_willowhisp_01",
+      "defaultInventoryContent": {
+        "headgear_ghost_willowhisp": 1,
+        "pig_weapon_ghost_willowhisp_lantern_01": 1
+      }
+    },
+    {
+      "nameId": "pig_ghost_banshee_01",
+      "defaultInventoryContent": {
+        "headgear_ghost_banshee": 1,
+        "pig_weapon_ghost_banshee": 1
+      }
+    },
+    {
+      "nameId": "pig_ghost_poltergeist_01",
+      "defaultInventoryContent": {
+        "headgear_ghost_poltergeist": 1,
+        "pig_weapon_ghost_poltergeist_coffemug_01": 1
+      }
+    },
+    {
+      "nameId": "pig_ghost_shipkobold_01",
+      "defaultInventoryContent": {
+        "headgear_ghost_shipkobold": 1,
+        "pig_weapon_ghost_shipkobold_rusty_anchor_01": 1
+      }
+    },
+    {
+      "nameId": "pig_ninja_black_01",
+      "defaultInventoryContent": {
+        "pig_weapon_ninja_sai_dagger_01": 1
+      }
+    },
+    {
+      "nameId": "pig_ninja_black_boss",
+      "defaultInventoryContent": {
+        "headgear_ninja_red": 1
+      }
+    },
+    {
+      "nameId": "pig_ninja_bowman_01",
+      "defaultInventoryContent": {
+        "pig_weapon_ninja_asian_bow_01": 1,
+        "headgear_ninja_bowman": 1
+      }
+    },
+    {
+      "nameId": "pig_ninja_red_01",
+      "defaultInventoryContent": {
+        "pig_weapon_ninja_asian_lance_01": 1,
+        "headgear_ninja_red": 1
+      }
+    },
+    {
+      "nameId": "pig_ninja_master_01",
+      "defaultInventoryContent": {
+        "pig_weapon_ninja_kill_bill_katana_01": 1,
+        "headgear_ninja_master": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_goldenpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_golden_pig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_wizpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_wiz_pig_01": 1,
+        "headgear_wiz_pig": 1
+      }
+    },
+    {
+      "nameId": "pig_wiz_pig_easter_01",
+      "defaultInventoryContent": {
+        "headgear_wiz_pig_easter": 1,
+        "pig_weapon_wiz_pig_easter_01": 1
+      }
+    },
+    {
+      "nameId": "pig_wiz_pig_ringmaster",
+      "defaultInventoryContent": {
+        "headgear_wiz_pig_ringmaster": 1,
+        "pig_weapon_wiz_pig_ringmaster": 1
+      }
+    },
+    {
+      "nameId": "pig_king_01",
+      "defaultInventoryContent": {
+        "headgear_king_pig": 1,
+        "pig_offhand_king_pig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_king_01_nocrown",
+      "defaultInventoryContent": {
+        "pig_offhand_king_pig_01": 1
+      }
+    },
+    {
+      "nameId": "pig_king_dracula_01",
+      "defaultInventoryContent": {
+        "headgear_king_pig": 1,
+        "pig_offhand_king_pig_02": 1
+      }
+    },
+    {
+      "nameId": "yellow_bird_captured_start",
+      "defaultInventoryContent": {
+        "class_mage": 1
+      }
+    },
+    {
+      "nameId": "red_bird_captured_start",
+      "defaultInventoryContent": {
+        "class_knight": 1
+      }
+    },
+    {
+      "nameId": "black_bird_captured_start",
+      "defaultInventoryContent": {
+        "class_pirate": 1
+      }
+    },
+    {
+      "nameId": "player_inventory_consumable_test",
+      "defaultInventoryContent": {
+        "loot_starting_inventory": 1,
+        "potion_healing_01": 3
+      }
+    },
+    {
+      "nameId": "inventory_empty"
+    },
+    {
+      "nameId": "pig_ccboss_01",
+      "defaultInventoryContent": {
+        "headgear_corporal": 1
+      }
+    },
+    {
+      "nameId": "pig_ccboss_02",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_brute_club_01": 1,
+        "headgear_brute_pirate": 1
+      }
+    },
+    {
+      "nameId": "pig_bird_red",
+      "defaultInventoryContent": {
+        "bird_weapon_red_lance_set_03": 1,
+        "bird_offhand_red_shield_set_03": 1,
+        "headgear_red_avenger": 1
+      }
+    },
+    {
+      "nameId": "pig_bird_red_02",
+      "defaultInventoryContent": {
+        "headgear_red_ronin": 1,
+        "bird_weapon_red_sword_set_05": 1,
+        "bird_offhand_red_banner_set_05": 1
+      }
+    },
+    {
+      "nameId": "pig_bird_yellow_02",
+      "defaultInventoryContent": {
+        "headgear_yellow_nerd": 1,
+        "bird_weapon_yellow_wand_set_05": 1,
+        "bird_offhand_yellow_orb_set_05": 1
+      }
+    },
+    {
+      "nameId": "pig_bird_white_02",
+      "defaultInventoryContent": {
+        "headgear_white_moonpriest": 1,
+        "bird_weapon_white_comb_set_01": 1,
+        "bird_offhand_white_handbag_set_01": 1
+      }
+    },
+    {
+      "nameId": "pig_bird_black_02",
+      "defaultInventoryContent": {
+        "headgear_black_corsair": 1,
+        "bird_weapon_black_punching_glove_set_04": 1,
+        "bird_offhand_black_treasure_map_set_04": 1
+      }
+    },
+    {
+      "nameId": "pig_bird_blue_02",
+      "defaultInventoryContent": {
+        "headgear_blue_treasurehunters": 1,
+        "bird_weapon_blue_bow_set_01": 1,
+        "bird_offhand_blue_warhorn_set_01": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_dud",
+      "defaultInventoryContent": {
+        "headgear_bomb_dud": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_royal",
+      "defaultInventoryContent": {
+        "headgear_bomb_royal": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_heal",
+      "defaultInventoryContent": {
+        "headgear_bomb_heal": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_snow_01",
+      "defaultInventoryContent": {
+        "headgear_bomb_snow": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_spoiler_01",
+      "defaultInventoryContent": {
+        "headgear_bomb_spoiler": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_easter_damage_01",
+      "defaultInventoryContent": {
+        "headgear_bomb_easter_damage": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_easter_heal_01",
+      "defaultInventoryContent": {
+        "headgear_bomb_easter_heal": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_volleybomb_01",
+      "defaultInventoryContent": {
+        "headgear_bomb_volleyball": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghomedium_tyrra_01",
+      "defaultInventoryContent": {
+        "headgear_tyrra": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghomedium_lilgreendragon_01",
+      "defaultInventoryContent": {
+        "headgear_lilgreendragon": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_baddie_01",
+      "defaultInventoryContent": {
+        "headgear_baddie": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_bubblie_01",
+      "defaultInventoryContent": {
+        "headgear_bubblie": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_draggie_01",
+      "defaultInventoryContent": {
+        "headgear_draggie": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_draggieknight_01",
+      "defaultInventoryContent": {
+        "headgear_draggieknight": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_dragonseed_01",
+      "defaultInventoryContent": {
+        "headgear_dragonseed": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_woodsie_01",
+      "defaultInventoryContent": {
+        "headgear_woodsie": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_greatwoodsie_01",
+      "defaultInventoryContent": {
+        "headgear_greatwoodsie": 1
+      }
+    },
+    {
+      "nameId": "pig_gungholarge_earthdragon_01",
+      "defaultInventoryContent": {
+        "headgear_earthdragon": 1
+      }
+    },
+    {
+      "nameId": "pig_gungholarge_falconhorus_01",
+      "defaultInventoryContent": {
+        "headgear_falconhorus": 1
+      }
+    },
+    {
+      "nameId": "pig_gungholarge_firedragon_01",
+      "defaultInventoryContent": {
+        "headgear_firedragon": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_shynee_01",
+      "defaultInventoryContent": {
+        "headgear_shynee": 1
+      }
+    },
+    {
+      "nameId": "pig_gunghosmall_tamadra_01",
+      "defaultInventoryContent": {
+        "headgear_tamadra": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_tinkered_01",
+      "defaultInventoryContent": {
+        "pig_weapon_tinkered_01": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_redhunter_01",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_redhunter_01": 1,
+        "headgear_redhunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_redhunter_02",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_redhunter_02": 1,
+        "pig_offhand_drone_redhunter_02": 1,
+        "headgear_redhunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_yellowhunter_01",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_yellowhunter_01": 1,
+        "headgear_yellowhunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_yellowhunter_02",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_yellowhunter_02": 1,
+        "pig_offhand_drone_yellowhunter_02": 1,
+        "headgear_yellowhunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_whitehunter_01",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_whitehunter_01": 1,
+        "headgear_whitehunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_whitehunter_02",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_whitehunter_02": 1,
+        "pig_offhand_drone_whitehunter_02": 1,
+        "headgear_whitehunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_blackhunter_01",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_blackhunter_01": 1,
+        "headgear_blackhunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_blackhunter_02",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_blackhunter_02": 1,
+        "pig_offhand_drone_blackhunter_02": 1,
+        "headgear_blackhunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_bluehunter_01",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_bluehunter_01": 1,
+        "headgear_bluehunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_bluehunter_02",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_bluehunter_02": 1,
+        "pig_offhand_drone_bluehunter_02": 1,
+        "headgear_bluehunter": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_doom_01",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_doom_01": 1,
+        "headgear_doomdrone": 1
+      }
+    },
+    {
+      "nameId": "pig_drone_projector_01",
+      "defaultInventoryContent": {
+        "pig_weapon_drone_projector_01": 1,
+        "pig_offhand_drone_projector_01": 1,
+        "headgear_projectordrone": 1
+      }
+    },
+    {
+      "nameId": "pig_bomb_firecrackers_01",
+      "defaultInventoryContent": {
+        "headgear_bomb_firecrackers": 1
+      }
+    },
+    {
+      "nameId": "pig_pigmies_dragonplayer_01",
+      "defaultInventoryContent": {
+        "headgear_pigmies_dragonplayer": 1
+      }
+    },
+    {
+      "nameId": "pig_brute_battering_01",
+      "defaultInventoryContent": {
+        "pig_weapon_brute_battering_01": 1,
+        "headgear_brute_battering": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_lanternpig_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_lanternpig_01": 1,
+        "headgear_minion_lanternpig": 1
+      }
+    },
+    {
+      "nameId": "pig_minion_pyrobolist_01",
+      "defaultInventoryContent": {
+        "pig_weapon_minion_pyrobolist_01": 1,
+        "pig_offhand_minion_pyrobolist_01": 1,
+        "headgear_minion_pyrobolist": 1
+      }
+    },
+    {
+      "nameId": "pig_boss_tinker_01",
+      "defaultInventoryContent": {
+        "pig_weapon_boss_tinker_01": 1,
+        "pig_weapon_boss_tinker_02": 1,
+        "pig_weapon_boss_tinker_03": 1
+      }
+    },
+    {
+      "nameId": "pig_boss_kraken_01"
+    },
+    {
+      "nameId": "pig_tentacle_01",
+      "defaultInventoryContent": {
+        "pig_weapon_tentacle_01": 1
+      }
+    },
+    {
+      "nameId": "boss_hogrider_hefty_01",
+      "defaultInventoryContent": {
+        "pig_weapon_boss_hogrider_hefty": 1,
+        "pig_offhand_boss_hogrider_hefty": 1
+      }
+    },
+    {
+      "nameId": "boss_hogrider_greed_01",
+      "defaultInventoryContent": {
+        "pig_weapon_boss_hogrider_greed": 1,
+        "pig_offhand_boss_hogrider_greed": 1
+      }
+    },
+    {
+      "nameId": "boss_hogrider_anger_01",
+      "defaultInventoryContent": {
+        "pig_weapon_boss_hogrider_anger": 1,
+        "pig_offhand_boss_hogrider_anger": 1
+      }
+    },
+    {
+      "nameId": "boss_hogrider_wrath_01",
+      "defaultInventoryContent": {
+        "pig_weapon_boss_hogrider_wrath": 1,
+        "pig_offhand_boss_hogrider_wrath": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_bomb_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_bomb": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_spikes_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_spikes": 1,
+        "pig_weapon_sonic_spikes": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_spikes_big_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_spikes_big": 1,
+        "pig_weapon_sonic_spikes_big": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_motobug_golden_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_motobug_golden": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_electrospinner_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_electrospinner": 1,
+        "pig_weapon_sonic_electrospinner": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_crabmeat_tiny_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_crabmeat_tiny": 1,
+        "pig_weapon_sonic_crabmeat_tiny": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_crabmeat_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_crabmeat": 1,
+        "pig_weapon_sonic_crabmeat": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_chopper_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_chopper": 1,
+        "pig_weapon_sonic_chopper": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_chopper_blue_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_chopper_blue": 1,
+        "pig_weapon_sonic_chopper_blue": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_buzzbomber_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_buzzbomber": 1,
+        "pig_weapon_sonic_buzzbomber": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_eggman_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_eggman": 1,
+        "pig_weapon_sonic_dreggman": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_motobug_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_motobug": 1,
+        "pig_weapon_sonic_motobug": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_eggpawn_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_eggpawn": 1,
+        "pig_weapon_sonic_eggpawn": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_eggpawn_giant_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_eggpawn_giant": 1,
+        "pig_weapon_sonic_eggpawn_giant": 1
+      }
+    },
+    {
+      "nameId": "pig_sonic_shieldspinner_01",
+      "defaultInventoryContent": {
+        "headgear_sonic_shieldspinner": 1,
+        "pig_weapon_sonic_shieldspinner": 1
+      }
+    },
+    {
+      "nameId": "bird_sonic_01",
+      "defaultInventoryContent": {
+        "bird_weapon_sonic_01": 1,
+        "bird_offhand_sonic_01": 1,
+        "class_sonic": 1
+      }
+    },
+    {
+      "nameId": "pig_prince_porky_valentine_01",
+      "defaultInventoryContent": {
+        "bird_weapon_prince_porky_02": 1,
+        "headgear_prince_porky_lovestruck": 1
+      }
+    }
+  ]
+}

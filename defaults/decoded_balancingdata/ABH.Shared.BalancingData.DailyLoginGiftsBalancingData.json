@@ -1,0 +1,7058 @@
+{
+  "dailyLoginGiftData": [
+    {
+      "nameId": "standard",
+      "day1": {
+        "gold": 15
+      },
+      "day2": {
+        "gold": 20
+      },
+      "day3": {
+        "gold": 25
+      },
+      "day4": {
+        "gold": 25
+      },
+      "day5": {
+        "gold": 30
+      },
+      "day6": {
+        "gold": 35
+      },
+      "day7": {
+        "gold": 40
+      },
+      "day8": {
+        "gold": 45
+      },
+      "day9": {
+        "gold": 50
+      },
+      "day10": {
+        "gold": 55
+      },
+      "day11": {
+        "gold": 60
+      },
+      "day12": {
+        "gold": 65
+      },
+      "day13": {
+        "gold": 70
+      },
+      "day14": {
+        "gold": 75
+      },
+      "day15": {
+        "gold": 80
+      },
+      "day16": {
+        "gold": 85
+      },
+      "day17": {
+        "gold": 90
+      },
+      "day18": {
+        "gold": 95
+      },
+      "day19": {
+        "gold": 100
+      },
+      "day20": {
+        "gold": 105
+      },
+      "day21": {
+        "gold": 110
+      },
+      "day22": {
+        "gold": 115
+      },
+      "day23": {
+        "gold": 120
+      },
+      "day24": {
+        "gold": 125
+      },
+      "day25": {
+        "gold": 130
+      },
+      "day26": {
+        "gold": 135
+      },
+      "day27": {
+        "gold": 140
+      },
+      "day28": {
+        "gold": 145
+      },
+      "day29": {
+        "gold": 150
+      },
+      "day30": {
+        "gold": 155
+      },
+      "day31": {
+        "gold": 200
+      },
+      "highLightDays": [
+        31
+      ]
+    },
+    {
+      "nameId": "201503",
+      "day1": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day2": {
+        "gold": 25
+      },
+      "day3": {
+        "daily_post_card": 5
+      },
+      "day4": {
+        "daily_post_card": 1
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_energy": 1
+      },
+      "day11": {
+        "mastery_bird_blue": 250
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_purify_01": 1
+      },
+      "day18": {
+        "mastery_all": 350
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_xp_01": 1
+      },
+      "day25": {
+        "bird_weapon_red_hammer_set_04": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_damage_all_01": 1
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201504",
+      "day1": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day2": {
+        "gold": 25
+      },
+      "day3": {
+        "daily_post_card": 5
+      },
+      "day4": {
+        "daily_post_card": 1
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_energy": 1
+      },
+      "day11": {
+        "mastery_bird_blue": 250
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_purify_01": 1
+      },
+      "day18": {
+        "mastery_all": 350
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_xp_01": 1
+      },
+      "day25": {
+        "bird_weapon_red_hammer_set_04": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_damage_all_01": 1
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201505",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "bird_weapon_red_hammer_set_04": 1
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201506",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "bird_weapon_red_hammer_set_04": 1
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201507",
+      "day1": {
+        "gold": 100
+      },
+      "day2": {
+        "resource_bamboo": 5
+      },
+      "day3": {
+        "potion_purify_01": 1
+      },
+      "day4": {
+        "daily_post_card": 1
+      },
+      "day5": {
+        "friendship_essence": 3
+      },
+      "day6": {
+        "potion_energy": 3
+      },
+      "day7": {
+        "lucky_coin": 20
+      },
+      "day8": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day9": {
+        "gold": 250
+      },
+      "highLightDays": [
+        4,
+        8,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201508",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "bird_weapon_red_hammer_set_04": 1
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201509",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "bird_weapon_yellow_wand_set_04": 1
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201510",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "bird_weapon_white_frying_pan_set_04": 1
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201511",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "bird_weapon_black_punching_glove_set_04": 1
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201512",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "ingredient_banana": 5
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "ingredient_hot_tomato": 5
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "bird_weapon_blue_bow_set_04": 1
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "ingredient_sea_berry": 5
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "ingredient_ice_chili": 5
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201601",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_red_sword_set_05": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201602",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_yellow_wand_set_05": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201603",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_white_frying_pan_set_05": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201604",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_black_bomb_set_05": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201605",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_blue_boomerang_set_05": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201606",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_red_lance_set_06": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201607",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_yellow_broom_set_06": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201608",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_white_harp_set_06": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201609",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_black_pistol_set_06": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201610",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_blue_slingshot_set_06": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201611",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1,
+        "unlock_scrap": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201612",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201701",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201702",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "potion_purify_01": 1
+      },
+      "day11": {
+        "daily_post_card": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_xp_01": 1
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "potion_damage_all_01": 1
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201703",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201704",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201705",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201706",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201707",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201708",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201709",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201710",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201711",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201712",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201801",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201802",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201803",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201804",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201805",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201806",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201807",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201808",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201809",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201810",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201811",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201812",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201901",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201902",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201903",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201904",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201905",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201906",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201907",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201908",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201909",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201910",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201911",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "201912",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202001",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202002",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202003",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202004",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202005",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202006",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202007",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202008",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_yellow_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202009",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_white_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202010",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_black_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202011",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_blues_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "day31": {
+        "potion_energy": 3
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    },
+    {
+      "nameId": "202012",
+      "day1": {
+        "gold": 25
+      },
+      "day2": {
+        "resource_wood": 5
+      },
+      "day3": {
+        "potion_energy": 1
+      },
+      "day4": {
+        "special_offer_rainbow_riot": 30
+      },
+      "day5": {
+        "friendship_essence": 1
+      },
+      "day6": {
+        "shard": 2
+      },
+      "day7": {
+        "lucky_coin": 5
+      },
+      "day8": {
+        "gold": 50
+      },
+      "day9": {
+        "resource_stone": 5
+      },
+      "day10": {
+        "mastery_all": 500
+      },
+      "day11": {
+        "potion_damage_all_01": 1
+      },
+      "day12": {
+        "friendship_essence": 2
+      },
+      "day13": {
+        "shard": 2
+      },
+      "day14": {
+        "lucky_coin": 10
+      },
+      "day15": {
+        "gold": 100
+      },
+      "day16": {
+        "resource_bamboo": 5
+      },
+      "day17": {
+        "potion_energy": 2
+      },
+      "day18": {
+        "special_offer_rainbow_riot_02": 30
+      },
+      "day19": {
+        "friendship_essence": 3
+      },
+      "day20": {
+        "shard": 2
+      },
+      "day21": {
+        "lucky_coin": 20
+      },
+      "day22": {
+        "gold": 250
+      },
+      "day23": {
+        "resource_ore": 5
+      },
+      "day24": {
+        "mastery_all": 1000
+      },
+      "day25": {
+        "bird_weapon_chest_red_01": 1
+      },
+      "day26": {
+        "friendship_essence": 4
+      },
+      "day27": {
+        "shard": 2
+      },
+      "day28": {
+        "lucky_coin": 30
+      },
+      "day29": {
+        "gold": 500
+      },
+      "day30": {
+        "resource_metal_bar": 5
+      },
+      "highLightDays": [
+        4,
+        11,
+        18,
+        25
+      ]
+    }
+  ]
+}

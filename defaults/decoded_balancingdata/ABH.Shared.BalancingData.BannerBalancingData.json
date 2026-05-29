@@ -1,0 +1,25 @@
+{
+  "bannerData": [
+    {
+      "nameId": "bird_banner",
+      "assetId": "Banner",
+      "locaId": "bird_banner",
+      "defaultInventoryNameId": "bird_banner",
+      "sizeType": "CHARACTER_SIZE_TYPE_LARGE"
+    },
+    {
+      "nameId": "bird_banner_porky",
+      "assetId": "Banner",
+      "locaId": "bird_banner",
+      "defaultInventoryNameId": "bird_banner_mccool",
+      "sizeType": "CHARACTER_SIZE_TYPE_LARGE"
+    },
+    {
+      "nameId": "bird_banner_pvptut",
+      "assetId": "Banner",
+      "locaId": "bird_banner",
+      "defaultInventoryNameId": "bird_banner_tut",
+      "sizeType": "CHARACTER_SIZE_TYPE_LARGE"
+    }
+  ]
+}

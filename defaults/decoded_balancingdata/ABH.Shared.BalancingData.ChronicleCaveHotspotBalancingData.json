@@ -1,0 +1,3719 @@
+{
+  "hotspotData": [
+    {
+      "nameId": "hotspot_01_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_001",
+        "battle_cc_floor_01_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 1,
+      "progressId": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_002",
+        "battle_cc_floor_01_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 2,
+      "progressId": 2,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_003",
+        "battle_cc_floor_01_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 3,
+      "progressId": 3,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_004",
+        "battle_cc_floor_01_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 4,
+      "progressId": 4,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_005",
+        "battle_cc_floor_01_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 5,
+      "progressId": 5,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_006",
+        "battle_cc_floor_01_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 6,
+      "progressId": 6,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_007",
+        "battle_cc_floor_01_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 7,
+      "progressId": 7,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_008",
+        "battle_cc_floor_01_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 8,
+      "progressId": 8,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_009",
+        "battle_cc_floor_01_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 9,
+      "progressId": 9,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_000",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_01_010",
+        "battle_cc_floor_01_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_shaking_hall",
+      "zoneStageIndex": 10,
+      "progressId": 10,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_001",
+        "battle_cc_floor_02_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 1,
+      "progressId": 11,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_002",
+        "battle_cc_floor_02_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 2,
+      "progressId": 12,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_003",
+        "battle_cc_floor_02_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 3,
+      "progressId": 13,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_004",
+        "battle_cc_floor_02_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 4,
+      "progressId": 14,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_005",
+        "battle_cc_floor_02_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 5,
+      "progressId": 15,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_006",
+        "battle_cc_floor_02_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 6,
+      "progressId": 16,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_007",
+        "battle_cc_floor_02_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 7,
+      "progressId": 17,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_008",
+        "battle_cc_floor_02_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 8,
+      "progressId": 18,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_009",
+        "battle_cc_floor_02_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 9,
+      "progressId": 19,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_001",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_02_010",
+        "battle_cc_floor_02_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_rain_plateaus",
+      "zoneStageIndex": 10,
+      "progressId": 20,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_001",
+        "battle_cc_floor_03_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 1,
+      "progressId": 21,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_002",
+        "battle_cc_floor_03_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 2,
+      "progressId": 22,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_003",
+        "battle_cc_floor_03_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 3,
+      "progressId": 23,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_004",
+        "battle_cc_floor_03_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 4,
+      "progressId": 24,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_005",
+        "battle_cc_floor_03_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 5,
+      "progressId": 25,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_006",
+        "battle_cc_floor_03_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 6,
+      "progressId": 26,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_007",
+        "battle_cc_floor_03_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 7,
+      "progressId": 27,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_008",
+        "battle_cc_floor_03_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 8,
+      "progressId": 28,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_009",
+        "battle_cc_floor_03_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 9,
+      "progressId": 29,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_002",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_03_010",
+        "battle_cc_floor_03_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_misty_hollow",
+      "zoneStageIndex": 10,
+      "progressId": 30,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_001",
+        "battle_cc_floor_04_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 1,
+      "progressId": 31,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_002",
+        "battle_cc_floor_04_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 2,
+      "progressId": 32,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_003",
+        "battle_cc_floor_04_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 3,
+      "progressId": 33,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_004",
+        "battle_cc_floor_04_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 4,
+      "progressId": 34,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_005",
+        "battle_cc_floor_04_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 5,
+      "progressId": 35,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_006",
+        "battle_cc_floor_04_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 6,
+      "progressId": 36,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_007",
+        "battle_cc_floor_04_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 7,
+      "progressId": 37,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_008",
+        "battle_cc_floor_04_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 8,
+      "progressId": 38,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_009",
+        "battle_cc_floor_04_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 9,
+      "progressId": 39,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_003",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_04_010",
+        "battle_cc_floor_04_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_cure_cavern",
+      "zoneStageIndex": 10,
+      "progressId": 40,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_001",
+        "battle_cc_floor_05_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 1,
+      "progressId": 41,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_002",
+        "battle_cc_floor_05_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 2,
+      "progressId": 42,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_003",
+        "battle_cc_floor_05_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 3,
+      "progressId": 43,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_004",
+        "battle_cc_floor_05_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 4,
+      "progressId": 44,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_005",
+        "battle_cc_floor_05_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 5,
+      "progressId": 45,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_006",
+        "battle_cc_floor_05_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 6,
+      "progressId": 46,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_007",
+        "battle_cc_floor_05_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 7,
+      "progressId": 47,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_008",
+        "battle_cc_floor_05_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 8,
+      "progressId": 48,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_009",
+        "battle_cc_floor_05_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 9,
+      "progressId": 49,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_004",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_05_010",
+        "battle_cc_floor_05_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_burning_plain",
+      "zoneStageIndex": 10,
+      "progressId": 50,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_001",
+        "battle_cc_floor_06_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 1,
+      "progressId": 51,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_002",
+        "battle_cc_floor_06_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 2,
+      "progressId": 52,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_003",
+        "battle_cc_floor_06_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 3,
+      "progressId": 53,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_004",
+        "battle_cc_floor_06_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 4,
+      "progressId": 54,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_005",
+        "battle_cc_floor_06_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 5,
+      "progressId": 55,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_006",
+        "battle_cc_floor_06_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 6,
+      "progressId": 56,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_007",
+        "battle_cc_floor_06_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 7,
+      "progressId": 57,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_008",
+        "battle_cc_floor_06_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 8,
+      "progressId": 58,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_009",
+        "battle_cc_floor_06_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 9,
+      "progressId": 59,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_005",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_06_010",
+        "battle_cc_floor_06_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_endless_winter",
+      "zoneStageIndex": 10,
+      "progressId": 60,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_001",
+        "battle_cc_floor_07_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 1,
+      "progressId": 61,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_002",
+        "battle_cc_floor_07_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 2,
+      "progressId": 62,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_003",
+        "battle_cc_floor_07_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 3,
+      "progressId": 63,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_004",
+        "battle_cc_floor_07_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 4,
+      "progressId": 64,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_005",
+        "battle_cc_floor_07_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 5,
+      "progressId": 65,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_006",
+        "battle_cc_floor_07_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 6,
+      "progressId": 66,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_007",
+        "battle_cc_floor_07_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 7,
+      "progressId": 67,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_008",
+        "battle_cc_floor_07_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 8,
+      "progressId": 68,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_009",
+        "battle_cc_floor_07_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 9,
+      "progressId": 69,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_006",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_07_010",
+        "battle_cc_floor_07_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_forgotten_bastion",
+      "zoneStageIndex": 10,
+      "progressId": 70,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_001",
+        "battle_cc_floor_08_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 1,
+      "progressId": 71,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_002",
+        "battle_cc_floor_08_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 2,
+      "progressId": 72,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_003",
+        "battle_cc_floor_08_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 3,
+      "progressId": 73,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_004",
+        "battle_cc_floor_08_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 4,
+      "progressId": 74,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_005",
+        "battle_cc_floor_08_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 5,
+      "progressId": 75,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_006",
+        "battle_cc_floor_08_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 6,
+      "progressId": 76,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_007",
+        "battle_cc_floor_08_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 7,
+      "progressId": 77,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_008",
+        "battle_cc_floor_08_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 8,
+      "progressId": 78,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_009",
+        "battle_cc_floor_08_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 9,
+      "progressId": 79,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_007",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_08_010",
+        "battle_cc_floor_08_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_strange_site",
+      "zoneStageIndex": 10,
+      "progressId": 80,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_001",
+        "battle_cc_floor_09_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 1,
+      "progressId": 81,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_002",
+        "battle_cc_floor_09_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 2,
+      "progressId": 82,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_003",
+        "battle_cc_floor_09_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 3,
+      "progressId": 83,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_004",
+        "battle_cc_floor_09_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 4,
+      "progressId": 84,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_005",
+        "battle_cc_floor_09_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 5,
+      "progressId": 85,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_006",
+        "battle_cc_floor_09_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 6,
+      "progressId": 86,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_007",
+        "battle_cc_floor_09_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 7,
+      "progressId": 87,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_008",
+        "battle_cc_floor_09_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 8,
+      "progressId": 88,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_009",
+        "battle_cc_floor_09_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 9,
+      "progressId": 89,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_008",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_09_010",
+        "battle_cc_floor_09_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_lair",
+      "zoneStageIndex": 10,
+      "progressId": 90,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_001",
+        "battle_cc_floor_10_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 1,
+      "progressId": 91,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_002",
+        "battle_cc_floor_10_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 2,
+      "progressId": 92,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_003",
+        "battle_cc_floor_10_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 3,
+      "progressId": 93,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_004",
+        "battle_cc_floor_10_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 4,
+      "progressId": 94,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_005",
+        "battle_cc_floor_10_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 5,
+      "progressId": 95,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_006",
+        "battle_cc_floor_10_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 6,
+      "progressId": 96,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_007",
+        "battle_cc_floor_10_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 7,
+      "progressId": 97,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_008",
+        "battle_cc_floor_10_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 8,
+      "progressId": 98,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_009",
+        "battle_cc_floor_10_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 9,
+      "progressId": 99,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_009",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_10_010",
+        "battle_cc_floor_10_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_citadel",
+      "zoneStageIndex": 10,
+      "progressId": 100,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_001",
+        "battle_cc_floor_11_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 1,
+      "progressId": 101,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_002",
+        "battle_cc_floor_11_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 2,
+      "progressId": 102,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_003",
+        "battle_cc_floor_11_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 3,
+      "progressId": 103,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_004",
+        "battle_cc_floor_11_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 4,
+      "progressId": 104,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_005",
+        "battle_cc_floor_11_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 5,
+      "progressId": 105,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_006",
+        "battle_cc_floor_11_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 6,
+      "progressId": 106,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_007",
+        "battle_cc_floor_11_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 7,
+      "progressId": 107,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_008",
+        "battle_cc_floor_11_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 8,
+      "progressId": 108,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_009",
+        "battle_cc_floor_11_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 9,
+      "progressId": 109,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_010",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_11_010",
+        "battle_cc_floor_11_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_mocking_canyon",
+      "zoneStageIndex": 10,
+      "progressId": 110,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_001",
+        "battle_cc_floor_12_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 1,
+      "progressId": 111,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_002",
+        "battle_cc_floor_12_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 2,
+      "progressId": 112,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_003",
+        "battle_cc_floor_12_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 3,
+      "progressId": 113,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_004",
+        "battle_cc_floor_12_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 4,
+      "progressId": 114,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_005",
+        "battle_cc_floor_12_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 5,
+      "progressId": 115,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_006",
+        "battle_cc_floor_12_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 6,
+      "progressId": 116,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_007",
+        "battle_cc_floor_12_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 7,
+      "progressId": 117,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_008",
+        "battle_cc_floor_12_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 8,
+      "progressId": 118,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_009",
+        "battle_cc_floor_12_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 9,
+      "progressId": 119,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_011",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_12_010",
+        "battle_cc_floor_12_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_happy_spot",
+      "zoneStageIndex": 10,
+      "progressId": 120,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_001",
+        "battle_cc_floor_13_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 1,
+      "progressId": 121,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_002",
+        "battle_cc_floor_13_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 2,
+      "progressId": 122,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_003",
+        "battle_cc_floor_13_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 3,
+      "progressId": 123,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_004",
+        "battle_cc_floor_13_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 4,
+      "progressId": 124,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_005",
+        "battle_cc_floor_13_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 5,
+      "progressId": 125,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_006",
+        "battle_cc_floor_13_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 6,
+      "progressId": 126,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_007",
+        "battle_cc_floor_13_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 7,
+      "progressId": 127,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_008",
+        "battle_cc_floor_13_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 8,
+      "progressId": 128,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_009",
+        "battle_cc_floor_13_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 9,
+      "progressId": 129,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_012",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_13_010",
+        "battle_cc_floor_13_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_uncharted_plains",
+      "zoneStageIndex": 10,
+      "progressId": 130,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_001",
+        "battle_cc_floor_14_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 1,
+      "progressId": 131,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_002",
+        "battle_cc_floor_14_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 2,
+      "progressId": 132,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_003",
+        "battle_cc_floor_14_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 3,
+      "progressId": 133,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_004",
+        "battle_cc_floor_14_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 4,
+      "progressId": 134,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_005",
+        "battle_cc_floor_14_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 5,
+      "progressId": 135,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_006",
+        "battle_cc_floor_14_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 6,
+      "progressId": 136,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_007",
+        "battle_cc_floor_14_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 7,
+      "progressId": 137,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_008",
+        "battle_cc_floor_14_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 8,
+      "progressId": 138,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_009",
+        "battle_cc_floor_14_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 9,
+      "progressId": 139,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_013",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_14_010",
+        "battle_cc_floor_14_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_stormy_sea",
+      "zoneStageIndex": 10,
+      "progressId": 140,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_001",
+        "battle_cc_floor_15_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 1,
+      "progressId": 141,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_002",
+        "battle_cc_floor_15_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 2,
+      "progressId": 142,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_003",
+        "battle_cc_floor_15_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 3,
+      "progressId": 143,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_004",
+        "battle_cc_floor_15_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 4,
+      "progressId": 144,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_005",
+        "battle_cc_floor_15_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 5,
+      "progressId": 145,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_006",
+        "battle_cc_floor_15_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 6,
+      "progressId": 146,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_007",
+        "battle_cc_floor_15_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 7,
+      "progressId": 147,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_008",
+        "battle_cc_floor_15_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 8,
+      "progressId": 148,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_009",
+        "battle_cc_floor_15_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 9,
+      "progressId": 149,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_014",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_15_010",
+        "battle_cc_floor_15_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_the_great_divide",
+      "zoneStageIndex": 10,
+      "progressId": 150,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_001",
+        "battle_cc_floor_16_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 1,
+      "progressId": 151,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_002",
+        "battle_cc_floor_16_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 2,
+      "progressId": 152,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_003",
+        "battle_cc_floor_16_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 3,
+      "progressId": 153,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_004",
+        "battle_cc_floor_16_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 4,
+      "progressId": 154,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_005",
+        "battle_cc_floor_16_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 5,
+      "progressId": 155,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_006",
+        "battle_cc_floor_16_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 6,
+      "progressId": 156,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_007",
+        "battle_cc_floor_16_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 7,
+      "progressId": 157,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_008",
+        "battle_cc_floor_16_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 8,
+      "progressId": 158,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_009",
+        "battle_cc_floor_16_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 9,
+      "progressId": 159,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_015",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_16_010",
+        "battle_cc_floor_16_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_holy_pools",
+      "zoneStageIndex": 10,
+      "progressId": 160,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_001",
+        "battle_cc_floor_17_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 1,
+      "progressId": 161,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_002",
+        "battle_cc_floor_17_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 2,
+      "progressId": 162,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_003",
+        "battle_cc_floor_17_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 3,
+      "progressId": 163,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_004",
+        "battle_cc_floor_17_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 4,
+      "progressId": 164,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_005",
+        "battle_cc_floor_17_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 5,
+      "progressId": 165,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_006",
+        "battle_cc_floor_17_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 6,
+      "progressId": 166,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_007",
+        "battle_cc_floor_17_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 7,
+      "progressId": 167,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_008",
+        "battle_cc_floor_17_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 8,
+      "progressId": 168,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_009",
+        "battle_cc_floor_17_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 9,
+      "progressId": 169,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_016",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_17_010",
+        "battle_cc_floor_17_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_porch",
+      "zoneStageIndex": 10,
+      "progressId": 170,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_001",
+        "battle_cc_floor_18_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 1,
+      "progressId": 171,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_002",
+        "battle_cc_floor_18_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 2,
+      "progressId": 172,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_003",
+        "battle_cc_floor_18_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 3,
+      "progressId": 173,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_004",
+        "battle_cc_floor_18_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 4,
+      "progressId": 174,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_005",
+        "battle_cc_floor_18_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 5,
+      "progressId": 175,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_006",
+        "battle_cc_floor_18_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 6,
+      "progressId": 176,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_007",
+        "battle_cc_floor_18_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 7,
+      "progressId": 177,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_008",
+        "battle_cc_floor_18_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 8,
+      "progressId": 178,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_009",
+        "battle_cc_floor_18_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 9,
+      "progressId": 179,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_017",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_18_010",
+        "battle_cc_floor_18_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_bacon_bay",
+      "zoneStageIndex": 10,
+      "progressId": 180,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_001",
+        "battle_cc_floor_19_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 1,
+      "progressId": 181,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_002",
+        "battle_cc_floor_19_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 2,
+      "progressId": 182,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_003",
+        "battle_cc_floor_19_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 3,
+      "progressId": 183,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_004",
+        "battle_cc_floor_19_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 4,
+      "progressId": 184,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_005",
+        "battle_cc_floor_19_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 5,
+      "progressId": 185,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_006",
+        "battle_cc_floor_19_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 6,
+      "progressId": 186,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_007",
+        "battle_cc_floor_19_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 7,
+      "progressId": 187,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_008",
+        "battle_cc_floor_19_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 8,
+      "progressId": 188,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_009",
+        "battle_cc_floor_19_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 9,
+      "progressId": 189,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_018",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_19_010",
+        "battle_cc_floor_19_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_volcano_jaw",
+      "zoneStageIndex": 10,
+      "progressId": 190,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_001",
+        "battle_cc_floor_20_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 1,
+      "progressId": 191,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_002",
+        "battle_cc_floor_20_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 2,
+      "progressId": 192,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_003",
+        "battle_cc_floor_20_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 3,
+      "progressId": 193,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_004",
+        "battle_cc_floor_20_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 4,
+      "progressId": 194,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_005",
+        "battle_cc_floor_20_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 5,
+      "progressId": 195,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_006",
+        "battle_cc_floor_20_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 6,
+      "progressId": 196,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_007",
+        "battle_cc_floor_20_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 7,
+      "progressId": 197,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_008",
+        "battle_cc_floor_20_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 8,
+      "progressId": 198,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_009",
+        "battle_cc_floor_20_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 9,
+      "progressId": 199,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_019",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_20_010",
+        "battle_cc_floor_20_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_hog_head_hollow",
+      "zoneStageIndex": 10,
+      "progressId": 200,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_001",
+        "battle_cc_floor_21_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 1,
+      "progressId": 201,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_002",
+        "battle_cc_floor_21_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 2,
+      "progressId": 202,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_003",
+        "battle_cc_floor_21_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 3,
+      "progressId": 203,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_004",
+        "battle_cc_floor_21_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 4,
+      "progressId": 204,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_005",
+        "battle_cc_floor_21_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 5,
+      "progressId": 205,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_006",
+        "battle_cc_floor_21_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 6,
+      "progressId": 206,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_007",
+        "battle_cc_floor_21_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 7,
+      "progressId": 207,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_008",
+        "battle_cc_floor_21_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 8,
+      "progressId": 208,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_009",
+        "battle_cc_floor_21_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 9,
+      "progressId": 209,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_020",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_21_010",
+        "battle_cc_floor_21_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_hells_bells",
+      "zoneStageIndex": 10,
+      "progressId": 210,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_001",
+        "battle_cc_floor_22_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 1,
+      "progressId": 211,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_002",
+        "battle_cc_floor_22_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 2,
+      "progressId": 212,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_003",
+        "battle_cc_floor_22_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 3,
+      "progressId": 213,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_004",
+        "battle_cc_floor_22_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 4,
+      "progressId": 214,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_005",
+        "battle_cc_floor_22_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_02": 1
+      },
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 5,
+      "progressId": 215,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_006",
+        "battle_cc_floor_22_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 6,
+      "progressId": 216,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_007",
+        "battle_cc_floor_22_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 7,
+      "progressId": 217,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_008",
+        "battle_cc_floor_22_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 8,
+      "progressId": 218,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_009",
+        "battle_cc_floor_22_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 9,
+      "progressId": 219,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_021",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_22_010",
+        "battle_cc_floor_22_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_pirate_bay",
+      "zoneStageIndex": 10,
+      "progressId": 220,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_001",
+        "battle_cc_floor_23_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 1,
+      "progressId": 221,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_002",
+        "battle_cc_floor_23_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 2,
+      "progressId": 222,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_003",
+        "battle_cc_floor_23_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 3,
+      "progressId": 223,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_004",
+        "battle_cc_floor_23_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 4,
+      "progressId": 224,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_005",
+        "battle_cc_floor_23_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_01": 1
+      },
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 5,
+      "progressId": 225,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_006",
+        "battle_cc_floor_23_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 6,
+      "progressId": 226,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_007",
+        "battle_cc_floor_23_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 7,
+      "progressId": 227,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_008",
+        "battle_cc_floor_23_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 8,
+      "progressId": 228,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_009",
+        "battle_cc_floor_23_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 9,
+      "progressId": 229,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_022",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_23_010",
+        "battle_cc_floor_23_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_hostile_mist",
+      "zoneStageIndex": 10,
+      "progressId": 230,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_001",
+        "battle_cc_floor_24_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 1,
+      "progressId": 231,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_002",
+        "battle_cc_floor_24_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 2,
+      "progressId": 232,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_003",
+        "battle_cc_floor_24_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 3,
+      "progressId": 233,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_004",
+        "battle_cc_floor_24_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 4,
+      "progressId": 234,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_005",
+        "battle_cc_floor_24_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_03": 1
+      },
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 5,
+      "progressId": 235,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_006",
+        "battle_cc_floor_24_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 6,
+      "progressId": 236,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_007",
+        "battle_cc_floor_24_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 7,
+      "progressId": 237,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_008",
+        "battle_cc_floor_24_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 8,
+      "progressId": 238,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_009",
+        "battle_cc_floor_24_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 9,
+      "progressId": 239,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_023",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_24_010",
+        "battle_cc_floor_24_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_icy_waters",
+      "zoneStageIndex": 10,
+      "progressId": 240,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_001",
+        "battle_cc_floor_25_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 1,
+      "progressId": 241,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_002",
+        "battle_cc_floor_25_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 2,
+      "progressId": 242,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_003",
+        "battle_cc_floor_25_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 3,
+      "progressId": 243,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_004",
+        "battle_cc_floor_25_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 4,
+      "progressId": 244,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_005",
+        "battle_cc_floor_25_005_resolved"
+      ],
+      "hotspotContents": {
+        "loot_chronicle_chest_04": 1
+      },
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 5,
+      "progressId": 245,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_006",
+        "battle_cc_floor_25_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 6,
+      "progressId": 246,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_007",
+        "battle_cc_floor_25_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 7,
+      "progressId": 247,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_008",
+        "battle_cc_floor_25_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 8,
+      "progressId": 248,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_009",
+        "battle_cc_floor_25_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 9,
+      "progressId": 249,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_024",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_25_010",
+        "battle_cc_floor_25_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_pig_paradise",
+      "zoneStageIndex": 10,
+      "progressId": 250,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_01_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_001",
+        "battle_cc_floor_26_001_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 1,
+      "progressId": 251,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_02_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_002",
+        "battle_cc_floor_26_002_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 2,
+      "progressId": 252,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_03_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_003",
+        "battle_cc_floor_26_003_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 3,
+      "progressId": 253,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_04_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_004",
+        "battle_cc_floor_26_004_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 4,
+      "progressId": 254,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_05_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_005",
+        "battle_cc_floor_26_005_resolved"
+      ],
+      "hotspotContents": {
+        "bird_ancient_weapon_chest_all": 1
+      },
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 5,
+      "progressId": 255,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_06_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_006",
+        "battle_cc_floor_26_006_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 6,
+      "progressId": 256,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_07_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_007",
+        "battle_cc_floor_26_007_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 7,
+      "progressId": 257,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_08_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_008",
+        "battle_cc_floor_26_008_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 8,
+      "progressId": 258,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_09_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_009",
+        "battle_cc_floor_26_009_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 9,
+      "progressId": 259,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_10_dungeon_025",
+      "type": "BATTLE",
+      "battleId": [
+        "battle_cc_floor_26_010",
+        "battle_cc_floor_26_010_resolved"
+      ],
+      "zoneLocaIdent": "zone_myst_sea",
+      "zoneStageIndex": 10,
+      "progressId": 260,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_000",
+      "type": "NODE",
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_001",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_002",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_003",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_004",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_005",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_006",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_007",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_008",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_009",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_010",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_011",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_012",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_013",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_014",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_015",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_016",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_017",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_018",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_019",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_020",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_021",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_022",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_023",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_024",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_00_pathnode_025",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_000",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_001",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_002",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_003",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_004",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_005",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_006",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_007",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_008",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_009",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_010",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_011",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_012",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_013",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_014",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_015",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_016",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_017",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_018",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_019",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_020",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_021",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_022",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_023",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_024",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    },
+    {
+      "nameId": "hotspot_11_pathnode_025",
+      "type": "NODE",
+      "battleId": [
+        "battle_cc_floor_01_001"
+      ],
+      "zoneLocaIdent": "zone_cobalt_plateaus",
+      "zoneStageIndex": 1,
+      "ChronicleCaveHotspotBalancingData": {}
+    }
+  ]
+}

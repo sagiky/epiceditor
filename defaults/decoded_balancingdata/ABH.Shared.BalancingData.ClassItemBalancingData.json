@@ -1,0 +1,3300 @@
+{
+  "classItemData": [
+    {
+      "nameId": "class_knight",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Knight",
+      "locaBaseId": "bird_class_knight",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_red_knight",
+        "bird_support_red_knight"
+      ],
+      "restrictedBirdId": "bird_red",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_knight",
+            "bird_support_red_knight",
+            "bird_attack_red_knight"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_knight",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_knight",
+            "bird_support_red_knight",
+            "bird_attack_red_knight"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_red_knight",
+        "bird_support_red_knight"
+      ]
+    },
+    {
+      "nameId": "class_ronin",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Ronin",
+      "locaBaseId": "bird_class_ronin",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_red_ronin",
+        "bird_support_red_ronin"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_ronin",
+            "bird_support_red_ronin",
+            "bird_attack_red_ronin"
+          ]
+        }
+      ],
+      "replacementClassNameId": "class_knight",
+      "mastery": "mastery_ronin",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_ronin",
+            "bird_support_red_ronin",
+            "bird_attack_red_ronin"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_red_ronin",
+        "bird_support_red_ronin"
+      ]
+    },
+    {
+      "nameId": "class_guardian",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Guardian",
+      "locaBaseId": "bird_class_guardian",
+      "sortPriority": 2,
+      "skillNameIds": [
+        "bird_attack_red_guardian",
+        "bird_support_red_guardian"
+      ],
+      "restrictedBirdId": "bird_red",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_red_guardian",
+            "bird_attack_red_guardian",
+            "bird_attack_red_guardian",
+            "bird_attack_red_guardian"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_guardian",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_red_guardian",
+            "bird_attack_red_guardian",
+            "bird_attack_red_guardian",
+            "bird_attack_red_guardian"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_red_guardian",
+        "bird_support_red_guardian"
+      ]
+    },
+    {
+      "nameId": "class_samurai",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Samurai",
+      "locaBaseId": "bird_class_samurai",
+      "sortPriority": 3,
+      "skillNameIds": [
+        "bird_attack_red_samurai",
+        "bird_support_red_samurai"
+      ],
+      "restrictedBirdId": "bird_red",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_samurai"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_samurai",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_samurai"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_red_samurai",
+        "bird_support_red_samurai"
+      ]
+    },
+    {
+      "nameId": "class_avenger",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Avenger",
+      "locaBaseId": "bird_class_avenger",
+      "sortPriority": 4,
+      "skillNameIds": [
+        "bird_attack_red_avenger",
+        "bird_support_red_avenger"
+      ],
+      "restrictedBirdId": "bird_red",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_red_avenger",
+            "bird_attack_red_avenger",
+            "bird_attack_red_avenger"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_avenger",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_red_avenger",
+            "bird_attack_red_avenger",
+            "bird_attack_red_avenger"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_red_avenger",
+        "bird_support_red_avenger"
+      ]
+    },
+    {
+      "nameId": "class_paladin",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Paladin",
+      "locaBaseId": "bird_class_paladin",
+      "sortPriority": 5,
+      "skillNameIds": [
+        "bird_attack_red_paladin",
+        "bird_support_red_paladin"
+      ],
+      "restrictedBirdId": "bird_red",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_paladin"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_paladin",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_paladin"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_red_paladin",
+        "bird_support_red_paladin"
+      ],
+      "isPremium": true
+    },
+    {
+      "nameId": "class_stoneguard",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_StoneGuard",
+      "locaBaseId": "bird_class_stoneguard",
+      "sortPriority": 6,
+      "skillNameIds": [
+        "bird_attack_red_stoneguard",
+        "bird_support_red_stoneguard"
+      ],
+      "restrictedBirdId": "bird_red",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_red_stoneguard",
+            "bird_attack_red_stoneguard",
+            "bird_attack_red_stoneguard"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_stoneguard",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_red_stoneguard",
+            "bird_attack_red_stoneguard",
+            "bird_attack_red_stoneguard"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_red_stoneguard",
+        "bird_support_red_stoneguard"
+      ],
+      "isPremium": true,
+      "availableAt": 1428264000
+    },
+    {
+      "nameId": "class_mage",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Mage",
+      "locaBaseId": "bird_class_mage",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_yellow_mage",
+        "bird_support_yellow_mage"
+      ],
+      "restrictedBirdId": "bird_yellow",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_yellow_mage"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "tauntingAlly",
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_mage",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_yellow_mage"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_yellow_mage",
+        "bird_support_yellow_mage"
+      ]
+    },
+    {
+      "nameId": "class_nerd",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ArchMage",
+      "locaBaseId": "bird_class_nerd",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_yellow_nerd",
+        "bird_support_yellow_nerd"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_yellow_nerd"
+          ]
+        }
+      ],
+      "replacementClassNameId": "class_mage",
+      "interruptConditionCombos": [
+        "tauntingAlly",
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_nerd",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_yellow_nerd"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_yellow_nerd",
+        "bird_support_yellow_nerd"
+      ]
+    },
+    {
+      "nameId": "class_lightningbird",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_LightningBird",
+      "locaBaseId": "bird_class_lightningbird",
+      "sortPriority": 2,
+      "skillNameIds": [
+        "bird_attack_yellow_lightningbird",
+        "bird_support_yellow_lightningbird"
+      ],
+      "restrictedBirdId": "bird_yellow",
+      "skillCombos": [
+        {
+          "percentage": 65.0,
+          "comboChain": [
+            "bird_attack_yellow_lightningbird"
+          ]
+        },
+        {
+          "percentage": 35.0,
+          "comboChain": [
+            "bird_support_yellow_lightningbird"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_lightningbird",
+      "pvpSkillCombos": [
+        {
+          "percentage": 65.0,
+          "comboChain": [
+            "bird_attack_yellow_lightningbird"
+          ]
+        },
+        {
+          "percentage": 35.0,
+          "comboChain": [
+            "bird_support_yellow_lightningbird"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_yellow_lightningbird",
+        "bird_support_yellow_lightningbird"
+      ]
+    },
+    {
+      "nameId": "class_wizard",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Wizard",
+      "locaBaseId": "bird_class_wizard",
+      "sortPriority": 4,
+      "skillNameIds": [
+        "bird_attack_yellow_wizard",
+        "bird_support_yellow_wizard"
+      ],
+      "restrictedBirdId": "bird_yellow",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_yellow_wizard"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "tauntingAlly",
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_wizard",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_yellow_wizard"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_yellow_wizard",
+        "bird_support_yellow_wizard"
+      ]
+    },
+    {
+      "nameId": "class_rainbird",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Rainbird",
+      "locaBaseId": "bird_class_rainbird",
+      "sortPriority": 3,
+      "skillNameIds": [
+        "bird_attack_yellow_rainbird",
+        "bird_support_yellow_rainbird"
+      ],
+      "restrictedBirdId": "bird_yellow",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_yellow_rainbird",
+            "bird_support_yellow_rainbird",
+            "bird_support_yellow_rainbird",
+            "bird_support_yellow_rainbird"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_rainbird",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_yellow_rainbird",
+            "bird_support_yellow_rainbird",
+            "bird_support_yellow_rainbird",
+            "bird_support_yellow_rainbird"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_yellow_rainbird",
+        "bird_support_yellow_rainbird"
+      ]
+    },
+    {
+      "nameId": "class_thunderbird",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Thunderbird",
+      "locaBaseId": "bird_class_thunderbird",
+      "sortPriority": 5,
+      "skillNameIds": [
+        "bird_attack_yellow_thunderbird",
+        "bird_support_yellow_thunderbird"
+      ],
+      "restrictedBirdId": "bird_yellow",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_yellow_thunderbird",
+            "bird_attack_yellow_thunderbird",
+            "bird_attack_yellow_thunderbird",
+            "bird_attack_yellow_thunderbird"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_thunderbird",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_yellow_thunderbird",
+            "bird_attack_yellow_thunderbird",
+            "bird_attack_yellow_thunderbird",
+            "bird_attack_yellow_thunderbird"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_yellow_thunderbird",
+        "bird_support_yellow_thunderbird"
+      ],
+      "isPremium": true
+    },
+    {
+      "nameId": "class_illusionist",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Illusionist",
+      "locaBaseId": "bird_class_illusionist",
+      "sortPriority": 6,
+      "skillNameIds": [
+        "bird_attack_yellow_illusionist",
+        "bird_support_yellow_illusionist"
+      ],
+      "restrictedBirdId": "bird_yellow",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_yellow_illusionist",
+            "bird_attack_yellow_illusionist",
+            "bird_attack_yellow_illusionist",
+            "bird_attack_yellow_illusionist"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_illusionist",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_yellow_illusionist",
+            "bird_attack_yellow_illusionist",
+            "bird_attack_yellow_illusionist",
+            "bird_attack_yellow_illusionist"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_yellow_illusionist",
+        "bird_support_yellow_illusionist"
+      ],
+      "isPremium": true,
+      "availableAt": 1442174400,
+      "teasedAt": 1442174400
+    },
+    {
+      "nameId": "class_cleric",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Cleric",
+      "locaBaseId": "bird_class_cleric",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_white_cleric",
+        "bird_support_white_cleric"
+      ],
+      "restrictedBirdId": "bird_white",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_white_cleric",
+            "bird_attack_white_cleric",
+            "bird_attack_white_cleric",
+            "bird_attack_white_cleric"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_cleric",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_white_cleric",
+            "bird_attack_white_cleric",
+            "bird_attack_white_cleric",
+            "bird_attack_white_cleric"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_white_cleric",
+        "bird_support_white_cleric"
+      ]
+    },
+    {
+      "nameId": "class_moonpriest",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_MoonPriest",
+      "locaBaseId": "bird_class_moonpriest",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_white_moonpriest",
+        "bird_support_white_moonpriest"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_white_moonpriest",
+            "bird_attack_white_moonpriest",
+            "bird_attack_white_moonpriest",
+            "bird_attack_white_moonpriest"
+          ]
+        }
+      ],
+      "replacementClassNameId": "class_cleric",
+      "mastery": "mastery_moonpriest",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_white_moonpriest",
+            "bird_attack_white_moonpriest",
+            "bird_attack_white_moonpriest",
+            "bird_attack_white_moonpriest"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_white_moonpriest",
+        "bird_support_white_moonpriest"
+      ]
+    },
+    {
+      "nameId": "class_druid",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Druid",
+      "locaBaseId": "bird_class_druid",
+      "sortPriority": 2,
+      "skillNameIds": [
+        "bird_attack_white_druid",
+        "bird_support_white_druid"
+      ],
+      "restrictedBirdId": "bird_white",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_white_druid"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "woundedAlly"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_druid",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_white_druid"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_white_druid",
+        "bird_support_white_druid"
+      ]
+    },
+    {
+      "nameId": "class_princess",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Princess",
+      "locaBaseId": "bird_class_princess",
+      "sortPriority": 3,
+      "skillNameIds": [
+        "bird_attack_white_princess",
+        "bird_support_white_princess"
+      ],
+      "restrictedBirdId": "bird_white",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_white_princess"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "woundedAlly"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_princess",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_white_princess"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_white_princess",
+        "bird_support_white_princess"
+      ]
+    },
+    {
+      "nameId": "class_bard",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Bard",
+      "locaBaseId": "bird_class_bard",
+      "sortPriority": 5,
+      "skillNameIds": [
+        "bird_attack_white_bard",
+        "bird_support_white_bard"
+      ],
+      "restrictedBirdId": "bird_white",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_white_bard",
+            "bird_support_white_bard",
+            "bird_attack_white_bard",
+            "bird_attack_white_bard"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_bard",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_white_bard",
+            "bird_support_white_bard",
+            "bird_attack_white_bard",
+            "bird_attack_white_bard"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_white_bard",
+        "bird_support_white_bard"
+      ],
+      "isPremium": true
+    },
+    {
+      "nameId": "class_priest",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Priest",
+      "locaBaseId": "bird_class_priest",
+      "sortPriority": 4,
+      "skillNameIds": [
+        "bird_attack_white_priest",
+        "bird_support_white_priest"
+      ],
+      "restrictedBirdId": "bird_white",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_white_priest",
+            "bird_attack_white_priest",
+            "bird_attack_white_priest",
+            "bird_attack_white_priest"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_priest",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_white_priest",
+            "bird_attack_white_priest",
+            "bird_attack_white_priest",
+            "bird_attack_white_priest"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_white_priest",
+        "bird_support_white_priest"
+      ]
+    },
+    {
+      "nameId": "class_witch",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Witch",
+      "locaBaseId": "bird_class_witch",
+      "sortPriority": 6,
+      "skillNameIds": [
+        "bird_attack_white_witch",
+        "bird_support_white_witch"
+      ],
+      "restrictedBirdId": "bird_white",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_white_witch",
+            "bird_attack_white_witch",
+            "bird_attack_white_witch",
+            "bird_attack_white_witch"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_witch",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_white_witch",
+            "bird_attack_white_witch",
+            "bird_attack_white_witch",
+            "bird_attack_white_witch"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_white_witch",
+        "bird_support_white_witch"
+      ],
+      "isPremium": true
+    },
+    {
+      "nameId": "class_pirate",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Pirate",
+      "locaBaseId": "bird_class_pirate",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_black_pirate",
+        "bird_support_black_pirate"
+      ],
+      "restrictedBirdId": "bird_black",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_pirate",
+            "bird_attack_black_pirate",
+            "bird_attack_black_pirate",
+            "bird_attack_black_pirate"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_pirate",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_pirate",
+            "bird_attack_black_pirate",
+            "bird_attack_black_pirate",
+            "bird_attack_black_pirate"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_black_pirate",
+        "bird_support_black_pirate"
+      ]
+    },
+    {
+      "nameId": "class_corsair",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Corsair",
+      "locaBaseId": "bird_class_corsair",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_black_corsair",
+        "bird_support_black_corsair"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_corsair",
+            "bird_attack_black_corsair",
+            "bird_attack_black_corsair",
+            "bird_attack_black_corsair"
+          ]
+        }
+      ],
+      "replacementClassNameId": "class_pirate",
+      "mastery": "mastery_corsair",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_corsair",
+            "bird_attack_black_corsair",
+            "bird_attack_black_corsair",
+            "bird_attack_black_corsair"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_black_corsair",
+        "bird_support_black_corsair"
+      ]
+    },
+    {
+      "nameId": "class_cannoneer",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Cannoneer",
+      "locaBaseId": "bird_class_cannoneer",
+      "sortPriority": 2,
+      "skillNameIds": [
+        "bird_attack_black_cannoneer",
+        "bird_support_black_cannoneer"
+      ],
+      "restrictedBirdId": "bird_black",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_black_cannoneer"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "tauntingAlly",
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_cannoneer",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_black_cannoneer"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_black_cannoneer",
+        "bird_support_black_cannoneer"
+      ]
+    },
+    {
+      "nameId": "class_berserk",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Berserk",
+      "locaBaseId": "bird_class_berserk",
+      "sortPriority": 3,
+      "skillNameIds": [
+        "bird_attack_black_berserk",
+        "bird_support_black_berserk"
+      ],
+      "restrictedBirdId": "bird_black",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_black_berserk"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "min3Enemies"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_berserk",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_black_berserk"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_black_berserk",
+        "bird_support_black_berserk_pvp"
+      ]
+    },
+    {
+      "nameId": "class_captn",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Captain",
+      "locaBaseId": "bird_class_captn",
+      "sortPriority": 4,
+      "skillNameIds": [
+        "bird_attack_black_captn",
+        "bird_support_black_captn"
+      ],
+      "restrictedBirdId": "bird_black",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_captn",
+            "bird_attack_black_captn",
+            "bird_attack_black_captn",
+            "bird_attack_black_captn"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_captn",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_captn",
+            "bird_attack_black_captn",
+            "bird_attack_black_captn",
+            "bird_attack_black_captn"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_black_captn",
+        "bird_support_black_captn"
+      ]
+    },
+    {
+      "nameId": "class_seadog",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SeaDog",
+      "locaBaseId": "bird_class_seadog",
+      "sortPriority": 5,
+      "skillNameIds": [
+        "bird_attack_black_seadog",
+        "bird_support_black_seadog"
+      ],
+      "restrictedBirdId": "bird_black",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_seadog",
+            "bird_attack_black_seadog",
+            "bird_attack_black_seadog"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_seadog",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_seadog",
+            "bird_attack_black_seadog",
+            "bird_attack_black_seadog"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_black_seadog",
+        "bird_support_black_seadog"
+      ],
+      "isPremium": true
+    },
+    {
+      "nameId": "class_winterfighter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_WinterWarrior",
+      "locaBaseId": "bird_class_winterfighter",
+      "sortPriority": 6,
+      "skillNameIds": [
+        "bird_attack_black_winterfighter",
+        "bird_support_black_winterfighter"
+      ],
+      "restrictedBirdId": "bird_black",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_winterfighter",
+            "bird_attack_black_winterfighter",
+            "bird_attack_black_winterfighter",
+            "bird_attack_black_winterfighter"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_winterfighter",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_black_winterfighter",
+            "bird_attack_black_winterfighter",
+            "bird_attack_black_winterfighter",
+            "bird_attack_black_winterfighter"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_black_winterfighter",
+        "bird_support_black_winterfighter"
+      ],
+      "isPremium": true
+    },
+    {
+      "nameId": "class_tricksters",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Trickster",
+      "locaBaseId": "bird_class_tricksters",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_blues_tricksters",
+        "bird_support_blues_tricksters"
+      ],
+      "restrictedBirdId": "bird_blue",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_blues_tricksters",
+            "bird_attack_blues_tricksters",
+            "bird_attack_blues_tricksters",
+            "bird_attack_blues_tricksters"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "min3Debuffs"
+      ],
+      "interruptAction": "RESET_CHAIN",
+      "mastery": "mastery_tricksters",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_blues_tricksters",
+            "bird_attack_blues_tricksters",
+            "bird_attack_blues_tricksters",
+            "bird_attack_blues_tricksters"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_blues_tricksters",
+        "bird_support_blues_tricksters"
+      ]
+    },
+    {
+      "nameId": "class_rogues",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Rogue",
+      "locaBaseId": "bird_class_rogues",
+      "sortPriority": 2,
+      "skillNameIds": [
+        "bird_attack_blues_rogues",
+        "bird_support_blues_rogues"
+      ],
+      "restrictedBirdId": "bird_blue",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_blues_rogues",
+            "bird_support_blues_rogues",
+            "bird_attack_blues_rogues"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_rogues",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_blues_rogues",
+            "bird_support_blues_rogues",
+            "bird_attack_blues_rogues"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_blues_rogues",
+        "bird_support_blues_rogues"
+      ]
+    },
+    {
+      "nameId": "class_skulkers",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Skulker",
+      "locaBaseId": "bird_class_skulkers",
+      "sortPriority": 5,
+      "skillNameIds": [
+        "bird_attack_blues_skulkers",
+        "bird_support_blues_skulkers"
+      ],
+      "restrictedBirdId": "bird_blue",
+      "skillCombos": [
+        {
+          "percentage": 60.0,
+          "comboChain": [
+            "bird_attack_blues_skulkers"
+          ]
+        },
+        {
+          "percentage": 40.0,
+          "comboChain": [
+            "bird_support_blues_skulkers"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_skulkers",
+      "pvpSkillCombos": [
+        {
+          "percentage": 60.0,
+          "comboChain": [
+            "bird_attack_blues_skulkers"
+          ]
+        },
+        {
+          "percentage": 40.0,
+          "comboChain": [
+            "bird_support_blues_skulkers"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_blues_skulkers",
+        "bird_support_blues_skulkers"
+      ],
+      "isPremium": true
+    },
+    {
+      "nameId": "class_spies",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Spy",
+      "locaBaseId": "bird_class_spies",
+      "sortPriority": 4,
+      "skillNameIds": [
+        "bird_attack_blues_spies",
+        "bird_support_blues_spies"
+      ],
+      "restrictedBirdId": "bird_blue",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_blues_spies",
+            "bird_attack_blues_spies",
+            "bird_support_blues_spies",
+            "bird_attack_blues_spies"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_spies",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_blues_spies",
+            "bird_attack_blues_spies",
+            "bird_support_blues_spies",
+            "bird_attack_blues_spies"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_blues_spies",
+        "bird_support_blues_spies"
+      ]
+    },
+    {
+      "nameId": "class_marksmen",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Marksman",
+      "locaBaseId": "bird_class_marksmen",
+      "sortPriority": 3,
+      "skillNameIds": [
+        "bird_attack_blues_marksmen",
+        "bird_support_blues_marksmen"
+      ],
+      "restrictedBirdId": "bird_blue",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_blues_marksmen"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "tauntingAlly",
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_marksmen",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_blues_marksmen"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_blues_marksmen",
+        "bird_support_blues_marksmen"
+      ]
+    },
+    {
+      "nameId": "class_treasurehunters",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_TreasureHunters",
+      "locaBaseId": "bird_class_treasurehunters",
+      "sortPriority": 6,
+      "skillNameIds": [
+        "bird_attack_blues_explorers",
+        "bird_support_blues_explorers"
+      ],
+      "restrictedBirdId": "bird_blue",
+      "skillCombos": [
+        {
+          "percentage": 65.0,
+          "comboChain": [
+            "bird_attack_blues_explorers"
+          ]
+        },
+        {
+          "percentage": 35.0,
+          "comboChain": [
+            "bird_support_blues_explorers"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_treasurehunters",
+      "pvpSkillCombos": [
+        {
+          "percentage": 65.0,
+          "comboChain": [
+            "bird_attack_blues_explorers"
+          ]
+        },
+        {
+          "percentage": 35.0,
+          "comboChain": [
+            "bird_support_blues_explorers"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_blues_explorers",
+        "bird_support_blues_explorers"
+      ],
+      "isPremium": true
+    },
+    {
+      "nameId": "class_mighty_eagle",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "bird_class_samurai",
+      "sortPriority": 3,
+      "skillNameIds": [
+        "bird_attack_red_samurai",
+        "bird_support_red_samurai"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_samurai"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "interruptConditionCombos": [
+        "chargeAttack"
+      ],
+      "interruptAction": "SUPPORT",
+      "mastery": "mastery_mighty_eagle",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_red_samurai"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_red_samurai",
+        "bird_support_red_samurai"
+      ]
+    },
+    {
+      "nameId": "headgear_bird_prince_porky",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "class_prince_porky",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_prince_porky",
+        "bird_support_prince_porky"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 75.0,
+          "comboChain": [
+            "bird_attack_prince_porky"
+          ]
+        },
+        {
+          "percentage": 25.0,
+          "comboChain": [
+            "bird_support_prince_porky"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_headgear_bird_prince_porky",
+      "pvpSkillCombos": [
+        {
+          "percentage": 75.0,
+          "comboChain": [
+            "bird_attack_prince_porky"
+          ]
+        },
+        {
+          "percentage": 25.0,
+          "comboChain": [
+            "bird_support_prince_porky"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_prince_porky",
+        "bird_support_prince_porky"
+      ]
+    },
+    {
+      "nameId": "headgear_bird_merchant",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_MerchantPig",
+      "locaBaseId": "class_merchant",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_minion_merchant",
+        "bird_support_minion_merchant"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_minion_merchant"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_headgear_bird_merchant",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_attack_minion_merchant"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_minion_merchant",
+        "bird_support_minion_merchant"
+      ]
+    },
+    {
+      "nameId": "headgear_bird_adventurer",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Adventurer",
+      "locaBaseId": "class_bird_adventurer",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_pirate_adventurer",
+        "bird_support_pirate_adventurer"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 75.0,
+          "comboChain": [
+            "bird_attack_pirate_adventurer"
+          ]
+        },
+        {
+          "percentage": 25.0,
+          "comboChain": [
+            "bird_support_pirate_adventurer"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_headgear_bird_adventurer",
+      "pvpSkillCombos": [
+        {
+          "percentage": 75.0,
+          "comboChain": [
+            "bird_attack_pirate_adventurer"
+          ]
+        },
+        {
+          "percentage": 25.0,
+          "comboChain": [
+            "bird_support_pirate_adventurer"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_pirate_adventurer",
+        "bird_support_pirate_adventurer"
+      ]
+    },
+    {
+      "nameId": "headgear_prince_porky",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_prince_porky_lovestruck",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Lovestruck",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_valkyrie",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Valkyrie",
+      "locaBaseId": "bird_valkyrie",
+      "sortPriority": 1,
+      "skillNameIds": [
+        "bird_attack_valkyrie_01",
+        "bird_support_valkyrie_01"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 75.0,
+          "comboChain": [
+            "bird_support_valkyrie_01",
+            "bird_attack_valkyrie_01",
+            "bird_attack_valkyrie_01"
+          ]
+        },
+        {
+          "percentage": 25.0,
+          "comboChain": [
+            "bird_attack_valkyrie_01"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_headgear_valkyrie",
+      "pvpSkillCombos": [
+        {
+          "percentage": 75.0,
+          "comboChain": [
+            "bird_support_valkyrie_01",
+            "bird_attack_valkyrie_01",
+            "bird_attack_valkyrie_01"
+          ]
+        },
+        {
+          "percentage": 25.0,
+          "comboChain": [
+            "bird_attack_valkyrie_01"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_valkyrie_01",
+        "bird_support_valkyrie_01"
+      ]
+    },
+    {
+      "nameId": "class_sonic",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "bird_sonic",
+      "sortPriority": 6,
+      "skillNameIds": [
+        "bird_attack_sonic",
+        "bird_support_sonic"
+      ],
+      "restrictedBirdId": "",
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_sonic",
+            "bird_attack_sonic",
+            "bird_attack_sonic",
+            "bird_attack_sonic"
+          ]
+        }
+      ],
+      "replacementClassNameId": "",
+      "mastery": "mastery_sonic",
+      "pvpSkillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "bird_support_sonic",
+            "bird_attack_sonic",
+            "bird_attack_sonic",
+            "bird_attack_sonic"
+          ]
+        }
+      ],
+      "pvpSkillNameIds": [
+        "bird_attack_sonic",
+        "bird_support_sonic"
+      ]
+    },
+    {
+      "nameId": "headgear_rogue",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Rogue",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bird_catcher",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BirdCatcher",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_guard",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_PigGuard",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_squire",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Squire",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_cupid_cute",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_CuteCupid",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_cupid_dark",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DarkCupid",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_cupido",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Cupido",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_apprentice",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Apprentice",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_eggpainter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_EggPainter",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_flowerpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_FlowerPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_egg_red",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_RedEgg",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_egg_yellow",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_YellowEgg",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_egg_white",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_WhiteEgg",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_egg_black",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BlackEgg",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_egg_blue",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BlueEgg",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_camerapig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_CameraPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_soundpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SoundPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_bestboy",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BestBoy",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_makeup",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_MakeUpArtist",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_slatepig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SlatePig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_securitypig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SecurityPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_reporterpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ReporterPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_sportsman_a",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SportsmanA",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_sportsman_b",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SportsmanB",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_sportsman_c",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SportsmanC",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_sportsman_d",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SportsmanD",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_sportsman_e",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SportsmanE",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_lederhosen_visitor_a",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_LederhosenVisitorA",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_lederhosen_visitor_b",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_LederhosenVisitorB",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_dirndl_visitor_a",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DirndlVisitorA",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_dirndl_visitor_b",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DirndlVisitorB",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_dirndl_visitor_c",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DirndlVisitorC",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_corporal",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Corporal",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_turban",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_TurbanPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_rogueboss",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_RogueBoss",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_snowpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SnowPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_elf",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Elf",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_pumpkin",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_PumpkinPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_guardcaptain",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_GuardCaptain",
+      "locaBaseId": "class_chevalier",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_protector",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Protector",
+      "locaBaseId": "class_chevalier",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_knight_roseknight",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_RoseKnight",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_knight_ice",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_IceChevallier",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_knight_dark",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DarkKnight",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_knight_shogun",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Shogun",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_knight_royal_guard",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_RoyalGuard",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_knight_cactus",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_CactusKnight",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_knight_tin",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_TinKnight",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_pyropig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_PyroPig",
+      "locaBaseId": "class_pyropig",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_frostpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Frostpig",
+      "locaBaseId": "class_pyropig",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_lightningpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_LightningPig",
+      "locaBaseId": "class_pyropig",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_necromancer",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Necromancer",
+      "locaBaseId": "class_pyropig",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_naturepig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_NaturePig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_clown_a",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ClownA",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_clown_b",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ClownB",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_rooster",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Rooster",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pirate",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Pirate",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pirate_airpirate",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_AirPirate",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pirate_adventurer",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Adventurer",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pirate_captain",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_PirateCaptain",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pirate_captain_redbeard",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_CaptainRedBeard",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_captainredbeard",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_CaptainRedBeard",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_bunny",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Bunny",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_brawler",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Brawler",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_pirate",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BigPirate",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_frankenpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Frankenpig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_frosthog",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_FrostHog",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_proppig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_PropPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_cutter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Cutter",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_brass",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BrassBrute",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bigboss",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BigBoss",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_chieftain",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Chieftain",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_foreman",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Foreman",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_mandarin",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Mandarin",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pilotpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_PilotPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_moustache_pastrychef",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Chocolatier",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_moustache_director",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Director",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_moustache_tinker",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Tinker",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_moustache_antler",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Antler",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_moustache_trainer",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Trainer",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_moustache_maestro",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Maestro",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_santa",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SantaPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_caster_referee",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Referee",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_knight_windup_knight",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_WindupKnight",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_zombie_knight",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ZombieKnight",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_zombie_berserk",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ZombieBerserker",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_zombie_stinky",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_StinkyZombie",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_zombie_mummy",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Mummy",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_ghost_willowhisp",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Willowhisp",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_ghost_banshee",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Banshee",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_ghost_poltergeist",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Poltergeist",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_ghost_shipkobold",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ShipsKobold",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_forest",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ForestPigmies",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_shooters",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_PigmyShooters",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_frost",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_FrostPigmies",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_templar",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_TemplePigmies",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_spectators_a",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SpectatorsA",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_spectators_b",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SpectatorsB",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_spectators_c",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SpectatorsC",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_spectators_d",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SpectatorsD",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_ninja_bowman",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_NinjaBowman",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_ninja_red",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_RedNinja",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_ninja_master",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_MasterNinja",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_shaman_ice",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Iceshaman",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_shaman_witchdoctor",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_WitchDoctor",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_wiz_pig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_wiz_pig_easter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_EasterWizPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_wiz_pig_ringmaster",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Ringmaster",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_red_avenger",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Avenger",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_red_ronin",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Ronin",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_yellow_nerd",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ArchMage",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_white_moonpriest",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_MoonPriest",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_black_corsair",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Corsair",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_blue_treasurehunters",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_TreasureHunters",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_king_pig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_dud",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DudBomb",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_royal",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_RoyalBomb",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_heal",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_AidBomb",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_snow",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SnowBomb",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_easter_damage",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_EggBomb",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_easter_heal",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_HealingEgg",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_spoiler",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_SpoilerBomb",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_volleyball",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_VolleyBomb",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_google",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Google",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_tyrra",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Tyrra",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_lilgreendragon",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_LilGreenDragon",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_baddie",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Baddie",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bubblie",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Bubblie",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_draggie",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Draggie",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_draggieknight",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DraggieKnight",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_dragonseed",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DragonSeed",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_woodsie",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Woodsie",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_greatwoodsie",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_GreatWoodsie",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_earthdragon",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_EarthDragon",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_falconhorus",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_FalconHorus",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_firedragon",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_FireDragon",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_shynee",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Shynee",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_tamadra",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Tamadra",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_redhunter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_RedHunter",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_yellowhunter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_YellowHunter",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_whitehunter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_WhiteHunter",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_blackhunter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BlackHunter",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bluehunter",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BlueHunter",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_doomdrone",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DoomDrone",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_projectordrone",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ProjectorDrone",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_lancer",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Lancer",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_lanternpig",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_LanternPig",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_minion_pyrobolist",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Pyrobolist",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_bomb_firecrackers",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Firecrackers",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_pigmies_dragonplayer",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DragonPlayer",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_brute_battering",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BatteringBrute",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_motobug",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_MotoBug",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_motobug_golden",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_GoldenMotoBug",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_eggpawn",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_EggPawn",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_eggpawn_giant",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_GiantEggPawn",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_spikes",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Spikes",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_spikes_big",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BigSpikes",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_electrospinner",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ElectroSpinner",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_shieldspinner",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_ShieldSpinner",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_crabmeat_tiny",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_TinyCrabmeat",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_crabmeat",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Crabmeat",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_bomb",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BombCrate",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_chopper",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_Chopper",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_chopper_blue",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BlueChopper",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_buzzbomber",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_BigBadBuzzBomber",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    },
+    {
+      "nameId": "headgear_sonic_eggman",
+      "itemType": "INVENTORY_ITEM_TYPE_CLASS",
+      "assetBaseId": "Headgear_DrEggman",
+      "locaBaseId": "class_mage",
+      "sortPriority": 1,
+      "restrictedBirdId": "",
+      "replacementClassNameId": "",
+      "mastery": ""
+    }
+  ]
+}

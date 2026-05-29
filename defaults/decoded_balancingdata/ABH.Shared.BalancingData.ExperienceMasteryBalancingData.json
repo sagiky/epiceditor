@@ -1,0 +1,530 @@
+{
+  "experienceMasteryData": [
+    {
+      "nameId": "Level_01",
+      "experience": 14,
+      "oldExperience": 25,
+      "ancientExperience": 25
+    },
+    {
+      "nameId": "Level_02",
+      "experience": 28,
+      "oldExperience": 5730,
+      "ancientExperience": 1200,
+      "statBonus": 2
+    },
+    {
+      "nameId": "Level_03",
+      "experience": 48,
+      "oldExperience": 8595,
+      "ancientExperience": 2500,
+      "statBonus": 4
+    },
+    {
+      "nameId": "Level_04",
+      "experience": 66,
+      "oldExperience": 11460,
+      "ancientExperience": 6100,
+      "statBonus": 6
+    },
+    {
+      "nameId": "Level_05",
+      "experience": 80,
+      "oldExperience": 14325,
+      "ancientExperience": 10000,
+      "statBonus": 8
+    },
+    {
+      "nameId": "Level_06",
+      "experience": 84,
+      "oldExperience": 17190,
+      "ancientExperience": 15000,
+      "statBonus": 10
+    },
+    {
+      "nameId": "Level_07",
+      "experience": 90,
+      "oldExperience": 20055,
+      "ancientExperience": 20000,
+      "statBonus": 12
+    },
+    {
+      "nameId": "Level_08",
+      "experience": 97,
+      "oldExperience": 22920,
+      "ancientExperience": 32000,
+      "statBonus": 14
+    },
+    {
+      "nameId": "Level_09",
+      "experience": 105,
+      "oldExperience": 25785,
+      "ancientExperience": 50000,
+      "statBonus": 16
+    },
+    {
+      "nameId": "Level_10",
+      "experience": 139,
+      "oldExperience": 28650,
+      "ancientExperience": 50000,
+      "statBonus": 18
+    },
+    {
+      "nameId": "Level_11",
+      "experience": 177,
+      "oldExperience": 31515,
+      "ancientExperience": 50000,
+      "statBonus": 20
+    },
+    {
+      "nameId": "Level_12",
+      "experience": 219,
+      "oldExperience": 34380,
+      "ancientExperience": 32500,
+      "statBonus": 22
+    },
+    {
+      "nameId": "Level_13",
+      "experience": 267,
+      "oldExperience": 37445,
+      "ancientExperience": 37500,
+      "statBonus": 24
+    },
+    {
+      "nameId": "Level_14",
+      "experience": 319,
+      "oldExperience": 42750,
+      "ancientExperience": 50000,
+      "statBonus": 26
+    },
+    {
+      "nameId": "Level_15",
+      "experience": 374,
+      "statBonus": 28
+    },
+    {
+      "nameId": "Level_16",
+      "experience": 437,
+      "statBonus": 30
+    },
+    {
+      "nameId": "Level_17",
+      "experience": 499,
+      "statBonus": 32
+    },
+    {
+      "nameId": "Level_18",
+      "experience": 569,
+      "statBonus": 34
+    },
+    {
+      "nameId": "Level_19",
+      "experience": 638,
+      "statBonus": 36
+    },
+    {
+      "nameId": "Level_20",
+      "experience": 714,
+      "statBonus": 38
+    },
+    {
+      "nameId": "Level_21",
+      "experience": 794,
+      "statBonus": 40
+    },
+    {
+      "nameId": "Level_22",
+      "experience": 873,
+      "statBonus": 42
+    },
+    {
+      "nameId": "Level_23",
+      "experience": 960,
+      "statBonus": 44
+    },
+    {
+      "nameId": "Level_24",
+      "experience": 1046,
+      "statBonus": 46
+    },
+    {
+      "nameId": "Level_25",
+      "experience": 1136,
+      "statBonus": 48
+    },
+    {
+      "nameId": "Level_26",
+      "experience": 1233,
+      "statBonus": 50
+    },
+    {
+      "nameId": "Level_27",
+      "experience": 1328,
+      "statBonus": 52
+    },
+    {
+      "nameId": "Level_28",
+      "experience": 1428,
+      "statBonus": 54
+    },
+    {
+      "nameId": "Level_29",
+      "experience": 1529,
+      "statBonus": 56
+    },
+    {
+      "nameId": "Level_30",
+      "experience": 1632,
+      "statBonus": 58
+    },
+    {
+      "nameId": "Level_31",
+      "experience": 1739,
+      "statBonus": 60
+    },
+    {
+      "nameId": "Level_32",
+      "experience": 1850,
+      "statBonus": 62
+    },
+    {
+      "nameId": "Level_33",
+      "experience": 1958,
+      "statBonus": 64
+    },
+    {
+      "nameId": "Level_34",
+      "experience": 2072,
+      "statBonus": 66
+    },
+    {
+      "nameId": "Level_35",
+      "experience": 2187,
+      "statBonus": 68
+    },
+    {
+      "nameId": "Level_36",
+      "experience": 2305,
+      "statBonus": 70
+    },
+    {
+      "nameId": "Level_37",
+      "experience": 2422,
+      "statBonus": 72
+    },
+    {
+      "nameId": "Level_38",
+      "experience": 2540,
+      "statBonus": 74
+    },
+    {
+      "nameId": "Level_39",
+      "experience": 2661,
+      "statBonus": 76
+    },
+    {
+      "nameId": "Level_40",
+      "experience": 2783,
+      "statBonus": 78
+    },
+    {
+      "nameId": "Level_41",
+      "experience": 2904,
+      "statBonus": 80
+    },
+    {
+      "nameId": "Level_42",
+      "experience": 3028,
+      "statBonus": 82
+    },
+    {
+      "nameId": "Level_43",
+      "experience": 3154,
+      "statBonus": 84
+    },
+    {
+      "nameId": "Level_44",
+      "experience": 3281,
+      "statBonus": 86
+    },
+    {
+      "nameId": "Level_45",
+      "experience": 3407,
+      "statBonus": 88
+    },
+    {
+      "nameId": "Level_46",
+      "experience": 3534,
+      "statBonus": 90
+    },
+    {
+      "nameId": "Level_47",
+      "experience": 3663,
+      "statBonus": 92
+    },
+    {
+      "nameId": "Level_48",
+      "experience": 3787,
+      "statBonus": 94
+    },
+    {
+      "nameId": "Level_49",
+      "experience": 3916,
+      "statBonus": 96
+    },
+    {
+      "nameId": "Level_50",
+      "experience": 4044,
+      "statBonus": 98
+    },
+    {
+      "nameId": "Level_51",
+      "experience": 4172,
+      "statBonus": 100
+    },
+    {
+      "nameId": "Level_52",
+      "experience": 4301,
+      "statBonus": 102
+    },
+    {
+      "nameId": "Level_53",
+      "experience": 4429,
+      "statBonus": 104
+    },
+    {
+      "nameId": "Level_54",
+      "experience": 4557,
+      "statBonus": 106
+    },
+    {
+      "nameId": "Level_55",
+      "experience": 4685,
+      "statBonus": 108
+    },
+    {
+      "nameId": "Level_56",
+      "experience": 4809,
+      "statBonus": 110
+    },
+    {
+      "nameId": "Level_57",
+      "experience": 4938,
+      "statBonus": 112
+    },
+    {
+      "nameId": "Level_58",
+      "experience": 5063,
+      "statBonus": 114
+    },
+    {
+      "nameId": "Level_59",
+      "experience": 5188,
+      "statBonus": 116
+    },
+    {
+      "nameId": "Level_60",
+      "experience": 5309,
+      "statBonus": 118
+    },
+    {
+      "nameId": "Level_61",
+      "experience": 5430,
+      "statBonus": 120
+    },
+    {
+      "nameId": "Level_62",
+      "experience": 5551,
+      "statBonus": 122
+    },
+    {
+      "nameId": "Level_63",
+      "experience": 5673,
+      "statBonus": 124
+    },
+    {
+      "nameId": "Level_64",
+      "experience": 5790,
+      "statBonus": 126
+    },
+    {
+      "nameId": "Level_65",
+      "experience": 5905,
+      "statBonus": 128
+    },
+    {
+      "nameId": "Level_66",
+      "experience": 6023,
+      "statBonus": 130
+    },
+    {
+      "nameId": "Level_67",
+      "experience": 6134,
+      "statBonus": 132
+    },
+    {
+      "nameId": "Level_68",
+      "experience": 6244,
+      "statBonus": 134
+    },
+    {
+      "nameId": "Level_69",
+      "experience": 6355,
+      "statBonus": 136
+    },
+    {
+      "nameId": "Level_70",
+      "experience": 6459,
+      "statBonus": 138
+    },
+    {
+      "nameId": "Level_71",
+      "experience": 6563,
+      "statBonus": 140
+    },
+    {
+      "nameId": "Level_72",
+      "experience": 6667,
+      "statBonus": 142
+    },
+    {
+      "nameId": "Level_73",
+      "experience": 6767,
+      "statBonus": 144
+    },
+    {
+      "nameId": "Level_74",
+      "experience": 6865,
+      "statBonus": 146
+    },
+    {
+      "nameId": "Level_75",
+      "experience": 6958,
+      "statBonus": 148
+    },
+    {
+      "nameId": "Level_76",
+      "experience": 7048,
+      "statBonus": 150
+    },
+    {
+      "nameId": "Level_77",
+      "experience": 7138,
+      "statBonus": 152
+    },
+    {
+      "nameId": "Level_78",
+      "experience": 7222,
+      "statBonus": 154
+    },
+    {
+      "nameId": "Level_79",
+      "experience": 7304,
+      "statBonus": 156
+    },
+    {
+      "nameId": "Level_80",
+      "experience": 7384,
+      "statBonus": 158
+    },
+    {
+      "nameId": "Level_81",
+      "experience": 9689,
+      "statBonus": 160
+    },
+    {
+      "nameId": "Level_82",
+      "experience": 9783,
+      "statBonus": 162
+    },
+    {
+      "nameId": "Level_83",
+      "experience": 9869,
+      "statBonus": 164
+    },
+    {
+      "nameId": "Level_84",
+      "experience": 9954,
+      "statBonus": 166
+    },
+    {
+      "nameId": "Level_85",
+      "experience": 10031,
+      "statBonus": 168
+    },
+    {
+      "nameId": "Level_86",
+      "experience": 10107,
+      "statBonus": 170
+    },
+    {
+      "nameId": "Level_87",
+      "experience": 10175,
+      "statBonus": 172
+    },
+    {
+      "nameId": "Level_88",
+      "experience": 10238,
+      "statBonus": 174
+    },
+    {
+      "nameId": "Level_89",
+      "experience": 10296,
+      "statBonus": 176
+    },
+    {
+      "nameId": "Level_90",
+      "experience": 10395,
+      "statBonus": 178
+    },
+    {
+      "nameId": "Level_91",
+      "experience": 11635,
+      "statBonus": 180
+    },
+    {
+      "nameId": "Level_92",
+      "experience": 11720,
+      "statBonus": 182
+    },
+    {
+      "nameId": "Level_93",
+      "experience": 11800,
+      "statBonus": 184
+    },
+    {
+      "nameId": "Level_94",
+      "experience": 11890,
+      "statBonus": 186
+    },
+    {
+      "nameId": "Level_95",
+      "experience": 11970,
+      "statBonus": 188
+    },
+    {
+      "nameId": "Level_96",
+      "experience": 12055,
+      "statBonus": 190
+    },
+    {
+      "nameId": "Level_97",
+      "experience": 12140,
+      "statBonus": 192
+    },
+    {
+      "nameId": "Level_98",
+      "experience": 12225,
+      "statBonus": 194
+    },
+    {
+      "nameId": "Level_99",
+      "experience": 12310,
+      "statBonus": 196
+    },
+    {
+      "nameId": "Level_100",
+      "statBonus": 198
+    }
+  ]
+}

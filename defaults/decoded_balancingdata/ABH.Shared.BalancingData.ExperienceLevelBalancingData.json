@@ -1,0 +1,947 @@
+{
+  "experienceLevelData": [
+    {
+      "nameId": "Level_01",
+      "experience": 35,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "oldExperience": 35
+    },
+    {
+      "nameId": "Level_02",
+      "experience": 53,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "oldExperience": 50
+    },
+    {
+      "nameId": "Level_03",
+      "experience": 74,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "oldExperience": 55
+    },
+    {
+      "nameId": "Level_04",
+      "experience": 96,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "oldExperience": 80
+    },
+    {
+      "nameId": "Level_05",
+      "experience": 115,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "oldExperience": 145
+    },
+    {
+      "nameId": "Level_06",
+      "experience": 132,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "oldExperience": 175
+    },
+    {
+      "nameId": "Level_07",
+      "experience": 145,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "oldExperience": 250
+    },
+    {
+      "nameId": "Level_08",
+      "experience": 160,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "masteryModifier": 10.0,
+      "oldExperience": 165
+    },
+    {
+      "nameId": "Level_09",
+      "experience": 176,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "masteryModifier": 10.0,
+      "oldExperience": 360
+    },
+    {
+      "nameId": "Level_10",
+      "experience": 193,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "masteryModifier": 10.0,
+      "oldExperience": 250
+    },
+    {
+      "nameId": "Level_11",
+      "experience": 212,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 10.0,
+      "oldExperience": 550
+    },
+    {
+      "nameId": "Level_12",
+      "experience": 234,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 10.0,
+      "oldExperience": 440
+    },
+    {
+      "nameId": "Level_13",
+      "experience": 257,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 20.0,
+      "oldExperience": 440
+    },
+    {
+      "nameId": "Level_14",
+      "experience": 283,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 20.0,
+      "oldExperience": 715
+    },
+    {
+      "nameId": "Level_15",
+      "experience": 311,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 20.0,
+      "oldExperience": 550
+    },
+    {
+      "nameId": "Level_16",
+      "experience": 342,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 20.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_17",
+      "experience": 376,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 30.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_18",
+      "experience": 414,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 30.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_19",
+      "experience": 455,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 30.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_20",
+      "experience": 501,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 1,
+      "masteryModifier": 30.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_21",
+      "experience": 551,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 30.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_22",
+      "experience": 606,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 30.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_23",
+      "experience": 666,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 40.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_24",
+      "experience": 733,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 40.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_25",
+      "experience": 755,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 40.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_26",
+      "experience": 765,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 40.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_27",
+      "experience": 775,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 40.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_28",
+      "experience": 780,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 40.0,
+      "oldExperience": 2000
+    },
+    {
+      "nameId": "Level_29",
+      "experience": 790,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 50.0,
+      "oldExperience": 3000
+    },
+    {
+      "nameId": "Level_30",
+      "experience": 795,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 2,
+      "masteryModifier": 50.0,
+      "oldExperience": 3000
+    },
+    {
+      "nameId": "Level_31",
+      "experience": 800,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 50.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_32",
+      "experience": 805,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 50.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_33",
+      "experience": 810,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 60.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_34",
+      "experience": 815,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 60.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_35",
+      "experience": 825,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 60.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_36",
+      "experience": 855,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 60.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_37",
+      "experience": 880,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 70.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_38",
+      "experience": 905,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 70.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_39",
+      "experience": 935,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 70.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_40",
+      "experience": 965,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 3,
+      "masteryModifier": 70.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_41",
+      "experience": 995,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 70.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_42",
+      "experience": 1030,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 80.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_43",
+      "experience": 1050,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 80.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_44",
+      "experience": 1075,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 80.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_45",
+      "experience": 1110,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 80.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_46",
+      "experience": 1140,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 80.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_47",
+      "experience": 1180,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 90.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_48",
+      "experience": 1215,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 90.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_49",
+      "experience": 1245,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 90.0,
+      "oldExperience": 4000
+    },
+    {
+      "nameId": "Level_50",
+      "experience": 1275,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 4,
+      "masteryModifier": 90.0,
+      "oldExperience": 4250
+    },
+    {
+      "nameId": "Level_51",
+      "experience": 1310,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 90.0,
+      "oldExperience": 4500
+    },
+    {
+      "nameId": "Level_52",
+      "experience": 1330,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 90.0,
+      "oldExperience": 4500
+    },
+    {
+      "nameId": "Level_53",
+      "experience": 1350,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 100.0,
+      "oldExperience": 4750
+    },
+    {
+      "nameId": "Level_54",
+      "experience": 1380,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 100.0,
+      "oldExperience": 5000
+    },
+    {
+      "nameId": "Level_55",
+      "experience": 1400,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 100.0,
+      "oldExperience": 5000
+    },
+    {
+      "nameId": "Level_56",
+      "experience": 1420,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 100.0,
+      "oldExperience": 5250
+    },
+    {
+      "nameId": "Level_57",
+      "experience": 1440,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 100.0,
+      "oldExperience": 5500
+    },
+    {
+      "nameId": "Level_58",
+      "experience": 1460,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 100.0,
+      "oldExperience": 5500
+    },
+    {
+      "nameId": "Level_59",
+      "experience": 1485,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 100.0,
+      "oldExperience": 6000
+    },
+    {
+      "nameId": "Level_60",
+      "experience": 1510,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 5,
+      "masteryModifier": 110.0,
+      "oldExperience": 6500
+    },
+    {
+      "nameId": "Level_61",
+      "experience": 1560,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 7000
+    },
+    {
+      "nameId": "Level_62",
+      "experience": 1600,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 7500
+    },
+    {
+      "nameId": "Level_63",
+      "experience": 1633,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 8000
+    },
+    {
+      "nameId": "Level_64",
+      "experience": 1666,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 8500
+    },
+    {
+      "nameId": "Level_65",
+      "experience": 1700,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 9000
+    },
+    {
+      "nameId": "Level_66",
+      "experience": 1750,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 9500
+    },
+    {
+      "nameId": "Level_67",
+      "experience": 1800,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 10000
+    },
+    {
+      "nameId": "Level_68",
+      "experience": 1830,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 10500
+    },
+    {
+      "nameId": "Level_69",
+      "experience": 1850,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 6,
+      "masteryModifier": 110.0,
+      "oldExperience": 11000
+    },
+    {
+      "nameId": "Level_70",
+      "experience": 1866,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_71",
+      "experience": 1885,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_72",
+      "experience": 1900,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_73",
+      "experience": 1920,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_74",
+      "experience": 1950,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_75",
+      "experience": 1960,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_76",
+      "experience": 1970,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_77",
+      "experience": 1980,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_78",
+      "experience": 1985,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_79",
+      "experience": 1990,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 7,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_80",
+      "experience": 2005,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_81",
+      "experience": 2020,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_82",
+      "experience": 2035,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_83",
+      "experience": 2050,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_84",
+      "experience": 2065,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_85",
+      "experience": 2080,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_86",
+      "experience": 2095,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_87",
+      "experience": 2110,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_88",
+      "experience": 2125,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_89",
+      "experience": 2140,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 8,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_90",
+      "experience": 2155,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_91",
+      "experience": 2170,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_92",
+      "experience": 2185,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_93",
+      "experience": 2200,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_94",
+      "experience": 2215,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_95",
+      "experience": 2230,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_96",
+      "experience": 2245,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_97",
+      "experience": 2260,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_98",
+      "experience": 2275,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    },
+    {
+      "nameId": "Level_99",
+      "experience": 2290,
+      "lootTableAdditional": {
+        "lucky_coin": 3
+      },
+      "matchmakingRangeIndex": 9,
+      "masteryModifier": 120.0
+    }
+  ]
+}

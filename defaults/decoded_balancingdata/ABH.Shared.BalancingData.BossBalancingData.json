@@ -1,0 +1,276 @@
+{
+  "bossData": [
+    {
+      "nameId": "boss_tinker",
+      "assetId": "TinkerBoss",
+      "locaId": "boss_tinker01",
+      "defaultInventoryNameId": "pig_boss_tinker_01",
+      "baseHealth": 800,
+      "baseAttack": 30,
+      "skillNameIds": [
+        "pig_attack_tinkerboss_basic",
+        "pig_attack_tinkerboss_04"
+      ],
+      "skillCombos": [
+        {
+          "percentage": 60.0,
+          "comboChain": [
+            "pig_attack_tinkerboss_basic"
+          ]
+        },
+        {
+          "percentage": 40.0,
+          "comboChain": [
+            "pig_attack_tinkerboss_04"
+          ]
+        }
+      ],
+      "sizeType": "CHARACTER_SIZE_TYPE_LARGE",
+      "faction": "FACTION_PIGS",
+      "lootTableDefeatBonus": {
+        "loot_pig10_defeated_gold": 1,
+        "loot_pig_boss_defeated_exp": 1,
+        "loot_piglarge_defeated_mastery": 1
+      },
+      "sizeScale": 1.0,
+      "pigStrength": 15,
+      "passiveSkillNameId": "pig_passive_drone_doom",
+      "attacksNeeded": 20,
+      "rewardForKillingBlow": {
+        "gold": 200
+      },
+      "killRewardForAll": {
+        "gold": 50
+      },
+      "timeToReactivate": 300,
+      "collectionGroupId": "elite_chest_worldboss",
+      "defeatedLabelLocaId": "boss_repairing"
+    },
+    {
+      "nameId": "boss_tinker_hard",
+      "assetId": "TinkerBoss",
+      "locaId": "boss_tinker01",
+      "defaultInventoryNameId": "pig_boss_tinker_01",
+      "baseHealth": 1000,
+      "baseAttack": 35,
+      "skillNameIds": [
+        "pig_attack_tinkerboss_hard",
+        "pig_attack_tinkerboss_hard_04"
+      ],
+      "skillCombos": [
+        {
+          "percentage": 60.0,
+          "comboChain": [
+            "pig_attack_tinkerboss_hard"
+          ]
+        },
+        {
+          "percentage": 40.0,
+          "comboChain": [
+            "pig_attack_tinkerboss_hard_04"
+          ]
+        }
+      ],
+      "sizeType": "CHARACTER_SIZE_TYPE_LARGE",
+      "faction": "FACTION_PIGS",
+      "lootTableDefeatBonus": {
+        "loot_pig11_defeated_gold": 1,
+        "loot_pig_boss_defeated_exp": 1,
+        "loot_piglarge_defeated_mastery": 1
+      },
+      "sizeScale": 1.0,
+      "pigStrength": 15,
+      "passiveSkillNameId": "pig_passive_drone_doom_hard",
+      "attacksNeeded": 20,
+      "rewardForKillingBlow": {
+        "gold": 400
+      },
+      "killRewardForAll": {
+        "gold": 100
+      },
+      "timeToReactivate": 300,
+      "collectionGroupId": "elite_chest_worldboss",
+      "defeatedLabelLocaId": "boss_repairing"
+    },
+    {
+      "nameId": "boss_kraken",
+      "assetId": "KrakenBoss",
+      "locaId": "boss_kraken01",
+      "defaultInventoryNameId": "pig_boss_kraken_01",
+      "baseHealth": 800,
+      "baseAttack": 35,
+      "skillNameIds": [
+        "pig_attack_krakenboss",
+        "pig_support_krakenboss"
+      ],
+      "skillCombos": [
+        {
+          "percentage": 60.0,
+          "comboChain": [
+            "pig_attack_krakenboss",
+            "pig_support_krakenboss",
+            "pig_support_krakenboss"
+          ]
+        },
+        {
+          "percentage": 40.0,
+          "comboChain": [
+            "pig_support_krakenboss",
+            "pig_attack_krakenboss"
+          ]
+        }
+      ],
+      "sizeType": "CHARACTER_SIZE_TYPE_LARGE",
+      "faction": "FACTION_PIGS",
+      "lootTableDefeatBonus": {
+        "loot_pig10_defeated_gold": 1,
+        "loot_pig_boss_defeated_exp": 1,
+        "loot_piglarge_defeated_mastery": 1
+      },
+      "sizeScale": 1.0,
+      "pigStrength": 15,
+      "passiveSkillNameId": "pig_passive_krakenboss",
+      "attacksNeeded": 20,
+      "rewardForKillingBlow": {
+        "gold": 200
+      },
+      "killRewardForAll": {
+        "gold": 50
+      },
+      "timeToReactivate": 300,
+      "collectionGroupId": "elite_chest_worldboss",
+      "defeatedLabelLocaId": "boss_kraken_repairing"
+    },
+    {
+      "nameId": "boss_kraken_hard",
+      "assetId": "KrakenBoss",
+      "locaId": "boss_kraken01",
+      "defaultInventoryNameId": "pig_boss_kraken_01",
+      "baseHealth": 800,
+      "baseAttack": 35,
+      "skillNameIds": [
+        "pig_attack_krakenboss_hard",
+        "pig_support_krakenboss_hard"
+      ],
+      "skillCombos": [
+        {
+          "percentage": 60.0,
+          "comboChain": [
+            "pig_attack_krakenboss_hard",
+            "pig_support_krakenboss_hard",
+            "pig_support_krakenboss_hard"
+          ]
+        },
+        {
+          "percentage": 40.0,
+          "comboChain": [
+            "pig_support_krakenboss_hard",
+            "pig_attack_krakenboss_hard"
+          ]
+        }
+      ],
+      "sizeType": "CHARACTER_SIZE_TYPE_LARGE",
+      "faction": "FACTION_PIGS",
+      "lootTableDefeatBonus": {
+        "loot_pig11_defeated_gold": 1,
+        "loot_pig_boss_defeated_exp": 1,
+        "loot_piglarge_defeated_mastery": 1
+      },
+      "sizeScale": 1.0,
+      "pigStrength": 15,
+      "passiveSkillNameId": "pig_passive_krakenboss_hard",
+      "attacksNeeded": 20,
+      "rewardForKillingBlow": {
+        "gold": 400
+      },
+      "killRewardForAll": {
+        "gold": 100
+      },
+      "timeToReactivate": 300,
+      "collectionGroupId": "elite_chest_worldboss",
+      "defeatedLabelLocaId": "boss_kraken_repairing"
+    },
+    {
+      "nameId": "boss_hogrider_hefty",
+      "assetId": "HogriderBoss",
+      "locaId": "boss_hogrider_hefty",
+      "defaultInventoryNameId": "boss_hogrider_hefty_01",
+      "baseHealth": 200,
+      "baseAttack": 15,
+      "skillNameIds": [
+        "pig_attack_hogrider_hefty",
+        "pig_support_hogrider_hefty"
+      ],
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "pig_support_hogrider_hefty",
+            "pig_attack_hogrider_hefty"
+          ]
+        }
+      ],
+      "sizeType": "CHARACTER_SIZE_TYPE_MEDIUM",
+      "faction": "FACTION_PIGS",
+      "lootTableDefeatBonus": {
+        "loot_pig4_defeated_gold": 1,
+        "loot_pig_boss_multiple_defeated_exp": 1,
+        "loot_pigsmall_defeated_mastery": 1
+      },
+      "sizeScale": 1.0,
+      "pigStrength": 15,
+      "passiveSkillNameId": "pig_passive_hogrider_hefty",
+      "attacksNeeded": 20,
+      "rewardForKillingBlow": {
+        "gold": 200
+      },
+      "killRewardForAll": {
+        "gold": 50
+      },
+      "timeToReactivate": 300,
+      "collectionGroupId": "elite_chest_worldboss",
+      "defeatedLabelLocaId": "boss_kraken_repairing"
+    },
+    {
+      "nameId": "boss_hogrider_hefty_hard",
+      "assetId": "HogriderBoss",
+      "locaId": "boss_hogrider_hefty",
+      "defaultInventoryNameId": "boss_hogrider_hefty_01",
+      "baseHealth": 200,
+      "baseAttack": 15,
+      "skillNameIds": [
+        "pig_attack_hogrider_hefty_hard",
+        "pig_support_hogrider_hefty_hard"
+      ],
+      "skillCombos": [
+        {
+          "percentage": 100.0,
+          "comboChain": [
+            "pig_support_hogrider_hefty_hard",
+            "pig_attack_hogrider_hefty_hard"
+          ]
+        }
+      ],
+      "sizeType": "CHARACTER_SIZE_TYPE_MEDIUM",
+      "faction": "FACTION_PIGS",
+      "lootTableDefeatBonus": {
+        "loot_pig6_defeated_gold": 1,
+        "loot_pig_boss_multiple_hard_defeated_exp": 1,
+        "loot_pigsmall_defeated_mastery": 1
+      },
+      "sizeScale": 1.0,
+      "pigStrength": 15,
+      "passiveSkillNameId": "pig_passive_hogrider_hefty_hard",
+      "attacksNeeded": 20,
+      "rewardForKillingBlow": {
+        "gold": 400
+      },
+      "killRewardForAll": {
+        "gold": 100
+      },
+      "timeToReactivate": 300,
+      "collectionGroupId": "elite_chest_worldboss",
+      "defeatedLabelLocaId": "boss_kraken_repairing"
+    }
+  ]
+}

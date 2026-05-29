@@ -1,0 +1,662 @@
+{
+  "masteryItemData": [
+    {
+      "nameId": "mastery_all",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "AllBirds",
+      "locaBaseId": "mastery_all",
+      "associatedClass": "ALL",
+      "setAsNewInShop": "",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 500
+      }
+    },
+    {
+      "nameId": "mastery_current",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "CurrentBirds",
+      "locaBaseId": "mastery_current",
+      "associatedClass": "current",
+      "setAsNewInShop": "",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 250
+      }
+    },
+    {
+      "nameId": "mastery_bird_red",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "RedBird",
+      "locaBaseId": "mastery_bird_red",
+      "associatedClass": "bird_red",
+      "setAsNewInShop": "",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 250
+      }
+    },
+    {
+      "nameId": "mastery_bird_yellow",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "YellowBird",
+      "locaBaseId": "mastery_bird_yellow",
+      "associatedClass": "bird_yellow",
+      "setAsNewInShop": "",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 250
+      }
+    },
+    {
+      "nameId": "mastery_bird_white",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "WhiteBird",
+      "locaBaseId": "mastery_bird_white",
+      "associatedClass": "bird_white",
+      "setAsNewInShop": "",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 250
+      }
+    },
+    {
+      "nameId": "mastery_bird_black",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "BlackBird",
+      "locaBaseId": "mastery_bird_black",
+      "associatedClass": "bird_black",
+      "setAsNewInShop": "",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 250
+      }
+    },
+    {
+      "nameId": "mastery_bird_blue",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "BlueBirds",
+      "locaBaseId": "mastery_bird_blue",
+      "associatedClass": "bird_blue",
+      "setAsNewInShop": "",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 250
+      }
+    },
+    {
+      "nameId": "mastery_knight",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Knight",
+      "locaBaseId": "mastery_knight",
+      "associatedClass": "class_knight",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_ronin",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Ronin",
+      "locaBaseId": "mastery_ronin",
+      "associatedClass": "class_ronin",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_guardian",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Guardian",
+      "locaBaseId": "mastery_guardian",
+      "associatedClass": "class_guardian",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_samurai",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Samurai",
+      "locaBaseId": "mastery_samurai",
+      "associatedClass": "class_samurai",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_avenger",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Avenger",
+      "locaBaseId": "mastery_avenger",
+      "associatedClass": "class_avenger",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_paladin",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Paladin",
+      "locaBaseId": "mastery_paladin",
+      "associatedClass": "class_paladin",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_stoneguard",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_StoneGuard",
+      "locaBaseId": "mastery_stoneguard",
+      "associatedClass": "class_stoneguard",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_mage",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Mage",
+      "locaBaseId": "mastery_mage",
+      "associatedClass": "class_mage",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_nerd",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_ArchMage",
+      "locaBaseId": "mastery_nerd",
+      "associatedClass": "class_nerd",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_lightningbird",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_LightningBird",
+      "locaBaseId": "mastery_lightningbird",
+      "associatedClass": "class_lightningbird",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_wizard",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Wizard",
+      "locaBaseId": "mastery_wizard",
+      "associatedClass": "class_wizard",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_rainbird",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Rainbird",
+      "locaBaseId": "mastery_rainbird",
+      "associatedClass": "class_rainbird",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_thunderbird",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Thunderbird",
+      "locaBaseId": "mastery_thunderbird",
+      "associatedClass": "class_thunderbird",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_illusionist",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Illusionist",
+      "locaBaseId": "mastery_illusionist",
+      "associatedClass": "class_illusionist",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_cleric",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Cleric",
+      "locaBaseId": "mastery_cleric",
+      "associatedClass": "class_cleric",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_druid",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Druid",
+      "locaBaseId": "mastery_druid",
+      "associatedClass": "class_druid",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_princess",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Princess",
+      "locaBaseId": "mastery_princess",
+      "associatedClass": "class_princess",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_bard",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Bard",
+      "locaBaseId": "mastery_bard",
+      "associatedClass": "class_bard",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_priest",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Priest",
+      "locaBaseId": "mastery_priest",
+      "associatedClass": "class_priest",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_moonpriest",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_MoonPriest",
+      "locaBaseId": "mastery_moonpriest",
+      "associatedClass": "class_moonpriest",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_witch",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Witch",
+      "locaBaseId": "mastery_witch",
+      "associatedClass": "class_witch",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_pirate",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Pirate",
+      "locaBaseId": "mastery_pirate",
+      "associatedClass": "class_pirate",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_corsair",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Corsair",
+      "locaBaseId": "mastery_corsair",
+      "associatedClass": "class_corsair",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_cannoneer",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Cannoneer",
+      "locaBaseId": "mastery_cannoneer",
+      "associatedClass": "class_cannoneer",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_berserk",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Berserk",
+      "locaBaseId": "mastery_berserk",
+      "associatedClass": "class_berserk",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_captn",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Captain",
+      "locaBaseId": "mastery_captn",
+      "associatedClass": "class_captn",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_seadog",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_SeaDog",
+      "locaBaseId": "mastery_seadog",
+      "associatedClass": "class_seadog",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_winterfighter",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_WinterWarrior",
+      "locaBaseId": "mastery_winterfighter",
+      "associatedClass": "class_winterfighter",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_tricksters",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Trickster",
+      "locaBaseId": "mastery_tricksters",
+      "associatedClass": "class_tricksters",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_rogues",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Rogue",
+      "locaBaseId": "mastery_rogues",
+      "associatedClass": "class_rogues",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_skulkers",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Skulker",
+      "locaBaseId": "mastery_skulkers",
+      "associatedClass": "class_skulkers",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_spies",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Spy",
+      "locaBaseId": "mastery_spies",
+      "associatedClass": "class_spies",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_marksmen",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Marksman",
+      "locaBaseId": "mastery_marksmen",
+      "associatedClass": "class_marksmen",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_treasurehunters",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_TreasureHunters",
+      "locaBaseId": "mastery_treasurehunters",
+      "associatedClass": "class_treasurehunters",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_mighty_eagle",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "mastery_mighty_eagle",
+      "associatedClass": "class_mighty_eagle",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_headgear_bird_prince_porky",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "mastery_headgear_bird_prince_porky",
+      "associatedClass": "headgear_bird_prince_porky",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_headgear_bird_merchant",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_MerchantPig",
+      "locaBaseId": "mastery_headgear_bird_merchant",
+      "associatedClass": "headgear_bird_merchant",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_headgear_bird_adventurer",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Adventurer",
+      "locaBaseId": "mastery_headgear_bird_adventurer",
+      "associatedClass": "headgear_bird_adventurer",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_sonic",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear",
+      "locaBaseId": "mastery_sonic",
+      "associatedClass": "class_sonic",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    },
+    {
+      "nameId": "mastery_headgear_valkyrie",
+      "itemType": "INVENTORY_ITEM_TYPE_MASTERY",
+      "assetBaseId": "Headgear_Valkyrie",
+      "locaBaseId": "mastery_headgear_valkyrie",
+      "associatedClass": "headgear_valkyrie",
+      "setAsNewInShop": "0",
+      "fallbackLootTable": {
+        "gold": 500
+      },
+      "fallbackLootTableDailyLogin": {
+        "gold": 100
+      }
+    }
+  ]
+}

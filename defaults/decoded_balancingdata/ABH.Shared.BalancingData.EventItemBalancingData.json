@@ -1,0 +1,964 @@
+{
+  "eventItemData": [
+    {
+      "nameId": "event_invasion_zombies_easy",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_zombie_zombie",
+      "locaBaseId": "zombie_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_zombies_01",
+        "battle_event_invasion_zombies_01_01",
+        "battle_event_invasion_zombies_01_02",
+        "battle_event_invasion_zombies_01_03",
+        "battle_event_invasion_zombies_01_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_zombies_medium",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_caster_necromancer",
+      "locaBaseId": "zombie_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_zombies_02",
+        "battle_event_invasion_zombies_02_01",
+        "battle_event_invasion_zombies_02_02",
+        "battle_event_invasion_zombies_02_03",
+        "battle_event_invasion_zombies_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_zombies_hard",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_brute_frankenpig",
+      "locaBaseId": "zombie_invasion_hard",
+      "sortPriority": 3,
+      "eventParameters": [
+        "battle_event_invasion_zombies_03",
+        "battle_event_invasion_zombies_03_01",
+        "battle_event_invasion_zombies_03_02",
+        "battle_event_invasion_zombies_03_03",
+        "battle_event_invasion_zombies_03_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_pirates_easy",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_pirate_pirate",
+      "locaBaseId": "pirate_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_pirates_01",
+        "battle_event_invasion_pirates_01_01",
+        "battle_event_invasion_pirates_01_02",
+        "battle_event_invasion_pirates_01_03",
+        "battle_event_invasion_pirates_01_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_pirates_medium",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_moustache_pirate_captain",
+      "locaBaseId": "pirate_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_pirates_02",
+        "battle_event_invasion_pirates_02_01",
+        "battle_event_invasion_pirates_02_02",
+        "battle_event_invasion_pirates_02_03",
+        "battle_event_invasion_pirates_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_pirates_hard",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_brute_pirate",
+      "locaBaseId": "pirate_invasion_hard",
+      "sortPriority": 3,
+      "eventParameters": [
+        "battle_event_invasion_pirates_03",
+        "battle_event_invasion_pirates_03_01",
+        "battle_event_invasion_pirates_03_02",
+        "battle_event_invasion_pirates_03_03",
+        "battle_event_invasion_pirates_03_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_ninjas_easy",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_ninja_black",
+      "locaBaseId": "ninja_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_ninjas_01",
+        "battle_event_invasion_ninjas_01_01",
+        "battle_event_invasion_ninjas_01_02",
+        "battle_event_invasion_ninjas_01_03",
+        "battle_event_invasion_ninjas_01_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_ninjas_medium",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_ninja_master",
+      "locaBaseId": "ninja_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_ninjas_02",
+        "battle_event_invasion_ninjas_02_01",
+        "battle_event_invasion_ninjas_02_02",
+        "battle_event_invasion_ninjas_02_03",
+        "battle_event_invasion_ninjas_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_ninjas_hard",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_knight_shogun",
+      "locaBaseId": "ninja_invasion_hard",
+      "sortPriority": 3,
+      "eventParameters": [
+        "battle_event_invasion_ninjas_03",
+        "battle_event_invasion_ninjas_03_01",
+        "battle_event_invasion_ninjas_03_02",
+        "battle_event_invasion_ninjas_03_03",
+        "battle_event_invasion_ninjas_03_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_easy_01",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_minion_pyrobolist",
+      "locaBaseId": "villains_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_villains_01_01"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_easy_02",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_minion_pyrobolist",
+      "locaBaseId": "villains_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_villains_01_02"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_easy_03",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_minion_pyrobolist",
+      "locaBaseId": "villains_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_villains_01_03"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_medium_01",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_knight_dark",
+      "locaBaseId": "villains_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_villains_02_01"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_medium_02",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_knight_dark",
+      "locaBaseId": "villains_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_villains_02_02"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_medium_03",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_knight_dark",
+      "locaBaseId": "villains_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_villains_02_03"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_hard",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_moustache_pirate_captain_redbeard",
+      "locaBaseId": "villains_invasion_hard",
+      "sortPriority": 3,
+      "eventParameters": [
+        "battle_event_invasion_villains_03"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_wave_gungho_easy",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "EventPortal_Easy",
+      "locaBaseId": "gungho_wave_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_wave_gungho_01",
+        "battle_event_wave_gungho_01_01",
+        "battle_event_wave_gungho_01_02"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_wave_gungho_medium",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "EventPortal_Medium",
+      "locaBaseId": "gungho_wave_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_wave_gungho_02",
+        "battle_event_wave_gungho_02_01",
+        "battle_event_wave_gungho_02_02"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_wave_gungho_hard",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "EventPortal_Hard",
+      "locaBaseId": "gungho_wave_hard",
+      "sortPriority": 3,
+      "eventParameters": [
+        "battle_event_wave_gungho_03",
+        "battle_event_wave_gungho_03_01",
+        "battle_event_wave_gungho_03_02"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_winter_collectible_land",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectable_Giftbox_Land",
+      "locaBaseId": "winter_invasion_collectible",
+      "sortPriority": 1,
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "land"
+      ]
+    },
+    {
+      "nameId": "event_invasion_winter_collectible_water",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectable_Giftbox_Water",
+      "locaBaseId": "winter_invasion_collectible",
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "water"
+      ]
+    },
+    {
+      "nameId": "event_invasion_christmas_easy",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_minion_snowpig",
+      "locaBaseId": "christmas_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_christmas_01",
+        "battle_event_invasion_christmas_01_01",
+        "battle_event_invasion_christmas_01_02",
+        "battle_event_invasion_christmas_01_03",
+        "battle_event_invasion_christmas_01_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_christmas_medium",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_moustache_antler",
+      "locaBaseId": "christmas_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_christmas_02",
+        "battle_event_invasion_christmas_02_01",
+        "battle_event_invasion_christmas_02_02",
+        "battle_event_invasion_christmas_02_03",
+        "battle_event_invasion_christmas_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_christmas_hard",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_caster_santa",
+      "locaBaseId": "christmas_invasion_hard",
+      "sortPriority": 3,
+      "eventParameters": [
+        "battle_event_invasion_christmas_03",
+        "battle_event_invasion_christmas_03_01",
+        "battle_event_invasion_christmas_03_02",
+        "battle_event_invasion_christmas_03_03",
+        "battle_event_invasion_christmas_03_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_testcampaign",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "EventPortal_Hard",
+      "locaBaseId": "testcampaign",
+      "sortPriority": 1,
+      "eventParameters": [
+        "testcampaign",
+        "eventlocation_01"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_easy",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_drone_projector",
+      "locaBaseId": "tinker_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_tinker_01",
+        "battle_event_invasion_tinker_01_01",
+        "battle_event_invasion_tinker_01_02",
+        "battle_event_invasion_tinker_01_03",
+        "battle_event_invasion_tinker_01_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_easy_yellow",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_drone_projector",
+      "locaBaseId": "tinker_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_tinker_yellow_01",
+        "battle_event_invasion_tinker_yellow_01_01",
+        "battle_event_invasion_tinker_yellow_01_02",
+        "battle_event_invasion_tinker_yellow_01_03",
+        "battle_event_invasion_tinker_yellow_01_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_easy_white",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_drone_projector",
+      "locaBaseId": "tinker_invasion_easy",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_tinker_white_01",
+        "battle_event_invasion_tinker_white_01_01",
+        "battle_event_invasion_tinker_white_01_02",
+        "battle_event_invasion_tinker_white_01_03",
+        "battle_event_invasion_tinker_white_01_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_medium",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_moustache_tinker",
+      "locaBaseId": "tinker_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_tinker_02",
+        "battle_event_invasion_tinker_02_01",
+        "battle_event_invasion_tinker_02_02",
+        "battle_event_invasion_tinker_02_03",
+        "battle_event_invasion_tinker_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_medium_red",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_moustache_tinker",
+      "locaBaseId": "tinker_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_tinker_red_02",
+        "battle_event_invasion_tinker_red_02_01",
+        "battle_event_invasion_tinker_red_02_02",
+        "battle_event_invasion_tinker_red_02_03",
+        "battle_event_invasion_tinker_red_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_medium_blue",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_moustache_tinker",
+      "locaBaseId": "tinker_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_tinker_blue_02",
+        "battle_event_invasion_tinker_blue_02_01",
+        "battle_event_invasion_tinker_blue_02_02",
+        "battle_event_invasion_tinker_blue_02_03",
+        "battle_event_invasion_tinker_blue_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_medium_black",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_moustache_tinker",
+      "locaBaseId": "tinker_invasion_medium",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_tinker_black_02",
+        "battle_event_invasion_tinker_black_02_01",
+        "battle_event_invasion_tinker_black_02_02",
+        "battle_event_invasion_tinker_black_02_03",
+        "battle_event_invasion_tinker_black_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_hard",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_drone_doom",
+      "locaBaseId": "tinker_invasion_hard",
+      "sortPriority": 3,
+      "eventParameters": [
+        "battle_event_invasion_tinker_03",
+        "battle_event_invasion_tinker_03_01",
+        "battle_event_invasion_tinker_03_02",
+        "battle_event_invasion_tinker_03_03",
+        "battle_event_invasion_tinker_03_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_china_easy",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_pigmies_dragonplayer",
+      "locaBaseId": "china_invasion_easy_01",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_invasion_china_01",
+        "battle_event_invasion_china_01_01",
+        "battle_event_invasion_china_01_02",
+        "battle_event_invasion_china_01_03",
+        "battle_event_invasion_china_01_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_china_medium",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_moustache_mandarin",
+      "locaBaseId": "china_invasion_medium_01",
+      "sortPriority": 2,
+      "eventParameters": [
+        "battle_event_invasion_china_02",
+        "battle_event_invasion_china_02_01",
+        "battle_event_invasion_china_02_02",
+        "battle_event_invasion_china_02_03",
+        "battle_event_invasion_china_02_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_china_hard",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "pig_brute_battering",
+      "locaBaseId": "china_invasion_hard_01",
+      "sortPriority": 3,
+      "eventParameters": [
+        "battle_event_invasion_china_03",
+        "battle_event_invasion_china_03_01",
+        "battle_event_invasion_china_03_02",
+        "battle_event_invasion_china_03_03",
+        "battle_event_invasion_china_03_04"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_china_collectible_land",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_Lotus_Land",
+      "locaBaseId": "china_invasion_collectible",
+      "sortPriority": 1,
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "land"
+      ]
+    },
+    {
+      "nameId": "event_invasion_china_collectible_water",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_Lotus_Water",
+      "locaBaseId": "china_invasion_collectible",
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "water"
+      ]
+    },
+    {
+      "nameId": "event_campaign_jungle",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Jungle",
+      "locaBaseId": "campaign_portal_01_jungle",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_jungle"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_boss_tinker",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BATTLE_ITEM",
+      "assetBaseId": "Hotspot_BossNode_TinkerBoss",
+      "locaBaseId": "tinker_boss",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_tinkerboss_01",
+        "battle_event_tinkerboss_02",
+        "battle_event_tinkerboss_03",
+        "battle_event_tinkerboss_04",
+        "battle_event_tinkerboss_05",
+        "battle_event_tinkerboss_06",
+        "battle_event_tinkerboss_07"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_boss_kraken",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BOSS_ITEM",
+      "assetBaseId": "Hotspot_BossNode_KrakenBoss",
+      "locaBaseId": "kraken_boss",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_krakenboss_01"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_boss_hogrider",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_BOSS_ITEM",
+      "assetBaseId": "Hotspot_BossNode_HogriderBoss",
+      "locaBaseId": "hogrider_boss",
+      "sortPriority": 1,
+      "eventParameters": [
+        "battle_event_hogriderboss_01"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_invasion_zombies_collectible_land",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_BonePile_Land",
+      "locaBaseId": "zombies_invasion_collectible",
+      "sortPriority": 1,
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "land"
+      ]
+    },
+    {
+      "nameId": "event_invasion_zombies_collectible_water",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_BonePile_Water",
+      "locaBaseId": "zombies_invasion_collectible",
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "water"
+      ]
+    },
+    {
+      "nameId": "event_invasion_pirates_collectible_land",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_TreasureMap_Land",
+      "locaBaseId": "pirates_invasion_collectible",
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "land"
+      ]
+    },
+    {
+      "nameId": "event_invasion_pirates_collectible_water",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_TreasureMap_Water",
+      "locaBaseId": "pirates_invasion_collectible",
+      "sortPriority": 1,
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "water"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_collectible_land",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_Toolbox_Land",
+      "locaBaseId": "tinker_invasion_collectible",
+      "sortPriority": 1,
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "land"
+      ]
+    },
+    {
+      "nameId": "event_invasion_tinker_collectible_water",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_Toolbox_Water",
+      "locaBaseId": "tinker_invasion_collectible",
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "water"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_collectible_land",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_TNTCrate_Land",
+      "locaBaseId": "villains_invasion_collectible",
+      "sortPriority": 1,
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "land"
+      ]
+    },
+    {
+      "nameId": "event_invasion_villains_collectible_water",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_COLLECTIBLE",
+      "assetBaseId": "Collectible_TNTCrate_Water",
+      "locaBaseId": "villains_invasion_collectible",
+      "eventParameters": [
+        "loot_event_winter_collectible"
+      ],
+      "spawnCategories": [
+        "water"
+      ]
+    },
+    {
+      "nameId": "event_campaign_sonicdash",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_SonicDash",
+      "locaBaseId": "campaign_portal_01_sonic",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_sonic"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_halloween",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Halloween",
+      "locaBaseId": "campaign_portal_01_halloween",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_halloween"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_christmas",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Christmas",
+      "locaBaseId": "campaign_portal_01_christmas",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_christmas"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_valentine",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Valentine",
+      "locaBaseId": "campaign_portal_01_valentine",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_valentine"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_easter",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Easter",
+      "locaBaseId": "campaign_portal_01_easter",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_easter"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_movie",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Movie",
+      "locaBaseId": "campaign_portal_01_movie",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_movie"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_anniversary",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Anniversary",
+      "locaBaseId": "campaign_portal_01_anniversary",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_anniversary"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_sports",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Sports",
+      "locaBaseId": "campaign_portal_01_sports",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_sports"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    },
+    {
+      "nameId": "event_campaign_oktoberfest",
+      "itemType": "INVENTORY_ITEM_TYPE_EVENT_CAMPAIGN_ITEM",
+      "assetBaseId": "Hotspot_Entrance_Oktoberfest",
+      "locaBaseId": "campaign_portal_01_oktoberfest",
+      "sortPriority": 1,
+      "eventParameters": [
+        "minicampaignbalancing_oktoberfest"
+      ],
+      "spawnCategories": [
+        "land",
+        "water",
+        "air"
+      ]
+    }
+  ]
+}

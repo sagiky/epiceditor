@@ -1,0 +1,51 @@
+{
+  "clientConfigData": [
+    {
+      "nameId": "rovio",
+      "bundleId": "com.rovio.gold",
+      "appleAppId": "767319014",
+      "googlePlayStoreKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmev95Bw/Pz+65MxZgGrGneXoijbAR+OiKb3k4mb5FDn+TJPI7PdD4eaUvCvKwX+nHm1giOxaQoB/qUimKZ50/ZZ8fwGvExNBFIJAAKE0hkVzErP31K5UhmC/PGQy7qhnfajHPZ515M32VE/hR/bY5fG2HRTv3Ovs2gGbqRUEPMK9SNHcn/bzU28kD72dhU3Dr/2303cJEKbSrrEQ2eGHwlD4ALb4aCyYTQmtUVjWi/p0lnDLxuie89Z/aNH9HCc95hc2+Tnpaogj69LgYoTYjCyg+boAuWfE3bha9atmJsrB/x78NlIfN9yArqa4u0Cduje+jBKtlTDacrqnTgMvAwIDAQAB",
+      "googleAppId": "1055784600427",
+      "wp8AppId": "0",
+      "soundtrackUrl": "http://www.deezer.com/album/7900669",
+      "abTestingGroup": "0",
+      "useAutoBattle": true,
+      "facebookFriendsPerRequest": 20,
+      "useSkynestTimingService": true,
+      "applyMinusBillionFix": true,
+      "timeZonePersistCooldownInSec": 120,
+      "pvpEquipmentLevelDeltaCap": 6,
+      "enableProfileMerging": true,
+      "introVideoSkippable": true,
+      "useChimeraLeaderboards": true
+    },
+    {
+      "nameId": "chimera",
+      "bundleId": "com.rovio.gold",
+      "appleAppId": "745327888",
+      "googlePlayStoreKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAstk42dXu/4btjNHURhwNMzZcXR3WLDQGxn6am803Eshdbz1WVGqDm7eh70Zdem8qOM2nYuFhSOEueE15BA1PLA0mX6duRGybN5fJByNpVBG76aUNlflljQp7MXxaL8VXZZBdRI7uhk24ILsjE7AYVUivlp1YwBEdGJPwELvfF4TZgEPcFIq6gRGlEbKvtQH07aVwX1HOuRTJOW+tDrq4eIZG/O1Gimesz8OlHqWcbWpEgVeAuFkLIxZbm8tvNFf0y2N5JbqEflQ01dgaUKZEJGHGHj/9bk8/flOSfIaeV036G//yaoxh6DGwoKVDeLLvDK/FoGoSnolbjZF8xc4FAwIDAQAB",
+      "googleAppId": "361910187226",
+      "wp8AppId": "0",
+      "soundtrackUrl": "http://www.deezer.com/album/7900669",
+      "abTestingGroup": "0",
+      "useAutoBattle": true,
+      "facebookFriendsPerRequest": 20,
+      "useSkynestTimingService": true,
+      "applyMinusBillionFix": true,
+      "timeZonePersistCooldownInSec": 120,
+      "pvpEquipmentLevelDeltaCap": 6,
+      "enableProfileMerging": true,
+      "introVideoSkippable": true,
+      "useChimeraLeaderboards": true
+    },
+    {
+      "nameId": "kunlun",
+      "bundleId": "com.kunlun.angrybirdsepic",
+      "googlePlayStoreKey": "",
+      "googleAppId": "",
+      "wp8AppId": "",
+      "soundtrackUrl": "",
+      "abTestingGroup": ""
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "gameConstantsData": [
+    {
+      "nameId": "FirstHotspotNameId",
+      "stringValue": "hotspot_001_camp"
+    },
+    {
+      "nameId": "MaxPigsInBattle",
+      "stringValue": "",
+      "floatValue": 7.0
+    },
+    {
+      "nameId": "RageMeterIncreasePerHitInPercent",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "RageMeterIncreasePerHiAfterFirstAOEInPercent",
+      "stringValue": "",
+      "floatValue": 1.0
+    },
+    {
+      "nameId": "RageMeterIncreasePerPassiveEffectInPercent",
+      "stringValue": "",
+      "floatValue": 3.0
+    },
+    {
+      "nameId": "RageMeterFullOnTotalHealthLostFactor",
+      "stringValue": "",
+      "floatValue": 0.65
+    },
+    {
+      "nameId": "CostToScrapLootRateCrafting",
+      "stringValue": "",
+      "floatValue": 0.2
+    },
+    {
+      "nameId": "CostToScrapLootRateGacha",
+      "stringValue": "",
+      "floatValue": 0.25
+    },
+    {
+      "nameId": "CostToScrapLootRateSet",
+      "stringValue": "",
+      "floatValue": 1.0
+    },
+    {
+      "nameId": "StandardDiceWeights",
+      "stringValue": "",
+      "floatlistValue": [
+        17.0,
+        33.0,
+        33.0,
+        17.0
+      ]
+    },
+    {
+      "nameId": "GoldDiceWeights",
+      "stringValue": "",
+      "floatlistValue": [
+        0.0,
+        17.0,
+        50.0,
+        33.0
+      ]
+    },
+    {
+      "nameId": "CrystalDiceWeights",
+      "stringValue": "",
+      "floatlistValue": [
+        0.0,
+        0.0,
+        50.0,
+        50.0
+      ]
+    },
+    {
+      "nameId": "RerollCraftingCostMax",
+      "stringValue": "",
+      "floatValue": 1.0
+    },
+    {
+      "nameId": "RerollCraftingCostIncrease",
+      "stringValue": ""
+    },
+    {
+      "nameId": "RerollCraftingRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 1.0
+      }
+    },
+    {
+      "nameId": "MultiCraftAmount",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "RerollMultiCraftingCostMax",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "RerollMultiCraftingCostIncrease",
+      "stringValue": ""
+    },
+    {
+      "nameId": "RerollMultiCraftingRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "friendship_essence",
+        "value": 10.0
+      }
+    },
+    {
+      "nameId": "GoldenAnvilBonus",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "DiamondAnvilBonus",
+      "stringValue": "",
+      "floatValue": 20.0
+    },
+    {
+      "nameId": "MaximumSpawnableNodes",
+      "stringValue": "",
+      "floatValue": 3.0
+    },
+    {
+      "nameId": "ResourceSpawnAmountPerNode",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "TimeForResourceRespawn",
+      "stringValue": "",
+      "floatValue": 72000.0
+    },
+    {
+      "nameId": "ReferenceAttackValueBase",
+      "stringValue": "",
+      "floatValue": 100.0
+    },
+    {
+      "nameId": "ReferenceAttackValuePerLevelInPercent",
+      "stringValue": "",
+      "floatValue": 25.0
+    },
+    {
+      "nameId": "TimeGoldenPigSpawn",
+      "stringValue": "",
+      "floatValue": 316224000.0
+    },
+    {
+      "nameId": "TimeGoldenPigOnlyClientIfFailedRespawn",
+      "stringValue": "",
+      "floatValue": 60.0
+    },
+    {
+      "nameId": "TimeGoldenPigRespawnRandomOffset",
+      "stringValue": ""
+    },
+    {
+      "nameId": "TimeGoldenPigMoveOn",
+      "stringValue": "",
+      "floatValue": 3600.0
+    },
+    {
+      "nameId": "MightyEagleBirdReqirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "lucky_coin",
+        "value": 15.0
+      }
+    },
+    {
+      "nameId": "ReviveBirdsRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "lucky_coin",
+        "value": 10.0
+      }
+    },
+    {
+      "nameId": "ReviveBirdsPvpRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "lucky_coin",
+        "value": 15.0
+      }
+    },
+    {
+      "nameId": "ReviveSingleBirdsRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "lucky_coin",
+        "value": 5.0
+      }
+    },
+    {
+      "nameId": "TimeForNextClassUpgrade",
+      "stringValue": "",
+      "floatValue": 10800.0
+    },
+    {
+      "nameId": "NextClassSkipRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "lucky_coin",
+        "value": 5.0
+      }
+    },
+    {
+      "nameId": "AllBirdsMasteryChance",
+      "stringValue": "",
+      "floatValue": 5.0
+    },
+    {
+      "nameId": "SingleBirdMasteryChance",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "MasteryChancePlus",
+      "stringValue": "",
+      "floatValue": 5.0
+    },
+    {
+      "nameId": "MasteryChanceBonusCap",
+      "stringValue": "",
+      "floatValue": 25.0
+    },
+    {
+      "nameId": "ClassUpgradeToMasteryMapping",
+      "stringValue": "",
+      "floatlistValue": [
+        1.0,
+        10.0,
+        25.0,
+        50.0
+      ]
+    },
+    {
+      "nameId": "DojoOfferDiscount",
+      "stringValue": "",
+      "floatlistValue": [
+        2.0,
+        1.0,
+        0.75,
+        0.5,
+        0.25
+      ]
+    },
+    {
+      "nameId": "DojoOfferDiscountThresholds",
+      "stringValue": "",
+      "floatlistValue": [
+        5.0,
+        10.0,
+        20.0,
+        30.0,
+        40.0
+      ]
+    },
+    {
+      "nameId": "DungeonSkipRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "lucky_coin",
+        "value": 15.0
+      }
+    },
+    {
+      "nameId": "GachaUsesFromNormalOffer",
+      "stringValue": "",
+      "floatValue": 2.0
+    },
+    {
+      "nameId": "PvpGachaUsesFromNormalOffer",
+      "stringValue": "",
+      "floatValue": 2.0
+    },
+    {
+      "nameId": "GachaUsesFromHighOffer",
+      "stringValue": "",
+      "floatValue": 2.0
+    },
+    {
+      "nameId": "PvpGachaUsesFromHighOffer",
+      "stringValue": "",
+      "floatValue": 2.0
+    },
+    {
+      "nameId": "RainbowRiotTime",
+      "stringValue": "",
+      "floatValue": 1800.0
+    },
+    {
+      "nameId": "MultiGachaAmount",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "RainbowRiot1Multi",
+      "stringValue": "3"
+    },
+    {
+      "nameId": "RainbowRiot2Multi",
+      "stringValue": "5"
+    },
+    {
+      "nameId": "GachaVideoTimespan",
+      "stringValue": "",
+      "floatValue": 720.0
+    },
+    {
+      "nameId": "FreeGachaTimespan",
+      "stringValue": "",
+      "floatValue": 86400.0
+    },
+    {
+      "nameId": "AdCooldownBalancing",
+      "stringValue": "",
+      "floatlistValue": [
+        0.0,
+        900.0,
+        7.0,
+        600.0,
+        14.0,
+        300.0,
+        21.0,
+        180.0
+      ]
+    },
+    {
+      "nameId": "SponsoredAdPotionType",
+      "stringValue": "HealingPotion"
+    },
+    {
+      "nameId": "SponsoredAdBuffName",
+      "stringValue": "env_sponsored_health_and_attack"
+    },
+    {
+      "nameId": "ChronicleCaveDailyTreasureLoot",
+      "stringValue": "cave_ad_reward"
+    },
+    {
+      "nameId": "DailyEventAdLoot",
+      "stringValue": "event_daily_reward_video"
+    },
+    {
+      "nameId": "EventPointBoostVideoTimeSpan",
+      "stringValue": "",
+      "floatValue": 43200.0
+    },
+    {
+      "nameId": "ArenaPointBoostVideoTimeSpan",
+      "stringValue": "",
+      "floatValue": 43200.0
+    },
+    {
+      "nameId": "UseAutoBattle",
+      "stringValue": "",
+      "boolValue": true
+    },
+    {
+      "nameId": "IsLimeGreen",
+      "stringValue": "",
+      "boolValue": true
+    },
+    {
+      "nameId": "LimeGreenValue",
+      "stringValue": "",
+      "floatValue": 50000.0
+    },
+    {
+      "nameId": "EventItemMaxCap",
+      "stringValue": "",
+      "floatValue": 15.0
+    },
+    {
+      "nameId": "EnergyRefreshTimeInSeconds",
+      "stringValue": "",
+      "floatValue": 900.0
+    },
+    {
+      "nameId": "EnableFriendLeaderboards",
+      "stringValue": "",
+      "boolValue": true
+    },
+    {
+      "nameId": "BonusPercentByBossRewardVideo",
+      "stringValue": "",
+      "floatValue": 100.0
+    },
+    {
+      "nameId": "RerollChestCostMax",
+      "stringValue": "",
+      "floatValue": 320.0
+    },
+    {
+      "nameId": "RerollChestCostIncrease",
+      "stringValue": "",
+      "floatlistValue": [
+        10.0,
+        20.0,
+        40.0,
+        80.0,
+        160.0,
+        320.0
+      ]
+    },
+    {
+      "nameId": "RerollChestRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "lucky_coin",
+        "value": 10.0
+      }
+    },
+    {
+      "nameId": "OneWorldBoss",
+      "stringValue": "",
+      "boolValue": true
+    },
+    {
+      "nameId": "NotificationPopupCooldowns",
+      "stringValue": "",
+      "floatlistValue": [
+        86400.0,
+        172800.0,
+        259200.0,
+        604800.0
+      ]
+    },
+    {
+      "nameId": "RateAppAbortCooldown",
+      "stringValue": "",
+      "floatValue": 172800.0
+    },
+    {
+      "nameId": "HPChunksLowest",
+      "stringValue": "",
+      "floatValue": 100.0
+    },
+    {
+      "nameId": "HPChunksHighest",
+      "stringValue": "",
+      "floatValue": 10000.0
+    },
+    {
+      "nameId": "MaxHPChunks",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "HPChunkSteps",
+      "stringValue": "",
+      "floatValue": 1.67
+    },
+    {
+      "nameId": "PvpMaxPowerlevelDiff",
+      "stringValue": "",
+      "floatValue": 150.0
+    },
+    {
+      "nameId": "RerollPvpObjectivesCostMax",
+      "stringValue": "",
+      "floatValue": 50.0
+    },
+    {
+      "nameId": "RerollPvpObjectivesCostIncrease",
+      "stringValue": "",
+      "floatlistValue": [
+        10.0,
+        20.0,
+        30.0,
+        40.0,
+        50.0
+      ]
+    },
+    {
+      "nameId": "RerollPvpObjectivesRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "PAY_ITEM",
+        "nameId": "lucky_coin",
+        "value": 10.0
+      }
+    },
+    {
+      "nameId": "ObjectivesVideoTimespan",
+      "stringValue": "",
+      "floatValue": 1440.0
+    },
+    {
+      "nameId": "CoinFlipChanceChange",
+      "stringValue": "",
+      "floatValue": 5.0
+    },
+    {
+      "nameId": "CoinFlipChanceMaxChange",
+      "stringValue": "",
+      "floatValue": 4.0
+    },
+    {
+      "nameId": "NumberOfPromotedPlayers",
+      "stringValue": "",
+      "floatValue": 5.0
+    },
+    {
+      "nameId": "MaxPreviewPigsInBps",
+      "stringValue": "",
+      "floatValue": 3.0
+    },
+    {
+      "nameId": "ShowCampButtonIndicatorsRequirement",
+      "stringValue": "",
+      "requirementValue": {
+        "requirementType": "HAVE_BIRD",
+        "nameId": "bird_white",
+        "value": 1.0
+      }
+    },
+    {
+      "nameId": "EventPigPowerlevelModifier",
+      "stringValue": "",
+      "floatValue": 3.0
+    },
+    {
+      "nameId": "AncientEquipmentStatsBoost",
+      "stringValue": "",
+      "floatValue": 10.0
+    },
+    {
+      "nameId": "ActivateEvolutionCrossPromo",
+      "stringValue": ""
+    },
+    {
+      "nameId": "EvolutionAndroidLink",
+      "stringValue": "https://app.adjust.com/ndxpoy"
+    },
+    {
+      "nameId": "EvolutionAppleLink",
+      "stringValue": "https://app.adjust.com/ndxpoy"
+    },
+    {
+      "nameId": "DungeonHardModeRerollCostMultiplicator",
+      "stringValue": "",
+      "floatValue": 2.0
+    },
+    {
+      "nameId": "BossHardModeRerollCostMultiplicator",
+      "stringValue": "",
+      "floatValue": 2.0
+    },
+    {
+      "nameId": "CinemaNodeVideoTimeSpan",
+      "stringValue": "",
+      "floatValue": 86400.0
+    },
+    {
+      "nameId": "EnableGDPR",
+      "stringValue": "",
+      "boolValue": true
+    },
+    {
+      "nameId": "ActivateShopSunset",
+      "stringValue": ""
+    },
+    {
+      "nameId": "ActivateArenaSunset",
+      "stringValue": ""
+    }
+  ]
+}

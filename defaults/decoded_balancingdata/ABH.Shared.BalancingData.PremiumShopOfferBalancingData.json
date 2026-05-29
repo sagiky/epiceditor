@@ -1,0 +1,1675 @@
+{
+  "basicShopOfferData": [
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 100
+      },
+      "sortPriority": 1,
+      "slotId": 2,
+      "category": "none",
+      "nameId": "offer_lucky_coins_1",
+      "assetId": "ShopOffer_LuckyCoins_1",
+      "locaId": "offer_lucky_coins_01",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 2,
+      "offerContents": {
+        "lucky_coin": 220
+      },
+      "sortPriority": 1,
+      "slotId": 4,
+      "category": "shop_global_premium",
+      "nameId": "offer_lucky_coins_2",
+      "assetId": "ShopOffer_LuckyCoins_2",
+      "locaId": "offer_lucky_coins_02",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 9.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 3,
+      "offerContents": {
+        "lucky_coin": 500
+      },
+      "sortPriority": 1,
+      "slotId": 5,
+      "category": "shop_global_premium",
+      "nameId": "offer_lucky_coins_3",
+      "assetId": "ShopOffer_LuckyCoins_3",
+      "locaId": "offer_lucky_coins_03",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 19.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 4,
+      "offerContents": {
+        "lucky_coin": 1400
+      },
+      "sortPriority": 1,
+      "slotId": 6,
+      "category": "shop_global_premium",
+      "nameId": "offer_lucky_coins_4",
+      "assetId": "ShopOffer_LuckyCoins_5",
+      "locaId": "offer_lucky_coins_04",
+      "atlasNameId": "ShopAndSocialElements",
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 49.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 5,
+      "offerContents": {
+        "lucky_coin": 3350
+      },
+      "sortPriority": 1,
+      "slotId": 7,
+      "category": "shop_global_premium",
+      "nameId": "offer_lucky_coins_5",
+      "assetId": "ShopOffer_LuckyCoins_6",
+      "locaId": "offer_lucky_coins_05",
+      "atlasNameId": "ShopAndSocialElements",
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 99.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 5
+      },
+      "sortPriority": 1,
+      "slotId": 2,
+      "category": "none",
+      "nameId": "offer_lucky_coins_cs",
+      "assetId": "ShopOffer_LuckyCoins_1",
+      "locaId": "offer_lucky_coins_01",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 5
+      },
+      "sortPriority": 1,
+      "slotId": 2,
+      "category": "none",
+      "nameId": "offer_lucky_coins_cs_5",
+      "assetId": "ShopOffer_LuckyCoins_1",
+      "locaId": "offer_lucky_coins_01",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 100
+      },
+      "sortPriority": 1,
+      "slotId": 2,
+      "category": "none",
+      "nameId": "offer_lucky_coins_1a",
+      "assetId": "ShopOffer_LuckyCoins_1",
+      "locaId": "offer_lucky_coins_01",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 2,
+      "offerContents": {
+        "lucky_coin": 100
+      },
+      "sortPriority": 1,
+      "slotId": 3,
+      "category": "shop_global_premium",
+      "nameId": "offer_lucky_coins_2a",
+      "assetId": "ShopOffer_LuckyCoins_1",
+      "locaId": "offer_lucky_coins_01",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 4.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 3,
+      "offerContents": {
+        "lucky_coin": 500
+      },
+      "sortPriority": 1,
+      "slotId": 4,
+      "category": "none",
+      "nameId": "offer_lucky_coins_3a",
+      "assetId": "ShopOffer_LuckyCoins_3",
+      "locaId": "offer_lucky_coins_03",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 4,
+      "offerContents": {
+        "lucky_coin": 1350
+      },
+      "sortPriority": 1,
+      "slotId": 5,
+      "category": "none",
+      "nameId": "offer_lucky_coins_4a",
+      "assetId": "ShopOffer_LuckyCoins_4",
+      "locaId": "offer_lucky_coins_04",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 5,
+      "offerContents": {
+        "lucky_coin": 3000
+      },
+      "sortPriority": 1,
+      "slotId": 6,
+      "category": "none",
+      "nameId": "offer_lucky_coins_5a",
+      "assetId": "ShopOffer_LuckyCoins_5",
+      "locaId": "offer_lucky_coins_05",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 15
+      },
+      "sortPriority": 1,
+      "slotId": 2,
+      "category": "none",
+      "nameId": "offer_lucky_coins_0",
+      "assetId": "ShopOffer_LuckyCoins_1",
+      "locaId": "offer_lucky_coins_00",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 2,
+      "offerContents": {
+        "lucky_coin": 60
+      },
+      "sortPriority": 1,
+      "slotId": 3,
+      "category": "shop_global_premium_gacha_shortcut",
+      "nameId": "offer_lucky_coins_1b",
+      "assetId": "ShopOffer_LuckyCoins_2",
+      "locaId": "offer_lucky_coins_01",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 3,
+      "offerContents": {
+        "lucky_coin": 200
+      },
+      "sortPriority": 1,
+      "slotId": 5,
+      "category": "none",
+      "nameId": "offer_lucky_coins_2b",
+      "assetId": "ShopOffer_LuckyCoins_3",
+      "locaId": "offer_lucky_coins_02",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 4,
+      "offerContents": {
+        "lucky_coin": 450
+      },
+      "sortPriority": 1,
+      "slotId": 6,
+      "category": "none",
+      "nameId": "offer_lucky_coins_3b",
+      "assetId": "ShopOffer_LuckyCoins_4",
+      "locaId": "offer_lucky_coins_03",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 5,
+      "offerContents": {
+        "lucky_coin": 1250
+      },
+      "sortPriority": 1,
+      "slotId": 7,
+      "category": "none",
+      "nameId": "offer_lucky_coins_4b",
+      "assetId": "ShopOffer_LuckyCoins_5",
+      "locaId": "offer_lucky_coins_04",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 6,
+      "offerContents": {
+        "lucky_coin": 3000
+      },
+      "sortPriority": 1,
+      "slotId": 8,
+      "category": "none",
+      "nameId": "offer_lucky_coins_5b",
+      "assetId": "ShopOffer_LuckyCoins_6",
+      "locaId": "offer_lucky_coins_05",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 4,
+      "offerContents": {
+        "lucky_coin": 1400
+      },
+      "sortPriority": 1,
+      "slotId": 6,
+      "category": "none",
+      "nameId": "offer_lucky_coins_bf1",
+      "assetId": "ShopOffer_LuckyCoins_5",
+      "locaId": "offer_lucky_coins_04",
+      "atlasNameId": "ShopAndSocialElements",
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 5,
+      "offerContents": {
+        "lucky_coin": 3350
+      },
+      "sortPriority": 1,
+      "slotId": 7,
+      "category": "none",
+      "nameId": "offer_lucky_coins_bf2",
+      "assetId": "ShopOffer_LuckyCoins_6",
+      "locaId": "offer_lucky_coins_05",
+      "atlasNameId": "ShopAndSocialElements",
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 15
+      },
+      "sortPriority": 1,
+      "slotId": 2,
+      "category": "none",
+      "nameId": "offer_lucky_coins_0_discount",
+      "assetId": "ShopOffer_LuckyCoins_1",
+      "locaId": "offer_lucky_coins_00",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 2,
+      "offerContents": {
+        "lucky_coin": 60
+      },
+      "sortPriority": 1,
+      "slotId": 3,
+      "category": "none",
+      "nameId": "offer_lucky_coins_1b_discount",
+      "assetId": "ShopOffer_LuckyCoins_2",
+      "locaId": "offer_lucky_coins_01",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 3,
+      "offerContents": {
+        "lucky_coin": 200
+      },
+      "sortPriority": 1,
+      "slotId": 5,
+      "category": "none",
+      "nameId": "offer_lucky_coins_2b_discount",
+      "assetId": "ShopOffer_LuckyCoins_3",
+      "locaId": "offer_lucky_coins_02",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 4,
+      "offerContents": {
+        "lucky_coin": 450
+      },
+      "sortPriority": 1,
+      "slotId": 6,
+      "category": "none",
+      "nameId": "offer_lucky_coins_3b_discount",
+      "assetId": "ShopOffer_LuckyCoins_4",
+      "locaId": "offer_lucky_coins_03",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 5,
+      "offerContents": {
+        "lucky_coin": 1250
+      },
+      "sortPriority": 1,
+      "slotId": 7,
+      "category": "none",
+      "nameId": "offer_lucky_coins_4b_discount",
+      "assetId": "ShopOffer_LuckyCoins_5",
+      "locaId": "offer_lucky_coins_04",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 6,
+      "offerContents": {
+        "lucky_coin": 3000
+      },
+      "sortPriority": 1,
+      "slotId": 8,
+      "category": "none",
+      "nameId": "offer_lucky_coins_5b_discount",
+      "assetId": "ShopOffer_LuckyCoins_6",
+      "locaId": "offer_lucky_coins_05",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 7,
+      "offerContents": {
+        "lucky_coin": 85
+      },
+      "sortPriority": 1,
+      "slotId": 4,
+      "category": "none",
+      "nameId": "offer_lucky_coins_charity_RoomToRead",
+      "assetId": "ShopOffer_LuckyCoins_3",
+      "locaId": "offer_lucky_coins_roomtoread",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 7,
+      "offerContents": {
+        "lucky_coin": 750
+      },
+      "sortPriority": 1,
+      "slotId": 5,
+      "category": "none",
+      "nameId": "offer_lucky_coins_charity_blackfriday",
+      "assetId": "ShopOffer_LuckyCoins_3",
+      "locaId": "offer_lucky_coins_blackfriday",
+      "atlasNameId": "ShopAndSocialElements",
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "unlock_skins": 1,
+        "skin_eliteknight": 1,
+        "lucky_coin": 100,
+        "gold": 1500
+      },
+      "sortPriority": 1,
+      "slotId": 1,
+      "category": "shop_global_specials",
+      "nameId": "offer_starter_bundle_01",
+      "assetId": "ShopOffer_ConversionOffer3",
+      "locaId": "offer_starter_bundle_01",
+      "uniqueOffer": true,
+      "atlasNameId": "ShopIconElements",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_016_battleground",
+          "value": 1.0
+        },
+        {
+          "requirementType": "IS_CONVERTED",
+          "nameId": "all"
+        }
+      ],
+      "obsoleteSpecialOfferPrio": 5,
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 2.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "bird_weapon_yellow_staff_set_01": 1,
+        "lucky_coin": 100,
+        "gold": 1500,
+        "friendship_essence": 10
+      },
+      "sortPriority": 1,
+      "slotId": 2,
+      "category": "shop_global_specials",
+      "nameId": "offer_starter_bundle_02",
+      "assetId": "ShopOffer_ConversionOffer2",
+      "locaId": "offer_starter_bundle_02",
+      "uniqueOffer": true,
+      "atlasNameId": "ShopIconElements",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_033_battleground",
+          "value": 1.0
+        },
+        {
+          "requirementType": "IS_CONVERTED",
+          "nameId": "all"
+        }
+      ],
+      "obsoleteSpecialOfferPrio": 5,
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 2.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 200,
+        "gold": 200,
+        "potion_xp_01": 6
+      },
+      "sortPriority": 1,
+      "slotId": 1,
+      "category": "shop_global_premium",
+      "nameId": "offer_perma_xs",
+      "assetId": "",
+      "locaId": "offer_perma",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "showRequirements": [
+        {
+          "requirementType": "IS_CONVERTED",
+          "nameId": "all"
+        }
+      ],
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "sticky": true,
+        "stickyCooldown": 86400.0,
+        "dollarPrice": 5.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 550,
+        "gold": 550,
+        "potion_energy": 28,
+        "unlock_offer_perma_m": 1
+      },
+      "sortPriority": 1,
+      "slotId": 1,
+      "category": "shop_global_premium",
+      "nameId": "offer_perma_s",
+      "assetId": "",
+      "locaId": "offer_perma",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "showRequirements": [
+        {
+          "requirementType": "IS_CONVERTED",
+          "nameId": "all",
+          "value": 1.0
+        }
+      ],
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "sticky": true,
+        "stickyCooldown": 86400.0,
+        "dollarPrice": 15.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 800,
+        "gold": 800,
+        "potion_damage_all_01": 6,
+        "unlock_offer_perma_l": 1
+      },
+      "sortPriority": 1,
+      "slotId": 1,
+      "category": "shop_global_premium",
+      "nameId": "offer_perma_m",
+      "assetId": "",
+      "locaId": "offer_perma",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_ITEM",
+          "nameId": "unlock_offer_perma_m",
+          "value": 1.0
+        }
+      ],
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "sticky": true,
+        "stickyCooldown": 86400.0,
+        "dollarPrice": 24.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 1900,
+        "gold": 1900,
+        "shard": 40,
+        "unlock_offer_perma_xl": 1
+      },
+      "sortPriority": 1,
+      "slotId": 1,
+      "category": "shop_global_premium",
+      "nameId": "offer_perma_l",
+      "assetId": "",
+      "locaId": "offer_perma",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_ITEM",
+          "nameId": "unlock_offer_perma_l",
+          "value": 1.0
+        }
+      ],
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "sticky": true,
+        "stickyCooldown": 86400.0,
+        "dollarPrice": 54.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 3200,
+        "gold": 3200,
+        "potion_energy": 70,
+        "unlock_offer_perma_xxl": 1
+      },
+      "sortPriority": 1,
+      "slotId": 1,
+      "category": "shop_global_premium",
+      "nameId": "offer_perma_xl",
+      "assetId": "",
+      "locaId": "offer_perma",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_ITEM",
+          "nameId": "unlock_offer_perma_xl",
+          "value": 1.0
+        }
+      ],
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "sticky": true,
+        "stickyCooldown": 172800.0,
+        "dollarPrice": 74.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "lucky_coin": 4500,
+        "gold": 4500,
+        "shard": 60,
+        "unlock_offer_perma_xxl": 1
+      },
+      "sortPriority": 1,
+      "slotId": 1,
+      "category": "shop_global_premium",
+      "nameId": "offer_perma_xxl",
+      "assetId": "",
+      "locaId": "offer_perma",
+      "atlasNameId": "",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_ITEM",
+          "nameId": "unlock_offer_perma_xxl",
+          "value": 1.0
+        },
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_offer_perma_xxl",
+          "value": 6.0
+        }
+      ],
+      "obsoleteSpecialOfferPrio": 1,
+      "PremiumShopOfferBalancingData": {
+        "sticky": true,
+        "stickyCooldown": 172800.0,
+        "dollarPrice": 99.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 25000,
+        "shard": 250
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_dojo_unlock_1",
+      "assetId": "Mastery_AllBirds_Shards",
+      "locaId": "offer_dojo_unlock",
+      "uniqueOffer": true,
+      "atlasNameId": "PrivateBundleSale_01",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 29.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_banner_tip_chest": 1,
+        "gold": 2250
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_arena_unlock_1_1",
+      "assetId": "",
+      "locaId": "chest_set_item_banner",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 2.99,
+        "prefabId": "SetItemChest_Banner_Snoutlings",
+        "prefabMiniId": "SetItemChest_Banner",
+        "resultChestId": "SetItemChest_Banner_Large",
+        "bannerLoca": "offer_value_4"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_chest": 1,
+        "lucky_coin": 200
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_arena_unlock_1_2",
+      "assetId": "",
+      "locaId": "elitechest00",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 4.99,
+        "prefabId": "ClassChest_LuckyCoins",
+        "prefabMiniId": "ClassChest",
+        "resultChestId": "ClassChest_Large",
+        "bannerLoca": "offer_value_4"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "bird_weapon_chest_all": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_arena_unlock_1_3",
+      "assetId": "",
+      "locaId": "chest_set_item_all",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "SetItemChest_Generic",
+        "prefabMiniId": "SetItemChest_Generic",
+        "resultChestId": "SetItemChest_Generic_Large",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_banner_tip_chest": 1,
+        "gold": 2250,
+        "unlock_arenaoffer": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_arena_unlock_2_1",
+      "assetId": "",
+      "locaId": "chest_set_item_banner",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 3.99,
+        "prefabId": "SetItemChest_Banner_Snoutlings",
+        "prefabMiniId": "SetItemChest_Banner",
+        "resultChestId": "SetItemChest_Banner_Large",
+        "bannerLoca": "offer_value_4"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_chest": 1,
+        "lucky_coin": 200,
+        "unlock_arenaoffer": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_arena_unlock_2_2",
+      "assetId": "",
+      "locaId": "elitechest00",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 6.99,
+        "prefabId": "ClassChest_LuckyCoins",
+        "prefabMiniId": "ClassChest",
+        "resultChestId": "ClassChest_Large",
+        "bannerLoca": "offer_value_2"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "bird_weapon_chest_all": 1,
+        "unlock_arenaoffer": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_arena_unlock_2_3",
+      "assetId": "",
+      "locaId": "chest_set_item_all",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "SetItemChest_Generic",
+        "prefabMiniId": "SetItemChest_Generic",
+        "resultChestId": "SetItemChest_Generic_Large",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_chest": 1,
+        "gold": 4500
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_campaign_end_1_1",
+      "assetId": "",
+      "locaId": "elitechest00",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 6.99,
+        "prefabId": "ClassChest_Snoutlings",
+        "prefabMiniId": "ClassChest",
+        "resultChestId": "ClassChest_Large",
+        "bannerLoca": "offer_value_4"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_skins_chest": 1,
+        "lucky_coin": 750
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_campaign_end_1_2",
+      "assetId": "",
+      "locaId": "elitechest01",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 11.99,
+        "prefabId": "EliteChest_LuckyCoins",
+        "prefabMiniId": "EliteChest",
+        "resultChestId": "EliteChest_Large",
+        "bannerLoca": "offer_value_3"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "bird_weapon_chest_all": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_special_campaign_end_1_3",
+      "assetId": "",
+      "locaId": "chest_set_item_all",
+      "uniqueOffer": true,
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "SetItemChest_Generic",
+        "prefabMiniId": "SetItemChest_Generic",
+        "resultChestId": "SetItemChest_Generic_Large",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "skin_eliteknight": 1,
+        "lucky_coin": 100,
+        "gold": 1500,
+        "unlock_skins": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_starter_class_1",
+      "assetId": "ConversionOffer_1",
+      "locaId": "offer_starter_bundle_01",
+      "uniqueOffer": true,
+      "atlasNameId": "PrivateBundleSale_01",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 5.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "skin_eliteguardian": 1,
+        "lucky_coin": 100,
+        "gold": 1500,
+        "friendship_essence": 10,
+        "unlock_skins": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_starter_class_2",
+      "assetId": "ConversionOffer_2",
+      "locaId": "offer_starter_bundle_01",
+      "uniqueOffer": true,
+      "atlasNameId": "PrivateBundleSale_01",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 4.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_skins_chest": 1,
+        "bird_weapon_chest_red_01": 1,
+        "lucky_coin": 100,
+        "gold": 1500,
+        "unlock_skins": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_starter_class_3",
+      "assetId": "ConversionOffer_3",
+      "locaId": "offer_starter_bundle_01",
+      "uniqueOffer": true,
+      "atlasNameId": "PrivateBundleSale_01",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 3.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_skins_chest": 1,
+        "bird_weapon_chest_red_01": 1,
+        "lucky_coin": 250,
+        "gold": 2500,
+        "unlock_skins": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_starter_class_4",
+      "assetId": "ConversionOffer_3",
+      "locaId": "offer_starter_bundle_01",
+      "uniqueOffer": true,
+      "atlasNameId": "PrivateBundleSale_01",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 2.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_skins_chest": 1,
+        "bird_weapon_chest_red_01": 1,
+        "lucky_coin": 250,
+        "gold": 2500
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_starter_class_5",
+      "assetId": "ConversionOffer_3",
+      "locaId": "offer_starter_bundle_02",
+      "uniqueOffer": true,
+      "atlasNameId": "PrivateBundleSale_01",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 2.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_chest": 1,
+        "lucky_coin": 200
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_chest_endless_1_1",
+      "assetId": "",
+      "locaId": "elitechest00",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 9.99,
+        "prefabId": "ClassChest_LuckyCoins",
+        "prefabMiniId": "ClassChest",
+        "resultChestId": "ClassChest_Large",
+        "bannerLoca": "offer_value_2"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_skins_chest": 1,
+        "lucky_coin": 700
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_chest_endless_1_2",
+      "assetId": "",
+      "locaId": "elitechest01",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 14.99,
+        "prefabId": "EliteChest_LuckyCoins",
+        "prefabMiniId": "EliteChest",
+        "resultChestId": "EliteChest_Large",
+        "bannerLoca": "offer_value_2"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "bird_ancient_weapon_chest_all": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_chest_endless_1_3",
+      "assetId": "",
+      "locaId": "chest_set_item_all",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "SetItemChest_Ancient",
+        "prefabMiniId": "SetItemChest_Ancient",
+        "resultChestId": "SetItemChest_Ancient_Large",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "bird_weapon_chest_all": 1,
+        "lucky_coin": 200
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_chest_endless_2_1",
+      "assetId": "",
+      "locaId": "chest_set_item_all",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 5.99,
+        "prefabId": "SetItemChest_Generic_LuckyCoins",
+        "prefabMiniId": "SetItemChest_Generic",
+        "resultChestId": "SetItemChest_Generic_Large",
+        "bannerLoca": "offer_value_2"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "loot_classes_skins_chest": 1,
+        "lucky_coin": 250
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_chest_endless_2_2",
+      "assetId": "",
+      "locaId": "elitechest01",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 3.99,
+        "prefabId": "EliteChest_LuckyCoins",
+        "prefabMiniId": "EliteChest",
+        "resultChestId": "EliteChest_Large",
+        "bannerLoca": "offer_value_2"
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "bird_weapon_chest_all": 1
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_chest_endless_2_3",
+      "assetId": "",
+      "locaId": "chest_set_item_all",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "prefabId": "SetItemChest_Generic",
+        "prefabMiniId": "SetItemChest_Generic",
+        "resultChestId": "SetItemChest_Generic_Large",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 1250,
+        "potion_xp_01": 5,
+        "potion_damage_all_01": 3
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_upsell_castle_2",
+      "assetId": "",
+      "locaId": "offer_mastery_castle",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 2.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 1500,
+        "potion_xp_01": 5,
+        "potion_damage_all_01": 3
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_upsell_castle_3",
+      "assetId": "",
+      "locaId": "offer_mastery_castle",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 3.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 2000,
+        "potion_xp_01": 5,
+        "potion_damage_all_01": 3
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_upsell_castle_4",
+      "assetId": "",
+      "locaId": "offer_mastery_castle",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 4.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 2500,
+        "potion_xp_01": 5,
+        "potion_damage_all_01": 3
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_upsell_castle_5",
+      "assetId": "",
+      "locaId": "offer_mastery_castle",
+      "atlasNameId": "",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 5.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 3000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_low_40",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_low",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 3.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 4500
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_low_50",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_low",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 5.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 6500
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_low_60",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_low",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 8.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 6500
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_high_30",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_high",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 12.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 12000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_high_40",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_high",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 23.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 18000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_high_50",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_high",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 35.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 22500
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_high_60",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_high",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 49.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 30000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_high_70",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_high",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 59.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 35000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_high_80",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_high",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 69.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 3000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_bomb_s",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_bomb",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 2.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 4500
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_bomb_m",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_bomb",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 4.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 6500
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_bomb_l",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_bomb",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 6.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 9000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_bomb_xl",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_bomb",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 9.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 15000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_bomb_xxl_all",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_bomb",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 16.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    },
+    {
+      "level": 1,
+      "offerContents": {
+        "mastery_all": 12000
+      },
+      "sortPriority": 1,
+      "category": "popup_only",
+      "nameId": "offer_mastery_bomb_xxl_npu",
+      "assetId": "Mastery_AllBirds",
+      "locaId": "offer_mastery_bomb",
+      "atlasNameId": "PrivateBundleSale_02",
+      "hideUnlessOnSale": true,
+      "PremiumShopOfferBalancingData": {
+        "dollarPrice": 9.99,
+        "prefabId": "",
+        "prefabMiniId": "",
+        "resultChestId": "",
+        "bannerLoca": ""
+      }
+    }
+  ]
+}

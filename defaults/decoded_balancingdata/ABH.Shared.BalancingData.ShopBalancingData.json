@@ -1,0 +1,668 @@
+{
+  "shopData": [
+    {
+      "nameId": "workshop_001",
+      "slots": 2,
+      "categories": [
+        "shop_01_offhand_red",
+        "shop_01_offhand_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_002",
+      "slots": 2,
+      "categories": [
+        "shop_02_weapon_red",
+        "shop_02_weapon_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_003",
+      "slots": 3,
+      "categories": [
+        "shop_03_offhand_black",
+        "shop_03_weapon_yellow",
+        "shop_03_weapon_red"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_004",
+      "slots": 3,
+      "categories": [
+        "shop_04_offhand_yellow",
+        "shop_04_offhand_white",
+        "shop_04_offhand_red"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_005",
+      "slots": 3,
+      "categories": [
+        "shop_05_weapon_blue",
+        "shop_05_weapon_black",
+        "shop_05_weapon_white"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_006",
+      "slots": 3,
+      "categories": [
+        "shop_06_weapon_yellow",
+        "shop_06_offhand_blue",
+        "shop_06_weapon_red"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_007",
+      "slots": 3,
+      "categories": [
+        "shop_07_offhand_white",
+        "shop_07_offhand_red",
+        "shop_07_offhand_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_008",
+      "slots": 3,
+      "categories": [
+        "shop_08_weapon_blue",
+        "shop_08_offhand_blue",
+        "shop_08_weapon_white"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_009",
+      "slots": 2,
+      "categories": [
+        "shop_09_weapon_yellow",
+        "shop_09_weapon_black"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_010",
+      "slots": 3,
+      "categories": [
+        "shop_10_offhand_red",
+        "shop_10_offhand_yellow",
+        "shop_10_offhand_white"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_011",
+      "slots": 3,
+      "categories": [
+        "shop_11_offhand_black",
+        "shop_11_weapon_red",
+        "shop_11_weapon_blue"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_012",
+      "slots": 3,
+      "categories": [
+        "shop_12_weapon_black",
+        "shop_12_weapon_white",
+        "shop_12_weapon_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_013",
+      "slots": 2,
+      "categories": [
+        "shop_13_weapon_red",
+        "shop_13_offhand_red"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_014",
+      "slots": 3,
+      "categories": [
+        "shop_14_weapon_white",
+        "shop_14_offhand_blue",
+        "shop_14_offhand_black"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_015",
+      "slots": 3,
+      "categories": [
+        "shop_15_weapon_blue",
+        "shop_15_weapon_black",
+        "shop_15_weapon_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "workshop_016",
+      "slots": 3,
+      "categories": [
+        "shop_16_weapon_red",
+        "shop_16_offhand_blue",
+        "shop_16_offhand_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_001",
+      "slots": 2,
+      "categories": [
+        "shop_trainer_01_red",
+        "shop_trainer_01_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_002",
+      "slots": 2,
+      "categories": [
+        "shop_trainer_02_red",
+        "shop_trainer_02_white"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_003",
+      "slots": 2,
+      "categories": [
+        "shop_trainer_03_yellow",
+        "shop_trainer_03_blue"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_004",
+      "slots": 1,
+      "categories": [
+        "shop_trainer_04_black"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_005",
+      "slots": 2,
+      "categories": [
+        "shop_trainer_05_white",
+        "shop_trainer_05_red"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_006",
+      "slots": 1,
+      "categories": [
+        "shop_trainer_06_blue"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_007",
+      "slots": 2,
+      "categories": [
+        "shop_trainer_07_blue",
+        "shop_trainer_07_white"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_008",
+      "slots": 2,
+      "categories": [
+        "shop_trainer_08_yellow",
+        "shop_trainer_08_black"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_009",
+      "slots": 3,
+      "categories": [
+        "shop_trainer_09_black",
+        "shop_trainer_09_white",
+        "shop_trainer_09_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_010",
+      "slots": 2,
+      "categories": [
+        "shop_trainer_10_blue",
+        "shop_trainer_10_black"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_011",
+      "slots": 1,
+      "categories": [
+        "shop_trainer_11_yellow"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "trainer_012",
+      "slots": 2,
+      "categories": [
+        "shop_trainer_12_white",
+        "shop_trainer_12_black"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "dojo_001",
+      "slots": 40,
+      "categories": [
+        "shop_dojo_mastery"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "piglab_001",
+      "slots": 3,
+      "categories": [
+        "shop_01_potions"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_premium",
+      "slots": 20,
+      "categories": [
+        "shop_global_premium",
+        "shop_global_premium_gacha_shortcut",
+        "shop_global_premium_soft"
+      ],
+      "assetId": "ShopCategory_Currencies",
+      "locaId": "shop_premium",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_premium_gacha_shortcut",
+      "slots": 1,
+      "categories": [
+        "shop_global_premium_gacha_shortcut"
+      ],
+      "assetId": "ShopCategory_Currencies",
+      "locaId": "shop_premium",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_global_consumables",
+      "slots": 20,
+      "categories": [
+        "global_shop_01_potions"
+      ],
+      "assetId": "ShopCategory_Consumables",
+      "locaId": "shop_global_consumables",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_global_specials",
+      "slots": 3,
+      "categories": [
+        "shop_global_specials"
+      ],
+      "assetId": "ShopCategory_Specials",
+      "locaId": "shop_global_specials",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_global_classes",
+      "slots": 5,
+      "categories": [
+        "shop_global_classes"
+      ],
+      "assetId": "ShopCategory_Classes",
+      "locaId": "shop_global_classes",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_arena_premium",
+      "slots": 20,
+      "categories": [
+        "shop_global_premium",
+        "shop_global_premium_gacha_shortcut",
+        "shop_global_premium_soft",
+        "shop_global_premium_arena"
+      ],
+      "assetId": "ShopCategory_Currencies",
+      "locaId": "shop_premium",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_global_banner_tips",
+      "slots": 60,
+      "categories": [
+        "shop_global_banner_tips"
+      ],
+      "assetId": "ShopCategory_Tips",
+      "locaId": "shop_global_tips",
+      "atlasId": "ArenaShopElements"
+    },
+    {
+      "nameId": "shop_global_banner_banners",
+      "slots": 60,
+      "categories": [
+        "shop_global_banner_banners"
+      ],
+      "assetId": "ShopCategory_Flags",
+      "locaId": "shop_global_banners",
+      "atlasId": "ArenaShopElements"
+    },
+    {
+      "nameId": "shop_global_banner_emblems",
+      "slots": 60,
+      "categories": [
+        "shop_global_banner_emblems"
+      ],
+      "assetId": "ShopCategory_Emblems",
+      "locaId": "shop_global_emblems",
+      "atlasId": "ArenaShopElements"
+    },
+    {
+      "nameId": "shop_global_instant_buy_items",
+      "slots": 40,
+      "categories": [
+        "shop_global_instant_buy_ingredients",
+        "shop_global_instant_buy_resources"
+      ],
+      "assetId": "ShopCategory_Instant_Buy_Items",
+      "locaId": "shop_global_instant_buy_items",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_global_pvp_energy",
+      "slots": 1,
+      "categories": [
+        "global_shop_pvp_energy"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "gacha",
+      "slots": 1,
+      "categories": [
+        "gacha",
+        "gacha_set"
+      ],
+      "assetId": "gacha_golden_pig_machine",
+      "locaId": "gacha",
+      "atlasId": ""
+    },
+    {
+      "nameId": "adv_gacha",
+      "slots": 1,
+      "categories": [
+        "adv_gacha",
+        "gacha_set"
+      ],
+      "assetId": "gacha_golden_pig_machine",
+      "locaId": "adv_gacha",
+      "atlasId": ""
+    },
+    {
+      "nameId": "gacha_high",
+      "slots": 1,
+      "categories": [
+        "gacha_high",
+        "gacha_high_set"
+      ],
+      "assetId": "gacha_golden_pig_machine",
+      "locaId": "gacha_high",
+      "atlasId": ""
+    },
+    {
+      "nameId": "adv_gacha_high",
+      "slots": 1,
+      "categories": [
+        "adv_gacha_high",
+        "adv_gacha_high_set"
+      ],
+      "assetId": "gacha_golden_pig_machine",
+      "locaId": "adv_gacha_high",
+      "atlasId": ""
+    },
+    {
+      "nameId": "friend_gate",
+      "slots": 1,
+      "categories": [
+        "friend_gate"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_all_worldshops",
+      "categories": [
+        "shop_01_weapon_yellow",
+        "shop_01_offhand_red",
+        "shop_01_offhand_yellow",
+        "shop_02_offhand_yellow",
+        "shop_02_weapon_white",
+        "shop_02_weapon_red",
+        "shop_03_offhand_black",
+        "shop_03_weapon_yellow",
+        "shop_03_offhand_white",
+        "shop_04_weapon_black",
+        "shop_04_offhand_white",
+        "shop_04_offhand_black",
+        "shop_05_weapon_red",
+        "shop_05_offhand_yellow",
+        "shop_05_weapon_white",
+        "shop_06_weapon_yellow",
+        "shop_06_offhand_blue",
+        "shop_06_weapon_blue",
+        "shop_07_offhand_white",
+        "shop_07_offhand_red",
+        "shop_07_offhand_blue",
+        "shop_08_weapon_blue",
+        "shop_08_offhand_black",
+        "shop_08_weapon_yellow",
+        "shop_09_weapon_red",
+        "shop_09_weapon_white",
+        "shop_09_weapon_black",
+        "shop_10_weapon_black",
+        "shop_10_weapon_blue",
+        "shop_10_offhand_red",
+        "shop_11_offhand_blue",
+        "shop_11_offhand_yellow",
+        "shop_11_weapon_white",
+        "shop_12_weapon_red",
+        "shop_12_offhand_black",
+        "shop_12_weapon_yellow",
+        "shop_trainer_01_red",
+        "shop_trainer_01_yellow",
+        "shop_trainer_02_white",
+        "shop_trainer_02_black",
+        "shop_trainer_03_red",
+        "shop_trainer_03_blue",
+        "shop_trainer_04_white",
+        "shop_trainer_04_black",
+        "shop_trainer_05_blue",
+        "shop_trainer_06_red",
+        "shop_trainer_06_yellow",
+        "shop_trainer_06_black",
+        "shop_trainer_07_yellow",
+        "shop_trainer_07_blue",
+        "shop_trainer_08_white",
+        "shop_trainer_09_white",
+        "shop_trainer_09_black",
+        "shop_01_potions"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "gacha_preview",
+      "slots": 1,
+      "categories": [
+        "gacha_preview"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "gacha_preview_set",
+      "slots": 1,
+      "categories": [
+        "gacha_preview_set"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "shop_star_rewards",
+      "slots": 4,
+      "categories": [
+        "star_rewards"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "pvp_gacha",
+      "slots": 1,
+      "categories": [
+        "pvpgacha",
+        "pvpgacha_set"
+      ],
+      "assetId": "gacha_golden_pig_machine",
+      "locaId": "pvp_gacha",
+      "atlasId": ""
+    },
+    {
+      "nameId": "pvp_adv_gacha",
+      "slots": 1,
+      "categories": [
+        "pvpadvgacha",
+        "pvpgacha_set"
+      ],
+      "assetId": "gacha_golden_pig_machine",
+      "locaId": "pvp_gacha",
+      "atlasId": ""
+    },
+    {
+      "nameId": "pvp_gacha_high",
+      "slots": 1,
+      "categories": [
+        "pvpgacha_high",
+        "pvpgacha_high_set"
+      ],
+      "assetId": "gacha_golden_pig_machine",
+      "locaId": "pvp_gacha_high",
+      "atlasId": ""
+    },
+    {
+      "nameId": "pvp_adv_gacha_high",
+      "slots": 1,
+      "categories": [
+        "pvpadvgacha_high",
+        "pvpadvgacha_high_set"
+      ],
+      "assetId": "gacha_golden_pig_machine",
+      "locaId": "pvp_gacha",
+      "atlasId": ""
+    },
+    {
+      "nameId": "pvp_gacha_preview",
+      "slots": 1,
+      "categories": [
+        "pvpgacha_preview"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    },
+    {
+      "nameId": "pvp_gacha_preview_set",
+      "slots": 1,
+      "categories": [
+        "pvpgacha_preview_set"
+      ],
+      "assetId": "",
+      "locaId": "",
+      "atlasId": ""
+    }
+  ]
+}

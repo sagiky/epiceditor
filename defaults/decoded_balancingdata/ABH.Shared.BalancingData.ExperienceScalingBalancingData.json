@@ -1,0 +1,144 @@
+{
+  "experienceScalingData": [
+    {
+      "nameId": "Minus80",
+      "difference": -80.0,
+      "xpModifier": 2.0
+    },
+    {
+      "nameId": "Minus70",
+      "difference": -70.0,
+      "xpModifier": 5.0
+    },
+    {
+      "nameId": "Minus60",
+      "difference": -60.0,
+      "xpModifier": 10.0
+    },
+    {
+      "nameId": "Minus50",
+      "difference": -50.0,
+      "xpModifier": 15.0
+    },
+    {
+      "nameId": "Minus40",
+      "difference": -40.0,
+      "xpModifier": 25.0
+    },
+    {
+      "nameId": "Minus30",
+      "difference": -30.0,
+      "xpModifier": 35.0
+    },
+    {
+      "nameId": "Minus25",
+      "difference": -25.0,
+      "xpModifier": 45.0
+    },
+    {
+      "nameId": "Minus20",
+      "difference": -20.0,
+      "xpModifier": 55.0
+    },
+    {
+      "nameId": "Minus15",
+      "difference": -15.0,
+      "xpModifier": 65.0
+    },
+    {
+      "nameId": "Minus10",
+      "difference": -10.0,
+      "xpModifier": 75.0
+    },
+    {
+      "nameId": "Minus8",
+      "difference": -8.0,
+      "xpModifier": 80.0
+    },
+    {
+      "nameId": "Minus6",
+      "difference": -6.0,
+      "xpModifier": 85.0
+    },
+    {
+      "nameId": "Minus4",
+      "difference": -4.0,
+      "xpModifier": 90.0
+    },
+    {
+      "nameId": "Minus2",
+      "difference": -2.0,
+      "xpModifier": 95.0
+    },
+    {
+      "nameId": "Plus2",
+      "difference": 2.0,
+      "xpModifier": 105.0
+    },
+    {
+      "nameId": "Plus4",
+      "difference": 4.0,
+      "xpModifier": 115.0
+    },
+    {
+      "nameId": "Plus6",
+      "difference": 6.0,
+      "xpModifier": 125.0
+    },
+    {
+      "nameId": "Plus8",
+      "difference": 8.0,
+      "xpModifier": 150.0
+    },
+    {
+      "nameId": "Plus10",
+      "difference": 10.0,
+      "xpModifier": 200.0
+    },
+    {
+      "nameId": "Plus15",
+      "difference": 15.0,
+      "xpModifier": 250.0
+    },
+    {
+      "nameId": "Plus20",
+      "difference": 20.0,
+      "xpModifier": 300.0
+    },
+    {
+      "nameId": "Plus25",
+      "difference": 25.0,
+      "xpModifier": 350.0
+    },
+    {
+      "nameId": "Plus30",
+      "difference": 30.0,
+      "xpModifier": 400.0
+    },
+    {
+      "nameId": "Plus40",
+      "difference": 40.0,
+      "xpModifier": 450.0
+    },
+    {
+      "nameId": "Plus50",
+      "difference": 50.0,
+      "xpModifier": 500.0
+    },
+    {
+      "nameId": "Plus60",
+      "difference": 60.0,
+      "xpModifier": 550.0
+    },
+    {
+      "nameId": "Plus70",
+      "difference": 70.0,
+      "xpModifier": 600.0
+    },
+    {
+      "nameId": "Plus80",
+      "difference": 80.0,
+      "xpModifier": 650.0
+    }
+  ]
+}

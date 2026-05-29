@@ -1,0 +1,931 @@
+{
+  "consumableItemData": [
+    {
+      "nameId": "potion_healing_00",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "BananaJuice",
+      "locaBaseId": "potion_healing_new_00",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 50.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 1,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_01",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "BananaJuice",
+      "locaBaseId": "potion_healing_new_01",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 75.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 1,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_02",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "SeaBerryJuice",
+      "locaBaseId": "potion_healing_new_02",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 150.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 2,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_03",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "SeaBerryJuice",
+      "locaBaseId": "potion_healing_new_03",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 600.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 2,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_04",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "SeaBerryJuice",
+      "locaBaseId": "potion_healing_new_04",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 825.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 2,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_05",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "SnowAppleJuice",
+      "locaBaseId": "potion_healing_new_05",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 975.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 3,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_06",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "SnowAppleJuice",
+      "locaBaseId": "potion_healing_06",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1200.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 3,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_07",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuice",
+      "locaBaseId": "potion_healing_07",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1425.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 4,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_08",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuice",
+      "locaBaseId": "potion_healing_08",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1650.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 4,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_09",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuice",
+      "locaBaseId": "potion_healing_09",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1875.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 4,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_10",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuice",
+      "locaBaseId": "potion_healing_10",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2100.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 4,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_11",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuice",
+      "locaBaseId": "potion_healing_11",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2325.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 4,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_12",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuice",
+      "locaBaseId": "potion_healing_12",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2550.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 4,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_13",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced",
+      "locaBaseId": "potion_healing_13",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2775.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 5,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_14",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced",
+      "locaBaseId": "potion_healing_14",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 3075.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 5,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_15",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced",
+      "locaBaseId": "potion_healing_15",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 3300.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 5,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_16",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced",
+      "locaBaseId": "potion_healing_16",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 3525.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 5,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_17",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced",
+      "locaBaseId": "potion_healing_17",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 3750.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 5,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_18",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced",
+      "locaBaseId": "potion_healing_18",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 3975.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 5,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_19",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced02",
+      "locaBaseId": "potion_healing_19",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 4275.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 6,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_20",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced02",
+      "locaBaseId": "potion_healing_20",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 4500.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 6,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_21",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced02",
+      "locaBaseId": "potion_healing_21",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 4725.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 6,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_22",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced02",
+      "locaBaseId": "potion_healing_22",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 4950.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 6,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_23",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced02",
+      "locaBaseId": "potion_healing_23",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 5175.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 6,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_24",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced02",
+      "locaBaseId": "potion_healing_24",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 5450.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 6,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_25",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PigCherriesJuiceAdvanced02",
+      "locaBaseId": "potion_healing_25",
+      "sortPriority": 1,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 5620.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotion",
+      "conversionPoints": 6,
+      "instantBuyOfferCategoryId": "instant_potion_healing_01"
+    },
+    {
+      "nameId": "potion_healing_all_01",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCake",
+      "locaBaseId": "potion_healing_all_new_01",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 200.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 1,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_02",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCake",
+      "locaBaseId": "potion_healing_all_new_02",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 335.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 2,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_03",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCake",
+      "locaBaseId": "potion_healing_all_03",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 500.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 3,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_04",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCake",
+      "locaBaseId": "potion_healing_all_04",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 670.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 4,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_05",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCake",
+      "locaBaseId": "potion_healing_all_05",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 835.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 5,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_06",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCake",
+      "locaBaseId": "potion_healing_all_06",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1000.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 6,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_07",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCake",
+      "locaBaseId": "potion_healing_all_07",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1170.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 7,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_08",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced",
+      "locaBaseId": "potion_healing_all_08",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1335.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 8,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_09",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced",
+      "locaBaseId": "potion_healing_all_09",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1500.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 9,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_10",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced",
+      "locaBaseId": "potion_healing_all_10",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1670.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 10,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_11",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced",
+      "locaBaseId": "potion_healing_all_11",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 1840.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 11,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_12",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced",
+      "locaBaseId": "potion_healing_all_12",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2000.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 12,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_13",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced",
+      "locaBaseId": "potion_healing_all_13",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2170.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 13,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_14",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced",
+      "locaBaseId": "potion_healing_all_14",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2340.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 14,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_15",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced02",
+      "locaBaseId": "potion_healing_all_15",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2500.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 15,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_16",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced02",
+      "locaBaseId": "potion_healing_all_16",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2670.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 15,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_17",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced02",
+      "locaBaseId": "potion_healing_all_17",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 2850.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 15,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_18",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced02",
+      "locaBaseId": "potion_healing_all_18",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 3000.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 15,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_19",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced02",
+      "locaBaseId": "potion_healing_all_19",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 3250.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 15,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_healing_all_20",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FruitCakeAdvanced02",
+      "locaBaseId": "potion_healing_all_20",
+      "sortPriority": 3,
+      "skillNameId": "consumable_support_healing",
+      "skillParameters": {
+        "damage_fix": 3355.0,
+        "all": 1.0
+      },
+      "skillParametersDeltaPerLevel": {
+        "damage_fix": 0.0
+      },
+      "consumableStatckingType": "HealingPotionAll",
+      "conversionPoints": 15,
+      "instantBuyOfferCategoryId": "instant_potion_healing_all_01"
+    },
+    {
+      "nameId": "potion_rage_01",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "HotVeggieCake",
+      "locaBaseId": "potion_rage_01",
+      "sortPriority": 2,
+      "skillNameId": "consumable_increase_rage",
+      "skillParameters": {
+        "increase_rage": 25.0
+      },
+      "consumableStatckingType": "RagePotion",
+      "conversionPoints": 1,
+      "instantBuyOfferCategoryId": "instant_potion_rage_01"
+    },
+    {
+      "nameId": "potion_rage_02",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "UltraHotVeggieCake",
+      "locaBaseId": "potion_rage_02",
+      "sortPriority": 2,
+      "skillNameId": "consumable_increase_rage",
+      "skillParameters": {
+        "increase_rage": 50.0
+      },
+      "consumableStatckingType": "RagePotion",
+      "conversionPoints": 2,
+      "instantBuyOfferCategoryId": "instant_potion_rage_01"
+    },
+    {
+      "nameId": "potion_rage_03",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "BurningVeggieCake",
+      "locaBaseId": "potion_rage_03",
+      "sortPriority": 2,
+      "skillNameId": "consumable_increase_rage",
+      "skillParameters": {
+        "increase_rage": 70.0
+      },
+      "consumableStatckingType": "RagePotion",
+      "conversionPoints": 3,
+      "instantBuyOfferCategoryId": "instant_potion_rage_01"
+    },
+    {
+      "nameId": "potion_rage_04",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "InfernalVeggieCake",
+      "locaBaseId": "potion_rage_04",
+      "sortPriority": 2,
+      "skillNameId": "consumable_increase_rage",
+      "skillParameters": {
+        "increase_rage": 90.0
+      },
+      "consumableStatckingType": "RagePotion",
+      "conversionPoints": 3,
+      "instantBuyOfferCategoryId": "instant_potion_rage_01"
+    },
+    {
+      "nameId": "potion_xp_01",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "FlaskOfSmartFeathers",
+      "locaBaseId": "potion_xp_01",
+      "sortPriority": 4,
+      "skillNameId": "consumable_increase_xp_gain",
+      "skillParameters": {
+        "xp_multiplier_consumable_01": 100.0
+      },
+      "consumableStatckingType": "XPPotion",
+      "instantBuyOfferCategoryId": "instant_potion_xp_01"
+    },
+    {
+      "nameId": "potion_damage_all_01",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "SardineCan",
+      "locaBaseId": "potion_damage_all_01",
+      "sortPriority": 5,
+      "skillNameId": "consumable_offensive_damage",
+      "skillParameters": {
+        "damage_percent_of_target": 100.0,
+        "all": 1.0
+      },
+      "consumableStatckingType": "DamagePotionAll",
+      "instantBuyOfferCategoryId": "instant_potion_damage_all_01"
+    },
+    {
+      "nameId": "potion_energy",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "EnergyDrink",
+      "locaBaseId": "potion_energy_01",
+      "sortPriority": 6,
+      "skillNameId": "consumable_increase_energy",
+      "skillParameters": {
+        "amount": 1.0
+      },
+      "consumableStatckingType": "EnergyPotion",
+      "instantBuyOfferCategoryId": ""
+    },
+    {
+      "nameId": "potion_purify_01",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PurifyPotion",
+      "locaBaseId": "potion_purify_01",
+      "sortPriority": 7,
+      "skillNameId": "consumable_cleanse",
+      "skillParameters": {
+        "cleanse_chance": 100.0
+      },
+      "consumableStatckingType": "PurifyPotion",
+      "conversionPoints": 1,
+      "instantBuyOfferCategoryId": "instant_potion_purify_01"
+    },
+    {
+      "nameId": "potion_purify_02",
+      "itemType": "INVENTORY_ITEM_TYPE_CONSUMABLE",
+      "assetBaseId": "PurifyPotion",
+      "locaBaseId": "potion_purify_02",
+      "sortPriority": 7,
+      "skillNameId": "consumable_cleanseall",
+      "skillParameters": {
+        "cleanse_chance": 100.0,
+        "all": 1.0
+      },
+      "consumableStatckingType": "PurifyPotion",
+      "conversionPoints": 2,
+      "instantBuyOfferCategoryId": "instant_potion_purify_01"
+    }
+  ]
+}

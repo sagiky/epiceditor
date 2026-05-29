@@ -1,0 +1,622 @@
+{
+  "loadingHintData": [
+    {
+      "nameId": "loading_screen_tip_01",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_011_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP",
+        "CHRONICLE_CAVE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_02",
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP",
+        "CHRONICLE_CAVE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_03",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_017_01_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_04",
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_05",
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_06",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_07",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_027_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_08",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_027_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_10",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_004_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_11",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_013_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "BATTLE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_13",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_027_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_14",
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_15",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_010_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_16",
+      "weight": 1.0,
+      "targetAreas": [
+        "BATTLE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_17",
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_18",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_027_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_19",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_010_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_20",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_010_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_21",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_010_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_22",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_012_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_23",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_24",
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_25",
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_26",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_047_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_27",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_047_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_28",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_028_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_29",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_047_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_30",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_006_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "BATTLE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_31",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_023_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_32",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_099_12_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_33",
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_34",
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_35",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_004_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "BATTLE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_36",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_027_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_37",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CHRONICLE_CAVE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_38",
+      "weight": 1.0,
+      "targetAreas": [
+        "CHRONICLE_CAVE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_39",
+      "weight": 1.0,
+      "targetAreas": [
+        "BATTLE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_40",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_025_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_41",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_018_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_42",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_010_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "BATTLE"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_43",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_44",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "CAMP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_45",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_46",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "WORLD_MAP"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_47",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "ARENA"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_48",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "ARENA"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_49",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "ARENA"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_50",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "ARENA"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_51",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_029_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "ARENA"
+      ]
+    },
+    {
+      "nameId": "loading_screen_tip_52",
+      "showRequirements": [
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_067_battleground",
+          "value": 1.0
+        }
+      ],
+      "weight": 1.0,
+      "targetAreas": [
+        "ARENA"
+      ]
+    }
+  ]
+}

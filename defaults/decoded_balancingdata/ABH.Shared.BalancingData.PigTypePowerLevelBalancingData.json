@@ -1,0 +1,164 @@
+{
+  "pigTypePowerLevelData": [
+    {
+      "nameId": "MinionPig",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "PigBrute",
+      "powerLevelWeight": 60.0
+    },
+    {
+      "nameId": "PigKnight",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "MoustachePig",
+      "powerLevelWeight": 80.0
+    },
+    {
+      "nameId": "PigMage",
+      "powerLevelWeight": 30.0
+    },
+    {
+      "nameId": "PigNinja",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "GhostPig",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "PigBomb",
+      "powerLevelWeight": 200.0
+    },
+    {
+      "nameId": "PigPirate",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "PigShaman",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "Pigmies",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "ZombiePig",
+      "powerLevelWeight": 50.0
+    },
+    {
+      "nameId": "PigDrone",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "PrincePorky",
+      "powerLevelWeight": 70.0
+    },
+    {
+      "nameId": "WizPig",
+      "powerLevelWeight": 70.0
+    },
+    {
+      "nameId": "PigKing",
+      "powerLevelWeight": 50.0
+    },
+    {
+      "nameId": "GoldenPig",
+      "powerLevelWeight": 50.0
+    },
+    {
+      "nameId": "KrakenBoss",
+      "powerLevelWeight": 22.0
+    },
+    {
+      "nameId": "KrakenBoss_hard",
+      "powerLevelWeight": 11.0
+    },
+    {
+      "nameId": "TinkerBoss",
+      "powerLevelWeight": 36.0
+    },
+    {
+      "nameId": "TinkerBoss_hard",
+      "powerLevelWeight": 14.0
+    },
+    {
+      "nameId": "HogriderBoss",
+      "powerLevelWeight": 85.0
+    },
+    {
+      "nameId": "HogriderBoss_hard",
+      "powerLevelWeight": 50.0
+    },
+    {
+      "nameId": "MinionPig_hard",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "PigBrute_hard",
+      "powerLevelWeight": 60.0
+    },
+    {
+      "nameId": "PigKnight_hard",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "MoustachePig_hard",
+      "powerLevelWeight": 80.0
+    },
+    {
+      "nameId": "PigMage_hard",
+      "powerLevelWeight": 30.0
+    },
+    {
+      "nameId": "PigNinja_hard",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "GhostPig_hard",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "PigBomb_hard",
+      "powerLevelWeight": 200.0
+    },
+    {
+      "nameId": "PigPirate_hard",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "PigShaman_hard",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "Pigmies_hard",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "ZombiePig_hard",
+      "powerLevelWeight": 50.0
+    },
+    {
+      "nameId": "PigDrone_hard",
+      "powerLevelWeight": 100.0
+    },
+    {
+      "nameId": "PrincePorky_hard",
+      "powerLevelWeight": 70.0
+    },
+    {
+      "nameId": "WizPig_hard",
+      "powerLevelWeight": 70.0
+    },
+    {
+      "nameId": "PigKing_hard",
+      "powerLevelWeight": 50.0
+    },
+    {
+      "nameId": "GoldenPig_hard",
+      "powerLevelWeight": 50.0
+    }
+  ]
+}

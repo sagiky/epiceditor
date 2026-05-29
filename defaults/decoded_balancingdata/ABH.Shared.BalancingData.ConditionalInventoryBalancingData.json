@@ -1,0 +1,369 @@
+{
+  "conditionalInventoryData": [
+    {
+      "nameId": "repair_addpremium_recipes",
+      "dropRequirements": [
+        {
+          "requirementType": "HAVE_ITEM",
+          "nameId": "story_cauldron",
+          "value": 1.0
+        },
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "recipe_potion_xp_01",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "recipe_potion_xp_01": 1,
+        "recipe_potion_damage_all_01": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "repair_airshipitem",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_airship",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_027_01_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_airship": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "repair_dailychain",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "daily_chain_introduction",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_003_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "daily_chain_introduction": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "repair_sponsoredrewards",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_sponsored_rewards",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_004_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_sponsored_rewards": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "repair_autobattle",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_autobattle",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_014_castle",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_autobattle": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "repair_redkey",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "key_red",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_ITEM_WITH_LEVEL",
+          "nameId": "chronicle_cave_progress",
+          "value": 2.0
+        }
+      ],
+      "content": {
+        "key_red": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "update_chronicle_cave_2021",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "chronicle_cave_update_2021",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_ITEM_WITH_LEVEL",
+          "nameId": "chronicle_cave_progress",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "chronicle_cave_update_2021": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_events",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_events",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_053_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_events": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "repair_recipe_potion_energy",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "recipe_potion_energy",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_053_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "recipe_potion_energy": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_pvp",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_pvp",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_053_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "loot_unlockpvp": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "repair_avenger",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "class_avenger",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_ITEM",
+          "nameId": "star_collection",
+          "value": 490.0
+        }
+      ],
+      "content": {
+        "class_avenger": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_goldenpigspawn",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_goldenpigspawn",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_043_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_goldenpigspawn": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_enchantment",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_enchantment",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_067_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_enchantment": 1,
+        "resource_flotsam": 25,
+        "shard": 5,
+        "gold": 15
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_news",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "news_introduction",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_004_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "news_introduction": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_xpromo",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_xpromo",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_004_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_xpromo": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_skins",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_skins",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_018_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_skins": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_bps",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "unlock_bps",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_007_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "unlock_bps": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_cauldron",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "story_cauldron",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_013_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "cauldron_leveled": 1
+      },
+      "initializingLevel": 1
+    },
+    {
+      "nameId": "unlock_fusion",
+      "dropRequirements": [
+        {
+          "requirementType": "NOT_HAVE_ITEM",
+          "nameId": "story_fusion",
+          "value": 1.0
+        },
+        {
+          "requirementType": "HAVE_UNLOCKED_HOTPSOT",
+          "nameId": "hotspot_081_05_battleground",
+          "value": 1.0
+        }
+      ],
+      "content": {
+        "story_fusion": 1
+      },
+      "initializingLevel": 1
+    }
+  ]
+}
